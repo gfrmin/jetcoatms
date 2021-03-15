@@ -25,6 +25,7 @@ class JetcoatmsSpider(scrapy.Spider):
         atms = root[1]
         for atm in atms:
             atmdict = {
+                'id': int(atm.attrib.get('id')),
                 'latitude': float(atm.find('latitude').text) if atm.find('latitude').text else None,
                 'longitude': float(atm.find('longitude').text) if atm.find('longitude').text else None,
                 'bank': atm.find('ob_name').text,

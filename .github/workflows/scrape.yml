@@ -29,7 +29,7 @@ jobs:
           pip install -r requirements.txt
       - name: Fetch latest data
         run: |-
-          scrapy crawl jetcoatms -o jetcoatms.jl
+          scrapy crawl jetcoatms -O jetcoatms.jl
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"

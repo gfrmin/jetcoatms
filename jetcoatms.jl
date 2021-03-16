@@ -8072,25 +8072,6 @@
   ]
 }
 {
-  "id": 1090,
-  "latitude": 22.290261308894596,
-  "longitude": 114.19709327976227,
-  "bank": "Fubon Bank (Hong Kong) Limited",
-  "address": "Shop 2,G/F, Tsing Wan Building, 334-336 King's Road, North Point, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1092,
   "latitude": 22.325467418586314,
   "longitude": 114.16795313358307,
@@ -63281,5 +63262,45 @@
   ],
   "currencies": [
     "HKD"
+  ]
+}
+{
+  "id": 426069,
+  "latitude": 22.146746,
+  "longitude": 113.565895,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "ATM23, Level 1, Shoppes at Londoner, The Londoner Macao, Estrada do Istmo, S/N, Cotai, Macau SAR, P. R. China",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 426070,
+  "latitude": 22.2902489,
+  "longitude": 114.197045,
+  "bank": "Fubon Bank (Hong Kong) Limited",
+  "address": "Shop 2, G/F, Tsing Wan Building, 334-336 King's Road, North Point, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }

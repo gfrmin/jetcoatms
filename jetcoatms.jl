@@ -28886,8 +28886,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -49840,10 +49840,10 @@
 }
 {
   "id": 264905,
-  "latitude": 22.197218,
-  "longitude": 113.555792,
+  "latitude": 22.146746,
+  "longitude": 113.565895,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Avenida do Dr. Rodrigo Rodrigues Nos. 1470-1526, Jai Alai Oceanus, 2 Andar, Macau",
+  "address": "ATM25, Level 1, Shoppes at Londoner, The Londoner Macao, Estrada do Istmo, S/N, Cotai, Macau SAR, P. R. China",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -49855,7 +49855,8 @@
   ],
   "currencies": [
     "HKD",
-    "MOP"
+    "MOP",
+    "RMB"
   ]
 }
 {

@@ -7492,25 +7492,6 @@
   ]
 }
 {
-  "id": 1023,
-  "latitude": 22.3373640409226,
-  "longitude": 114.18736696243286,
-  "bank": "Dah Sing Bank, Limited",
-  "address": "Shop Nos. 1101 and 1102, 1/F., Lok Fu Place, 198 Junction Road, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1024,
   "latitude": 22.3378751139554,
   "longitude": 114.13892090320587,
@@ -14838,29 +14819,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 1678,
-  "latitude": 22.371006509939036,
-  "longitude": 114.11153823137283,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Open area near Elevator No.30 Basement 1, Tsuen Wan Plaza, 4-30 Tai Pa Street, Tsuen Wan",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "FISC",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {

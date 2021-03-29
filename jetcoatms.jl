@@ -1297,27 +1297,6 @@
   ]
 }
 {
-  "id": 465,
-  "latitude": 22.28522475790321,
-  "longitude": 114.15463328361511,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "136 Des Voeux Road Central, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 466,
   "latitude": 22.287815804320218,
   "longitude": 114.15193498134613,
@@ -21262,8 +21241,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -34769,27 +34748,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 168270,
-  "latitude": 22.286912559712796,
-  "longitude": 114.14542182260129,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "ATM site at SYP ATM 1 at MTR Sai Ying Pun Station",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {
@@ -49569,23 +49527,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 264889,
-  "latitude": 22.152477,
-  "longitude": 113.565182,
-  "bank": "Luso International Banking Limited",
-  "address": "Avenida Wai Long,Taipa, Bloco H, Universidade de Ciencia e Tecnologia de Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {

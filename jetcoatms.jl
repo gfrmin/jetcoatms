@@ -29187,10 +29187,10 @@
 }
 {
   "id": 89200,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao, Estrada do lstmo. s/n, Taipa, Macao SAR, P.R. China ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -29255,10 +29255,10 @@
 }
 {
   "id": 89205,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao, Estrada do lstmo. s/n, Taipa, Macao SAR, P.R. China ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",

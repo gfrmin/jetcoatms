@@ -4263,25 +4263,6 @@
   ]
 }
 {
-  "id": 743,
-  "latitude": 22.2790795171295,
-  "longitude": 114.17377352714539,
-  "bank": "Dah Sing Bank, Limited",
-  "address": "G/F, Dah Sing Financial Centre, 108 Gloucester Road, Wanchai.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 744,
   "latitude": 22.2747518,
   "longitude": 114.1735347,

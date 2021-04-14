@@ -10967,10 +10967,10 @@
 }
 {
   "id": 1362,
-  "latitude": 22.359001134161193,
-  "longitude": 114.12747859954834,
+  "latitude": 22.3574957,
+  "longitude": 114.1269292,
   "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, 202 Hing Fong Road",
+  "address": "Shop 140-141, Level 1, Metroplaza, 223 Hing Fong Road, Kwai Chung, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "MPF",
@@ -34777,10 +34777,10 @@
 }
 {
   "id": 168278,
-  "latitude": 22.359072869459546,
-  "longitude": 114.12742200000002,
+  "latitude": 22.3574957,
+  "longitude": 114.1269292,
   "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, 202 Hing Fong Road, Kwai Chung",
+  "address": "Shop 140-141, Level 1, Metroplaza, 223 Hing Fong Road, Kwai Chung, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "MPF",
@@ -34790,8 +34790,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [

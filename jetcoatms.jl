@@ -63185,3 +63185,20 @@
     "RMB"
   ]
 }
+{
+  "id": 429344,
+  "latitude": 22.1955762,
+  "longitude": 113.5368597,
+  "bank": "Luso International Banking Limited",
+  "address": "Rua de Cinco de Outubro No.177-179A, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}

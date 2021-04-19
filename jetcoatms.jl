@@ -7694,29 +7694,6 @@
   ]
 }
 {
-  "id": 1052,
-  "latitude": 22.32454194537024,
-  "longitude": 114.17082041501999,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Near the main entrance of G/F, Mongkok City Building, 154-158 Prince Edward Road West.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "FISC",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1057,
   "latitude": 22.315887357214656,
   "longitude": 114.16993528604507,
@@ -14534,29 +14511,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 1655,
-  "latitude": 22.359318645025912,
-  "longitude": 114.10838395357132,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 308A-C, 3/F Maritime Square, Tsing Yi",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "FISC",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -26717,30 +26671,6 @@
   ]
 }
 {
-  "id": 68936,
-  "latitude": 22.296422498800272,
-  "longitude": 114.23956274986267,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "ATM no.3, G/F, Lei Yue Mun Plaza, Yau Mei Court, Yau Tong, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "FISC",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 68937,
   "latitude": 22.310934547582487,
   "longitude": 114.259073138237,
@@ -26762,29 +26692,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 68939,
-  "latitude": 22.38193943075911,
-  "longitude": 114.20540750026703,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "ATM no.3 at open space, 1/F, Yu Chui Shopping Centre, Yu Chui Court, 2,6,8 Ngau Pei Sha Street, Shatin, NT",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "FISC",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -50682,53 +50589,6 @@
     "HKD",
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 274867,
-  "latitude": 22.2779145,
-  "longitude": 114.1829242,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, The Sharp,  11 Sharp Street East, Causeway Bay, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 274868,
-  "latitude": 22.2779145,
-  "longitude": 114.1829242,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, The Sharp,  11 Sharp Street East, Causeway Bay, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {

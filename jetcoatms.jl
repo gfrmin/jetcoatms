@@ -41200,6 +41200,23 @@
   ]
 }
 {
+  "id": 196744,
+  "latitude": 22.3175648,
+  "longitude": 114.2352187,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "Sau Fai House, Sau Mau Ping Estate, Sau Mau Ping, Kowloon ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 196745,
   "latitude": 22.1915094,
   "longitude": 113.54064289999997,

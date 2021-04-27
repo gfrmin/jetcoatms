@@ -2269,24 +2269,6 @@
   ]
 }
 {
-  "id": 571,
-  "latitude": 22.269004808420025,
-  "longitude": 114.18491005897522,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "G/F, 18A-22 King Kwong Street, Happy Valley",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 572,
   "latitude": 22.26899736195162,
   "longitude": 114.18492078781128,
@@ -7935,24 +7917,6 @@
   ]
 }
 {
-  "id": 1087,
-  "latitude": 22.315048667340406,
-  "longitude": 114.17038857936859,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "G/F & 1/F, Wofoo Commercial Building, 574-576 Nathan Road, Mongkok, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1088,
   "latitude": 22.315038741986278,
   "longitude": 114.17040199041367,
@@ -8440,24 +8404,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 1124,
-  "latitude": 22.32376,
-  "longitude": 114.216373,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Shops G45-48, Amoy Plaza, 77 Ngau Tau Kok Road, Ngau Tau Kok, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {
@@ -9702,78 +9648,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 1249,
-  "latitude": 22.29898603976446,
-  "longitude": 114.17437702417374,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "G/F, 22-24 Cameron Road, Tsim Sha Tsui",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1250,
-  "latitude": 22.29899100301209,
-  "longitude": 114.17435020208359,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "G/F, 22-24 Cameron Road, Tsim Sha Tsui",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1251,
-  "latitude": 22.298315999715932,
-  "longitude": 114.16884362697601,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Shop A1 & 2, G/F Hanley House, 68 Canton Rd, Tsim Sha Tsui",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1252,
-  "latitude": 22.298328407894182,
-  "longitude": 114.16884362697601,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Shop A1 & 2, G/F Hanley House, 68-80 Canton Road, Tsimshatsui.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {
@@ -24166,23 +24040,6 @@
   ]
 }
 {
-  "id": 22680,
-  "latitude": 22.337110984649904,
-  "longitude": 114.14872169494629,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Unit G09,G09A1,G/F& M09A, M/F,Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 22681,
   "latitude": 22.186918204730087,
   "longitude": 113.55246663093567,
@@ -31327,24 +31184,6 @@
   ]
 }
 {
-  "id": 116579,
-  "latitude": 22.317438175809112,
-  "longitude": 114.16458696126938,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "UG/F, Olympian City 2, 18 Hoi Ting Road, West Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 116586,
   "latitude": 22.2028528,
   "longitude": 113.5514016,
@@ -33930,24 +33769,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 156029,
-  "latitude": 22.297564168385776,
-  "longitude": 114.17224006878655,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "MTR Tsim Sha Tsui Station, Concourse Level, ATM Site TST ATM 4",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {
@@ -54370,24 +54191,6 @@
   ]
 }
 {
-  "id": 312734,
-  "latitude": 22.362426,
-  "longitude": 114.13223600000003,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "Life @ KCC, Nos. 72-76 Kwai Cheong Road, Kwai Chung",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 312735,
   "latitude": 22.449116,
   "longitude": 114.16551000000004,
@@ -55941,24 +55744,6 @@
     "CIRRUS"
   ],
   "currencies": [
-    "RMB"
-  ]
-}
-{
-  "id": 333795,
-  "latitude": 22.3200957,
-  "longitude": 114.16894669999999,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "G/F., Punfet Building, 701 Nathan Road, Mongkok, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
     "RMB"
   ]
 }
@@ -63077,5 +62862,437 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 429345,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 429346,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 429347,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 429348,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 429349,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 429350,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 429351,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 429352,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 429353,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 429354,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 429355,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 429356,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 429357,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 429358,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 429359,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 429360,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 429361,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 429362,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 429363,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 429364,
+  "latitude": 22.193525,
+  "longitude": 113.5354785,
+  "bank": "Banco Comercial De Macau S.A.",
+  "address": "Praca Ponte e Horta, 29",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 429365,
+  "latitude": 22.193525,
+  "longitude": 113.5354785,
+  "bank": "Banco Comercial De Macau S.A.",
+  "address": "Praca Ponte e Horta, 29",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 429366,
+  "latitude": 22.193525,
+  "longitude": 113.5354785,
+  "bank": "Banco Comercial De Macau S.A.",
+  "address": "Praca Ponte e Horta, 29",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
   ]
 }

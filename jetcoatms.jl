@@ -2269,24 +2269,6 @@
   ]
 }
 {
-  "id": 572,
-  "latitude": 22.26899736195162,
-  "longitude": 114.18492078781128,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "G/F, 18A-22 King Kwong Street, Happy Valley",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 573,
   "latitude": 22.268550573121686,
   "longitude": 114.18559938669205,
@@ -7904,24 +7886,6 @@
   "longitude": 114.16909039020538,
   "bank": "DBS Bank (Hong Kong) Limited",
   "address": "G/F, 728-730 Nathan Road, Mongkok",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1088,
-  "latitude": 22.315038741986278,
-  "longitude": 114.17040199041367,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "G/F & 1/F, Wofoo Commercial Building, 574-576 Nathan Road, Mongkok, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -15566,10 +15530,10 @@
 }
 {
   "id": 1768,
-  "latitude": 22.392023346096106,
-  "longitude": 113.97552073001862,
+  "latitude": 22.393928881848638,
+  "longitude": 113.9761450371112,
   "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Shop No. 2A on G/F & Shop No. 1A on Level 2, South Wing, Trend Plaza, Tuen Mun",
+  "address": "Shop 23, G/F, Tuen Mun Town Plaza (II), 3 Tuen Lung Street, Tuen Mun",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -15584,10 +15548,10 @@
 }
 {
   "id": 1769,
-  "latitude": 22.39235,
-  "longitude": 113.975539,
+  "latitude": 22.393928881848638,
+  "longitude": 113.9761450371112,
   "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Shop No. 2A on G/F & Shop No. 1A on Level 2, South Wing, Trend Plaza, Tuen Mun",
+  "address": "Shop 23, G/F, Tuen Mun Town Plaza (II), 3 Tuen Lung Street, Tuen Mun",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17038,25 +17002,6 @@
   "longitude": 113.5398621,
   "bank": "Banco Comercial De Macau S.A.",
   "address": "Rua dos Mercadores, 40-42",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 1891,
-  "latitude": 22.1936076,
-  "longitude": 113.5355315,
-  "bank": "Banco Comercial De Macau S.A.",
-  "address": "Praca Ponte e Horta, 29",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -22409,24 +22354,6 @@
   ]
 }
 {
-  "id": 2417,
-  "latitude": 22.321589,
-  "longitude": 114.211174,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Shop 6, G/F, Chevalier Commercial Centre, 8 Wang Hoi Road, Kowloon Bay, Kowloon ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 2418,
   "latitude": 22.332948,
   "longitude": 114.171044,
@@ -24143,23 +24070,6 @@
   ]
 }
 {
-  "id": 25295,
-  "latitude": 22.3371205,
-  "longitude": 114.1487355,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Unit G09, G09A1, G/F & M09A, M/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 25300,
   "latitude": 22.352923638271147,
   "longitude": 114.10863876342773,
@@ -24639,10 +24549,10 @@
 }
 {
   "id": 30596,
-  "latitude": 22.32376,
-  "longitude": 114.216373,
+  "latitude": 22.324381072062597,
+  "longitude": 114.21633529233658,
   "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Shop G45-48, Amoy Plaza, 77 Ngau Tau Kok Road, Ngau Tau Kok, Kowloon",
+  "address": "Shop  G193-195, Amoy Plaza, 77 Ngau Tau Kok Road, Ngau Tau Kok, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49940,10 +49850,10 @@
 }
 {
   "id": 271518,
-  "latitude": 22.143661,
-  "longitude": 113.56195830000001,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "The Parisian Macao, level 1, Estrada do Istmo, Cotai, Macau",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -49954,7 +49864,8 @@
     "Discover"
   ],
   "currencies": [
-    "HKD"
+    "HKD",
+    "MOP"
   ]
 }
 {
@@ -49978,10 +49889,10 @@
 }
 {
   "id": 271520,
-  "latitude": 22.143661,
-  "longitude": 113.56195830000001,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "The Parisian Macao, level 1, Estrada do Istmo, Cotai, Macau",
+  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -49992,7 +49903,8 @@
     "Discover"
   ],
   "currencies": [
-    "HKD"
+    "HKD",
+    "MOP"
   ]
 }
 {

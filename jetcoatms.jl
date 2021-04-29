@@ -63208,3 +63208,24 @@
     "RMB"
   ]
 }
+{
+  "id": 429367,
+  "latitude": 22.4136093,
+  "longitude": 114.2113817,
+  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
+  "address": "G/F, CUHK Medical Centre, 9 Chak Cheung Street, Shatin, New Territories ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

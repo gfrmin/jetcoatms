@@ -1,1 +1,3 @@
-The official JETCO website for finding ATMs (https://www.jetco.com.hk/en/atm/atm-locator) is abysmal, so we scrape the data through an open JSON API every 20 minutes to not only get the raw data, but to see the changes over time.
+The official JETCO website for finding ATMs (https://www.jetco.com.hk/en/atm/atm-locator) is abysmal, so we scrape the data through an open JSON API every 20 minutes to not only get the raw data, but to see the changes over time. 
+
+This does not mean that the data is clean. You can see the current map of ATMs here [and feel free to compare it to the official ATM finder]: (https://publicdatamarket.com/jetcoatms/jetcoatms?_sort_desc=longitude&longitude__lt=290&latitude__notnull=1) Click "load all" to see all the ATMs. As can be seen, this does still not show _all_ ATMs in the dataset, as at the time of writing 7 ATMs have no location (latitude and longitude) information, and 1 ATM has a longitude of 113547978.0, which might be on the moon.

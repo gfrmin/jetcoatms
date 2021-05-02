@@ -1,1 +1,1 @@
-README here
+The official JETCO website for finding ATMs (https://www.jetco.com.hk/en/atm/atm-locator) is abysmal, so we scrape the data through an open JSON API every 20 minutes to not only get the raw data, but to see the changes over time.

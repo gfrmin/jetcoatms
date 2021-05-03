@@ -63229,3 +63229,254 @@
     "RMB"
   ]
 }
+{
+  "id": 432640,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 432641,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 432642,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 432643,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 432644,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 432645,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 432646,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 432647,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 432648,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 432649,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 432650,
+  "latitude": 22.144177,
+  "longitude": 113.573961,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}

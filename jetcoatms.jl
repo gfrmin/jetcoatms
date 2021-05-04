@@ -40274,29 +40274,6 @@
   ]
 }
 {
-  "id": 193400,
-  "latitude": 22.1391833,
-  "longitude": 113.55938330000004,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Local de Saida Edificio Lotus, Taipa Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 193401,
   "latitude": 22.1391833,
   "longitude": 113.55938330000004,

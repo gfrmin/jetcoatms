@@ -63457,3 +63457,21 @@
     "HKD"
   ]
 }
+{
+  "id": 432651,
+  "latitude": 22.24818302702513,
+  "longitude": 114.15447206758058,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop 7, G/F, Site 4, Aberdeen Centre",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

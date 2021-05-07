@@ -6402,10 +6402,10 @@
 }
 {
   "id": 937,
-  "latitude": 22.33722,
-  "longitude": 114.174587,
+  "latitude": 22.336842895977526,
+  "longitude": 114.1746996527786,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Unit G08 Festival Walk, Kowloon Tong",
+  "address": "Shop LG2-46, Level LG2, Festival Walk, 80 Tat Chee Avenue, Kowloon Tong , Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

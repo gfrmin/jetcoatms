@@ -63475,3 +63475,21 @@
     "RMB"
   ]
 }
+{
+  "id": 432652,
+  "latitude": 22.381831987071884,
+  "longitude": 114.18698876934624,
+  "bank": "Citibank (Hong Kong) Limited",
+  "address": "ATM Site No. SHT ATM 15, Concourse Level (Exit A), MTR Shatin Station, Shatin",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

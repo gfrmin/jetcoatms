@@ -61978,23 +61978,6 @@
   ]
 }
 {
-  "id": 412839,
-  "latitude": 22.2784312,
-  "longitude": 114.1654177,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Shop 2007-9, 2/F United Centre, 95 Queensway, Admiralty ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 412840,
   "latitude": 22.1866552,
   "longitude": 113.5514048,

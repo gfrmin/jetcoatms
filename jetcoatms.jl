@@ -19999,8 +19999,8 @@
     "Discover"
   ],
   "currencies": [
-    "MOP",
-    "RMB"
+    "HKD",
+    "MOP"
   ]
 }
 {
@@ -40595,7 +40595,8 @@
   ],
   "currencies": [
     "HKD",
-    "MOP"
+    "MOP",
+    "RMB"
   ]
 }
 {

@@ -9755,42 +9755,6 @@
   ]
 }
 {
-  "id": 1271,
-  "latitude": 22.30073061044425,
-  "longitude": 114.17897164821625,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop 1D on G/F, New Mandarin Plaza No.14 Science Museum Road, Tsim Sha Tsui",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1272,
-  "latitude": 22.300641273072415,
-  "longitude": 114.17890727519989,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop 100 on 1/F, New Mandarin Plaza No.14 Science Museum Road, Tsim Sha Tsui",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1274,
   "latitude": 22.29774770397107,
   "longitude": 114.17228490114212,
@@ -63475,5 +63439,25 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 432653,
+  "latitude": 22.194382,
+  "longitude": 113.5503151,
+  "bank": "Banco Nacional Ultramarino, S.A.",
+  "address": "GPTUI- Rodrigues  ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }

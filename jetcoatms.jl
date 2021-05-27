@@ -29610,27 +29610,6 @@
   ]
 }
 {
-  "id": 101254,
-  "latitude": 22.398609985045063,
-  "longitude": 113.96679282188416,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "ATM No.2, G/F, Shan King Shopping Center, Shan King Estate, Tuen Mun",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 101255,
   "latitude": 22.409343,
   "longitude": 113.966653,
@@ -37692,29 +37671,6 @@
   ]
 }
 {
-  "id": 193234,
-  "latitude": 22.164204218595582,
-  "longitude": 113.55714976455693,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "University of Macau, Hengqin Campus, Faculty of Education Building (E33) G/F",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 193235,
   "latitude": 22.163796840185153,
   "longitude": 113.55681717063908,
@@ -37738,57 +37694,11 @@
   ]
 }
 {
-  "id": 193236,
-  "latitude": 22.163791872148472,
-  "longitude": 113.55674206878666,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "University of Macau, Hengqin Campus, UM Guest House (N1) G/F",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 193237,
   "latitude": 22.163990593478715,
   "longitude": 113.55679571296696,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "University of Macau, Hengqin Campus, Research Building (N22) G/F",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 193238,
-  "latitude": 22.163752127848728,
-  "longitude": 113.55672061111454,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "University of Macau, Hengqin Campus, Research Building (N21) G/F",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",

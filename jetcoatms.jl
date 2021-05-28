@@ -63371,3 +63371,24 @@
     "MOP"
   ]
 }
+{
+  "id": 432654,
+  "latitude": 22.456223704660736,
+  "longitude": 113.99886477368008,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No.G30, Tin Shui Shopping Centre, Tin Shui Wai, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

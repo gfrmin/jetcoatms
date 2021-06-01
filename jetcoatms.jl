@@ -47876,24 +47876,6 @@
   ]
 }
 {
-  "id": 248444,
-  "latitude": 22.285625,
-  "longitude": 114.132957,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "Lower Ground Floor, The Westwood, 8 Belcher's Street, Sai Wan, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 248445,
   "latitude": 22.152798,
   "longitude": 113.571049,
@@ -63265,6 +63247,24 @@
     "CUP",
     "CIRRUS",
     "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 435923,
+  "latitude": 22.2771085,
+  "longitude": 114.1750309,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "G/F Prime Mansion Nos.183-187 Johnston Road, Wan Chai, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP",
+    "CIRRUS"
   ],
   "currencies": [
     "HKD",

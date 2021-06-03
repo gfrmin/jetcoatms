@@ -52680,25 +52680,6 @@
   ]
 }
 {
-  "id": 295298,
-  "latitude": 22.4839515,
-  "longitude": 114.14109480000002,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "1/F, Wah Ming Shopping Centre, 21 Wah Ming Road, Fanling,NT",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 295299,
   "latitude": 22.3047399,
   "longitude": 114.16056330000004,

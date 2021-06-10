@@ -63253,3 +63253,49 @@
     "RMB"
   ]
 }
+{
+  "id": 435924,
+  "latitude": 22.369005854005692,
+  "longitude": 114.11833085152054,
+  "bank": "The Bank of East Asia, Limited",
+  "address": "Shop 1, G/F, Kwong Yick Building, 315-323 Sha Tsui Road, Tsuen Wan",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 435925,
+  "latitude": 22.369005854005692,
+  "longitude": 114.11833085152054,
+  "bank": "The Bank of East Asia, Limited",
+  "address": "Shop 1, G/F, Kwong Yick Building, 315-323 Sha Tsui Road, Tsuen Wan",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}

@@ -13109,8 +13109,7 @@
     "CIRRUS"
   ],
   "currencies": [
-    "HKD",
-    "RMB"
+    "HKD"
   ]
 }
 {
@@ -14866,8 +14865,7 @@
     "CIRRUS"
   ],
   "currencies": [
-    "HKD",
-    "RMB"
+    "HKD"
   ]
 }
 {

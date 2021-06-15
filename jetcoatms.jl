@@ -10932,7 +10932,8 @@
     "FISC"
   ],
   "currencies": [
-    "HKD"
+    "HKD",
+    "RMB"
   ]
 }
 {
@@ -29771,28 +29772,6 @@
   "longitude": 114.190518,
   "bank": "Nanyang Commercial Bank Limited",
   "address": "Shop 7-8, Lucky Plaza, Shatin, N.T.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 101265,
-  "latitude": 22.315085887412085,
-  "longitude": 114.22333538532257,
-  "bank": "Nanyang Commercial Bank Limited",
-  "address": "G/F, Nanyang Plaza, 57 Hung To Road, Kwun Tong, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "MPF",

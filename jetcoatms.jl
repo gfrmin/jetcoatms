@@ -63276,3 +63276,67 @@
     "HKD"
   ]
 }
+{
+  "id": 435926,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Lisboeta Hotel, Rua da Patinagem, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 435927,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Lisboeta Hotel, Rua da Patinagem, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 435928,
+  "latitude": 22.297814,
+  "longitude": 114.17248,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "Shop B1, G/F Golden Crown Court, 66-70 Nathan Road, Tsimshatsui, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

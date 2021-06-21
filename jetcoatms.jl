@@ -16561,25 +16561,6 @@
   ]
 }
 {
-  "id": 1868,
-  "latitude": 22.288292313375564,
-  "longitude": 113.94047498703003,
-  "bank": "Dah Sing Bank, Limited",
-  "address": "Shop 23, G/F, Tung Chung Crescent, 1 Hing Tung Street, Tung Chung, Lantau Island",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1869,
   "latitude": 22.288828384121196,
   "longitude": 113.94015312194824,
@@ -20435,8 +20416,7 @@
   ],
   "currencies": [
     "HKD",
-    "MOP",
-    "RMB"
+    "MOP"
   ]
 }
 {
@@ -31040,7 +31020,8 @@
   ],
   "currencies": [
     "HKD",
-    "MOP"
+    "MOP",
+    "RMB"
   ]
 }
 {

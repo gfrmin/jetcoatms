@@ -24104,27 +24104,6 @@
   ]
 }
 {
-  "id": 27922,
-  "latitude": 22.147343764492867,
-  "longitude": 113.56498718261719,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 27934,
   "latitude": 22.1857611,
   "longitude": 113.5492948,
@@ -63309,6 +63288,24 @@
   "longitude": 114.17248,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
   "address": "Shop B1, G/F Golden Crown Court, 66-70 Nathan Road, Tsimshatsui, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 435929,
+  "latitude": 22.315526,
+  "longitude": 114.2148043,
+  "bank": "Citibank (Hong Kong) Limited",
+  "address": "22/F, Citi Tower, One Bay East, 83 Hoi Bun Road, Kowloon Bay, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

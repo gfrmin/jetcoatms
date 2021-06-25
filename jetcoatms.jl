@@ -26849,10 +26849,10 @@
 }
 {
   "id": 74597,
-  "latitude": 22.143368814353426,
-  "longitude": 113.5630989074707,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -26871,10 +26871,10 @@
 }
 {
   "id": 74598,
-  "latitude": 22.143766314417693,
-  "longitude": 113.56344223022461,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -26893,10 +26893,10 @@
 }
 {
   "id": 74599,
-  "latitude": 22.142971313166942,
-  "longitude": 113.56301307678223,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -26915,10 +26915,10 @@
 }
 {
   "id": 74601,
-  "latitude": 22.14249431026182,
-  "longitude": 113.56232643127441,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -26935,10 +26935,10 @@
 }
 {
   "id": 74602,
-  "latitude": 22.14360731452665,
-  "longitude": 113.56284141540527,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -26955,10 +26955,10 @@
 }
 {
   "id": 74603,
-  "latitude": 22.14392531412917,
-  "longitude": 113.56241226196289,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -26975,10 +26975,10 @@
 }
 {
   "id": 74604,
-  "latitude": 22.14448181170528,
-  "longitude": 113.55717658996582,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -26995,10 +26995,10 @@
 }
 {
   "id": 74605,
-  "latitude": 22.143368814353426,
-  "longitude": 113.56215476989746,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -27015,10 +27015,10 @@
 }
 {
   "id": 74606,
-  "latitude": 22.143845814295872,
-  "longitude": 113.56249809265137,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -27035,10 +27035,10 @@
 }
 {
   "id": 74607,
-  "latitude": 22.143845814295872,
-  "longitude": 113.56241226196289,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -27055,10 +27055,10 @@
 }
 {
   "id": 74608,
-  "latitude": 22.144362562409857,
-  "longitude": 113.56288433074951,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -27251,10 +27251,10 @@
 }
 {
   "id": 77458,
-  "latitude": 22.144561311179444,
-  "longitude": 113.56172561645508,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -27275,10 +27275,10 @@
 }
 {
   "id": 77459,
-  "latitude": 22.145972419375596,
-  "longitude": 113.55672597885132,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28140,10 +28140,10 @@
 }
 {
   "id": 89163,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28160,10 +28160,10 @@
 }
 {
   "id": 89164,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28248,10 +28248,10 @@
 }
 {
   "id": 89176,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28270,10 +28270,10 @@
 }
 {
   "id": 89177,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28290,10 +28290,10 @@
 }
 {
   "id": 89178,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28310,10 +28310,10 @@
 }
 {
   "id": 89179,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28330,10 +28330,10 @@
 }
 {
   "id": 89180,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28350,10 +28350,10 @@
 }
 {
   "id": 89181,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28370,10 +28370,10 @@
 }
 {
   "id": 89182,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": " The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28390,10 +28390,10 @@
 }
 {
   "id": 89183,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28410,10 +28410,10 @@
 }
 {
   "id": 89184,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28430,10 +28430,10 @@
 }
 {
   "id": 89185,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28450,10 +28450,10 @@
 }
 {
   "id": 89186,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28473,7 +28473,7 @@
   "latitude": 22.14082,
   "longitude": 113.5631,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28493,7 +28493,7 @@
   "latitude": 22.14082,
   "longitude": 113.5631,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28510,10 +28510,10 @@
 }
 {
   "id": 89189,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28530,10 +28530,10 @@
 }
 {
   "id": 89190,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28550,10 +28550,10 @@
 }
 {
   "id": 89191,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "PLUS",
@@ -28570,10 +28570,10 @@
 }
 {
   "id": 89193,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28592,10 +28592,10 @@
 }
 {
   "id": 89194,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28614,10 +28614,10 @@
 }
 {
   "id": 89195,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28636,10 +28636,10 @@
 }
 {
   "id": 89196,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28658,10 +28658,10 @@
 }
 {
   "id": 89197,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28680,10 +28680,10 @@
 }
 {
   "id": 89198,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28702,10 +28702,10 @@
 }
 {
   "id": 89199,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28727,7 +28727,7 @@
   "latitude": 22.141509,
   "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "The Londoner Macao, Estrada do lstmo. s/n, Taipa, Macao SAR, P.R. China ",
+  "address": " The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28770,10 +28770,10 @@
 }
 {
   "id": 89204,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Taipa, Macao SAR, P.R. China ",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -28795,7 +28795,7 @@
   "latitude": 22.141509,
   "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "The Londoner Macao, Estrada do lstmo. s/n, Taipa, Macao SAR, P.R. China ",
+  "address": " The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -35573,10 +35573,10 @@
 }
 {
   "id": 186910,
-  "latitude": 22.144596148164375,
-  "longitude": 113.56435115344243,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Cotai, Macau SAR",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -35595,10 +35595,10 @@
 }
 {
   "id": 186911,
-  "latitude": 22.14413902568798,
-  "longitude": 113.56424386508183,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Cotai, Macau SAR",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -35617,10 +35617,10 @@
 }
 {
   "id": 186912,
-  "latitude": 22.14421852535571,
-  "longitude": 113.56445844180303,
+  "latitude": 22.141509,
+  "longitude": 113.5639273,
   "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada da Baia de N. Senhora da Esperanca, s/n, Cotai, Macau SAR",
+  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -63284,10 +63284,10 @@
 }
 {
   "id": 435928,
-  "latitude": 22.297814,
-  "longitude": 114.17248,
+  "latitude": 22.297822568795336,
+  "longitude": 114.17225023677067,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop B1, G/F Golden Crown Court, 66-70 Nathan Road, Tsimshatsui, Kowloon",
+  "address": "M/F., 68 Nathan Road, TST, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

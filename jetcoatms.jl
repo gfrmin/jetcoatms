@@ -63318,3 +63318,21 @@
     "RMB"
   ]
 }
+{
+  "id": 435930,
+  "latitude": 22.3173544,
+  "longitude": 114.1695417,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "Shop B, G/F, 617 - 623 Nathan Road, Mongkok, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

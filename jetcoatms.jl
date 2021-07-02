@@ -10687,10 +10687,10 @@
 }
 {
   "id": 1357,
-  "latitude": 22.39706254971972,
-  "longitude": 114.19328391551971,
+  "latitude": 22.3972442,
+  "longitude": 114.1934135,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "18 Shan Mei Street, Shatin Galleria",
+  "address": "Shop B3 & B5, 1/F, Shatin Galleria, 18-24 Shan Mei Street, Fo Tan, Shatin, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -42061,10 +42061,10 @@
 }
 {
   "id": 206097,
-  "latitude": 22.397407835798305,
-  "longitude": 114.19354133498769,
+  "latitude": 22.3972442,
+  "longitude": 114.1934135,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop 8A & Shop 3, 1/F Shatin Galleria, 18-24 Shan Mei Street, Fo Tan, New Territories",
+  "address": "Shop B3 & B5, 1/F, Shatin Galleria, 18-24 Shan Mei Street, Fo Tan, Shatin, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

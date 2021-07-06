@@ -63336,3 +63336,66 @@
     "RMB"
   ]
 }
+{
+  "id": 439203,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua da Patinagem No.128, Hotel do Lisboeta, Level 1 at Cotai, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 439204,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua da Patinagem No.128, Hotel do Lisboeta, Level 1 at Cotai, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 439205,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua da Patinagem No.128, Hotel do Lisboeta, Level 1 at Cotai, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}

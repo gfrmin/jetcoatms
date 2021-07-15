@@ -25383,23 +25383,6 @@
   ]
 }
 {
-  "id": 41416,
-  "latitude": 22.307758304654534,
-  "longitude": 114.22355532646179,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Level 1 of Manulife Financial Centre, Nos. 223-231 Wai Yip Street, Kwun Tong, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 41420,
   "latitude": 22.290377021393216,
   "longitude": 114.19363796710968,
@@ -63397,5 +63380,22 @@
     "HKD",
     "MOP",
     "RMB"
+  ]
+}
+{
+  "id": 439206,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Luso International Banking Limited",
+  "address": "COTAI, R. da Patinagem, no. 128, piso L01 do Hotel do Lisboeta, Macau. Unit No. RA-01",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }

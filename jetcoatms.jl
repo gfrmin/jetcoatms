@@ -14295,53 +14295,6 @@
   ]
 }
 {
-  "id": 1656,
-  "latitude": 22.359293839515665,
-  "longitude": 114.10803258419037,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop Unit 173A, Maritime Square, 33 Tsing King Road, Tsing Yi",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "FISC",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1657,
-  "latitude": 22.35930872282234,
-  "longitude": 114.10828471183777,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop Unit 173A, Maritime Square, 33 Tsing King Road, Tsing Yi",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "FISC",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1664,
   "latitude": 22.35909043416505,
   "longitude": 114.10796284675598,
@@ -22625,27 +22578,6 @@
   ]
 }
 {
-  "id": 7315,
-  "latitude": 22.241407959239865,
-  "longitude": 114.15741205215454,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Phase II, Lei Tung Commercial Centre, Ap Lei Chau, Aberdeen",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 7320,
   "latitude": 22.3071208,
   "longitude": 114.25725290000003,
@@ -26612,29 +26544,6 @@
   "longitude": 114.23979878425598,
   "bank": "The Bank of East Asia, Limited",
   "address": "ATM no.2, 1/F, Kwong Tin Shopping Centre, Lam Tin, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "FISC",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 71761,
-  "latitude": 22.331383,
-  "longitude": 114.225617,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "ATM no.2, Podium Floor, Shun Lee Commercial Centre, Kwun Tong, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "MPF",
@@ -34190,6 +34099,27 @@
   ],
   "currencies": [
     "HKD"
+  ]
+}
+{
+  "id": 168269,
+  "latitude": 22.283904539377016,
+  "longitude": 114.12958606057737,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Unpaid Concourse of MTR Kennedy Town Station (Shop KET 1)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }
 {
@@ -44245,6 +44175,27 @@
   "longitude": 114.15345440898432,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "3/F, Wai Ming Block, Caritas Medical Centre, 111 Wing Hong Street, Sham Shui Po, KLN.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 222083,
+  "latitude": 22.38045418677699,
+  "longitude": 114.20250113890074,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "1/F, Main Clinical Block and Trauma Centre, Prince of Wales Hospital, 30-32 Ngan Shing Street, Shatin, NT.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "MPF",
@@ -63397,5 +63348,43 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 439207,
+  "latitude": 22.324104552365586,
+  "longitude": 114.20860170800398,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "G/F, CCB Centre",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "GBP",
+    "JPY",
+    "USD",
+    "EUR"
+  ]
+}
+{
+  "id": 439208,
+  "latitude": 22.324104552365586,
+  "longitude": 114.20860170800398,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "G/F, CCB Centre",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }

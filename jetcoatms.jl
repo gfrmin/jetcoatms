@@ -11927,29 +11927,6 @@
   ]
 }
 {
-  "id": 1455,
-  "latitude": 22.387440289757205,
-  "longitude": 114.19563889503479,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Open space near Shop 56, 2/F, Wo Che Shopping Centre, Wo Che Estate",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1457,
   "latitude": 22.376279,
   "longitude": 114.170575,
@@ -28828,27 +28805,6 @@
   ]
 }
 {
-  "id": 92191,
-  "latitude": 22.360291017546764,
-  "longitude": 114.12793457508087,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "G/F, Hang King Garden, 9 Wing Fong Road, Kwai Chung, New Territories, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 92195,
   "latitude": 22.375915021417548,
   "longitude": 114.1770538687706,
@@ -42900,27 +42856,6 @@
   "longitude": 114.21536990000004,
   "bank": "Industrial and Commercial Bank of China (Asia) Limited",
   "address": "5/F,Kwong Yuen Market, 68 Siu Lek Yuen Road, Sha Tin, New Territories ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 212448,
-  "latitude": 22.24116546436296,
-  "longitude": 114.15591732803341,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "2/F ,Lei Tung Commercial Centre Phase 1, 5 Lei Tung Estate Road, Ap Lei Chau, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -63386,5 +63321,46 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 439209,
+  "latitude": 22.2127984,
+  "longitude": 113.5418243,
+  "bank": "Banco Nacional Ultramarino, S.A.",
+  "address": "QingMao Port-Macau Frontier Post Building -Departure Hall 3F",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 439210,
+  "latitude": 22.2127984,
+  "longitude": 113.5418243,
+  "bank": "Banco Nacional Ultramarino, S.A.",
+  "address": "QingMao Port-Macau Frontier Post Building -Arrival Hall 2F",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }

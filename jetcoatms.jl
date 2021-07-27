@@ -17946,26 +17946,6 @@
   ]
 }
 {
-  "id": 2004,
-  "latitude": 22.163778991540998,
-  "longitude": 113.57369899749756,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Taipa Teminal, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 2005,
   "latitude": 22.2040544,
   "longitude": 113.5476887,
@@ -44484,26 +44464,6 @@
   ]
 }
 {
-  "id": 228544,
-  "latitude": 22.199288,
-  "longitude": 113.546312,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Rua de Afonso de Albuquerque no. 14E-14I R/C  Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 228545,
   "latitude": 22.310181,
   "longitude": 114.173553,
@@ -50288,10 +50248,10 @@
 }
 {
   "id": 278222,
-  "latitude": 22.376359428311417,
-  "longitude": 114.11152353167722,
+  "latitude": 22.3752582,
+  "longitude": 114.1134382,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop 2049 on Level 2 , Discovery Park, Tsuen Wan",
+  "address": "Part or portion of the first floor, CDW Building, 388 Castle Peak Road, Tsuen Wan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52433,26 +52393,6 @@
   "longitude": 113.54038300000002,
   "bank": "Banco Nacional Ultramarino, S.A.",
   "address": "GPTUI-TJB",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 295294,
-  "latitude": 22.1626327,
-  "longitude": 113.57787209999992,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Taipa Terminal",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",

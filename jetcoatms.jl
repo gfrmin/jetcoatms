@@ -47061,29 +47061,6 @@
   ]
 }
 {
-  "id": 241788,
-  "latitude": 22.143661,
-  "longitude": 113.562785,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estrada do Istmo, Lote 3, Cotai Strip, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 241790,
   "latitude": 22.371754,
   "longitude": 114.101965,

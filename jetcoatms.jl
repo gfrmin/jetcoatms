@@ -63281,3 +63281,22 @@
     "MOP"
   ]
 }
+{
+  "id": 439211,
+  "latitude": 22.18757745095756,
+  "longitude": 113.55258158091624,
+  "bank": "China Construction Bank Corporation Macau Branch",
+  "address": "MO - Subbranch - Carat",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}

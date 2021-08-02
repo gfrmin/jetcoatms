@@ -19947,8 +19947,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -20574,8 +20574,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -25626,10 +25626,10 @@
 }
 {
   "id": 44183,
-  "latitude": 22.44730447299539,
-  "longitude": 114.16684806346893,
+  "latitude": 22.4474938,
+  "longitude": 114.1690628,
   "bank": "China CITIC Bank International Limited",
-  "address": "Shop B, G/F., Fung Nin House, Nos. 28 - 32 Tai Wing Lane, Tai Po, New Territories",
+  "address": "Shop G & H, G/F, Tai Po Commercial Centre, 152-172 Kwong Fuk Road, Tai Po, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -41862,53 +41862,6 @@
   ]
 }
 {
-  "id": 206095,
-  "latitude": 22.1428869,
-  "longitude": 113.56392200000005,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Shop 2007, Level 2, Studio City, Estrada do Istmo,  Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 206096,
-  "latitude": 22.1428869,
-  "longitude": 113.56392200000005,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Shop 2007, Level 2, Studio City, Estrada do Istmo,  Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 206097,
   "latitude": 22.3972442,
   "longitude": 114.1934135,
@@ -41999,8 +41952,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [

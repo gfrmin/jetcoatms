@@ -63270,3 +63270,91 @@
     "MOP"
   ]
 }
+{
+  "id": 442481,
+  "latitude": 22.2127984,
+  "longitude": 113.5418243,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "QingMao Port-Macau Frontier Port Building, Avenida do Comendador Ho Yin, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 442482,
+  "latitude": 22.2127984,
+  "longitude": 113.5418243,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "QingMao Port-Macau Frontier Port Building, Avenida do Comendador Ho Yin, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 442483,
+  "latitude": 22.2127984,
+  "longitude": 113.5418243,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "QingMao Port-Macau Frontier Port Building, Avenida do Comendador Ho Yin, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 442484,
+  "latitude": 22.2127984,
+  "longitude": 113.5418243,
+  "bank": "Luso International Banking Limited",
+  "address": "Edificio Posto Fronteirico de Macau do Posto Fronteirico QingMao",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}

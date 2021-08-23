@@ -54124,42 +54124,6 @@
   ]
 }
 {
-  "id": 319779,
-  "latitude": 22.3042853,
-  "longitude": 114.1648136,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop No. WEK B2-2, B2 Level Arrival Concourse, Hong Kong West Kowloon Station, 3 Austin Road West, Tsim Sha Tsui",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 319780,
-  "latitude": 22.3042853,
-  "longitude": 114.1648136,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop No. WEK B2-2, B2 Level Arrival Concourse, Hong Kong West Kowloon Station, 3 Austin Road West, Tsim Sha Tsui",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 319781,
   "latitude": 22.3042853,
   "longitude": 114.1648136,

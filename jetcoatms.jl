@@ -19854,8 +19854,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [
@@ -21927,25 +21927,6 @@
   "longitude": 113.5388104,
   "bank": "Tai Fung Bank Limited",
   "address": "296, Avenida de Almeida Ribeiro, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 2379,
-  "latitude": 22.196762888809545,
-  "longitude": 113.55902194976807,
-  "bank": "Tai Fung Bank Limited",
-  "address": "Arrival Lobby of Macau Ferry Terminal, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -33195,25 +33176,6 @@
   ],
   "currencies": [
     "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 156022,
-  "latitude": 22.1939854,
-  "longitude": 113.54398679999997,
-  "bank": "Tai Fung Bank Limited",
-  "address": "No.162, Rua do Compo, Ed.da Adminstracao Publica.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
     "RMB"
   ]
 }
@@ -49889,7 +49851,7 @@
   "latitude": 22.1919549,
   "longitude": 113.54878259999998,
   "bank": "Tai Fung Bank Limited",
-  "address": "NO.230-246, RUA DE PEQUIM, MACAU",
+  "address": "2F NO.230-246, RUA DE PEQUIM, MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -57309,8 +57271,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [

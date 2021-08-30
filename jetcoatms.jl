@@ -1629,25 +1629,6 @@
   ]
 }
 {
-  "id": 500,
-  "latitude": 22.28308537112325,
-  "longitude": 114.15674418210983,
-  "bank": "Fubon Bank (Hong Kong) Limited",
-  "address": "38 Des Voeux Road, Central, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 502,
   "latitude": 22.2837971,
   "longitude": 114.15449050000007,
@@ -23817,29 +23798,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 25291,
-  "latitude": 22.492186,
-  "longitude": 114.139534,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 27B & 27C, level 2 of Fanling Town Centre, Fanling, N.T.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -51059,6 +51017,26 @@
   ]
 }
 {
+  "id": 288380,
+  "latitude": 22.459192741842703,
+  "longitude": 113.99618343313523,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "11, Tin Tan Street, Tin Shui Wai, NT.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 288383,
   "latitude": 22.1912478,
   "longitude": 113.54730619999998,
@@ -53955,11 +53933,49 @@
   ]
 }
 {
+  "id": 319767,
+  "latitude": 22.3274229,
+  "longitude": 114.2303449,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 106, UG/F, On Tai Shopping Centre, On Tai Estate, Kwun Tong, Kowloon ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 319768,
   "latitude": null,
   "longitude": null,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "50-52 Mong Kok Road, Mong Kok, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 319771,
+  "latitude": 22.308047,
+  "longitude": 113.9184808,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": " Unit No. 5T960 at Hong Kong Internation Airport, Chek Lap Kok, Hong Kong.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "MPF",
@@ -58288,6 +58304,25 @@
   ]
 }
 {
+  "id": 378868,
+  "latitude": 22.340017,
+  "longitude": 114.201698,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No. DIH 105, Unpaid Concourse, Diamond Hill Station, MTR",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 378874,
   "latitude": 22.3750894,
   "longitude": 114.1779617,
@@ -60759,6 +60794,26 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 406152,
+  "latitude": 22.2643377,
+  "longitude": 114.2401859,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "27 Gold Mine Building, 345 Chai Wan Road, Chai Wan, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }
 {

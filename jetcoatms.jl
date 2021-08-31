@@ -54102,69 +54102,6 @@
   ]
 }
 {
-  "id": 319781,
-  "latitude": 22.3042853,
-  "longitude": 114.1648136,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop No. L1-1, Hong Kong West Kowloon Station, 3 Austin Road West, Tsim Sha Tsui, Kowloon, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 319782,
-  "latitude": 22.3042853,
-  "longitude": 114.1648136,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop No. L1-1, Hong Kong West Kowloon Station, 3 Austin Road West, Tsim Sha Tsui, Kowloon, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 319783,
-  "latitude": 22.3042853,
-  "longitude": 114.1648136,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop No. L1-1, Hong Kong West Kowloon Station, 3 Austin Road West, Tsim Sha Tsui, Kowloon, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 323259,
   "latitude": 22.2028188,
   "longitude": 113.55072210000003,
@@ -58323,24 +58260,6 @@
   ]
 }
 {
-  "id": 378874,
-  "latitude": 22.3750894,
-  "longitude": 114.1779617,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "42 Tai Wai Road",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 378875,
   "latitude": 22.3259124,
   "longitude": 114.1682502,
@@ -59086,24 +59005,6 @@
   ]
 }
 {
-  "id": 382313,
-  "latitude": 22.32421593041715,
-  "longitude": 114.21603193848418,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "Shop 181, G/F, Phase IIA, Amoy Gardens Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 382314,
   "latitude": 22.280725514998256,
   "longitude": 114.15877301104508,
@@ -59282,24 +59183,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 385759,
-  "latitude": 22.375094,
-  "longitude": 114.177975,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "Shop 1 Ka Po House, 42-44 Tai Wai Road, Tai Wai, NT",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {
@@ -63337,5 +63220,44 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 442485,
+  "latitude": 22.192459,
+  "longitude": 113.542876,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida da Praia Grande Nos. 774 e 778, China Plaza, R/C Lojas H e I, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 442486,
+  "latitude": 22.3240785,
+  "longitude": 114.208422,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "G/F, CCB Centre",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }

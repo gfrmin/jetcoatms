@@ -42396,6 +42396,25 @@
   ]
 }
 {
+  "id": 209273,
+  "latitude": 22.28308537112325,
+  "longitude": 114.15674418210983,
+  "bank": "Fubon Bank (Hong Kong) Limited",
+  "address": "38 Des Voeux Road, Central, Hong Kong  ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 209274,
   "latitude": 22.203794767300785,
   "longitude": 113.54618601349182,
@@ -54610,6 +54629,25 @@
   ]
 }
 {
+  "id": 330267,
+  "latitude": 22.3785521,
+  "longitude": 114.13010919999999,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Site at Open Space of 4/F, Cheung Shan Commercial Centre, Cheung Shan Estate",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 330272,
   "latitude": 22.321107846470824,
   "longitude": 114.16915700367008,
@@ -55405,6 +55443,27 @@
     "PLUS",
     "CUP",
     "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 340821,
+  "latitude": 22.303808969768912,
+  "longitude": 114.25017125337297,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Site at Open Space, G/F, Shin Chi House, Shin Ming Estate, Tseung Kwan O",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
   ],
   "currencies": [
     "HKD",
@@ -58279,6 +58338,25 @@
   ]
 }
 {
+  "id": 378873,
+  "latitude": 22.2811609,
+  "longitude": 114.1663225,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "The area situated on the portion of the Ground Floor, Legislative Council Complex, 1 Legislative Council Road, Central, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 378875,
   "latitude": 22.3259124,
   "longitude": 114.1682502,
@@ -60592,23 +60670,6 @@
   ]
 }
 {
-  "id": 402802,
-  "latitude": 22.3288116,
-  "longitude": 114.1890272,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "37 Nga Tsin Wai Road, Kowloon City",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 402803,
   "latitude": 22.3211051,
   "longitude": 114.1694576,
@@ -60640,6 +60701,48 @@
   ],
   "currencies": [
     "HKD"
+  ]
+}
+{
+  "id": 402805,
+  "latitude": 22.2802975,
+  "longitude": 114.16586,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Area A on the First Floor of Central Government Offices,  No. 2 Tim Mei Avenue,  Tamar, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 402808,
+  "latitude": 22.2949071,
+  "longitude": 114.2697138,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop Unit 413, Level 4,The LOHAS, No.1 Lohas Park Road, Tseung Kwan O, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }
 {
@@ -61034,6 +61137,48 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 409499,
+  "latitude": 22.3236149,
+  "longitude": 114.1833397,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Kowloon West Regional Police Headquarters, No.190 Argyle Street, Ho Man Tin, KLN.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 409500,
+  "latitude": 22.278396,
+  "longitude": 114.167411,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Hong Kong Police Headquarters, Arsenal House, 1 Arsenal Street, Wanchai, H.K.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }

@@ -18868,44 +18868,6 @@
   ]
 }
 {
-  "id": 2078,
-  "latitude": 22.1970791,
-  "longitude": 113.5563732,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Avenida do Dr. Rodrigues no.1470-1526, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 2079,
-  "latitude": 22.1970791,
-  "longitude": 113.5563732,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Avenida do Dr. Rodrigues no.1470-1526, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 2080,
   "latitude": 22.2150823,
   "longitude": 113.5492207,
@@ -18964,25 +18926,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 2091,
-  "latitude": 22.1903147,
-  "longitude": 113.5406184,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "288 Avenida Commercial de Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -28935,27 +28878,6 @@
   "longitude": 114.166107,
   "bank": "Industrial and Commercial Bank of China (Asia) Limited",
   "address": "Nam Cheong Street Entrance,Shek Kip Mei Shopping Center",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 95199,
-  "latitude": 22.376914560651034,
-  "longitude": 114.19508099555969,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop STW 5A, MTR Sha Tin Wai Station",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -57567,8 +57489,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [

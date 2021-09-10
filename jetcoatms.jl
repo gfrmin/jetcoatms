@@ -19111,8 +19111,7 @@
   ],
   "currencies": [
     "HKD",
-    "MOP",
-    "RMB"
+    "MOP"
   ]
 }
 {
@@ -31413,29 +31412,6 @@
   "currencies": [
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 128610,
-  "latitude": 22.20482637292153,
-  "longitude": 113.54905217885971,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Av. Do Coronel Mesquita EDF Sunny View Graden No.20-22 G-H Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {

@@ -26774,8 +26774,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [
@@ -51078,6 +51078,25 @@
   ]
 }
 {
+  "id": 288389,
+  "latitude": 22.426923,
+  "longitude": 114.210701,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Unit S041B, G/F, Lakeside 2, No. 10 Science Park West Avenue, Hong Kong Science Park, Shatin, New Territories.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
   "id": 288390,
   "latitude": 22.300961,
   "longitude": 114.172201,
@@ -54902,6 +54921,27 @@
   ]
 }
 {
+  "id": 333799,
+  "latitude": 22.2924729,
+  "longitude": 114.20201429999997,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop  B, G/F, Kiu Wah Building, 188-194 Java Road, North Point, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 333800,
   "latitude": 22.341106,
   "longitude": 114.158186,
@@ -55341,6 +55381,27 @@
     "PLUS",
     "CUP",
     "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 340817,
+  "latitude": 22.4144578,
+  "longitude": 114.22568669999998,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Site at passage, G/F, Yan Hei House, Yan On Estate, Shatin",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
   ],
   "currencies": [
     "HKD",
@@ -56931,6 +56992,25 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 358369,
+  "latitude": 22.3264828,
+  "longitude": 114.22581489999993,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "ATM Space No.1 at Open Space, 2/F, Tin Yiu House, Shun Tin Estate, Kwun Tong, Kowloon ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }
 {

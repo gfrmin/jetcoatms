@@ -18725,47 +18725,6 @@
   ]
 }
 {
-  "id": 2067,
-  "latitude": 22.1926428,
-  "longitude": 113.5487075,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Alameda Dr Carlos Assumpao No.711 R/C",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 2068,
-  "latitude": 22.1926428,
-  "longitude": 113.5487075,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Alameda Dr Carlos Assumpao No.711 R/C",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 2071,
   "latitude": 22.1533084,
   "longitude": 113.5563946,
@@ -21271,8 +21230,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [
@@ -26774,8 +26733,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -34134,8 +34093,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [
@@ -34245,27 +34204,6 @@
   ],
   "currencies": [
     "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 171368,
-  "latitude": 22.19164896536279,
-  "longitude": 113.55007782474513,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Alameda Dr Carlos Assumpao No.711 R/C",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
     "RMB"
   ]
 }
@@ -44939,27 +44877,6 @@
   ],
   "currencies": [
     "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 231820,
-  "latitude": 22.128866,
-  "longitude": 113.558963,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Seac Pai Van Branch-Estrada de Seac Pai Van No. 970 rc, Edficio On Son. Coloane",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
     "RMB"
   ]
 }

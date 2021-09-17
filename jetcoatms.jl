@@ -21230,8 +21230,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -28644,27 +28644,6 @@
   ]
 }
 {
-  "id": 92195,
-  "latitude": 22.375915021417548,
-  "longitude": 114.1770538687706,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop No. 5, G/F, Kam Shan Building, Tai Wai Road, Tai Wai, New  Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 95182,
   "latitude": 22.268503411995273,
   "longitude": 114.18647110462189,
@@ -28852,53 +28831,11 @@
   ]
 }
 {
-  "id": 95200,
-  "latitude": 22.38275787711555,
-  "longitude": 114.20339584350586,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop CIO 7A, MTR City One Station",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 95201,
   "latitude": 22.287193,
   "longitude": 114.161241,
   "bank": "Industrial and Commercial Bank of China (Asia) Limited",
   "address": "ATM 1B, Upper Deck, Central Pier 7, Star Ferry",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 95202,
-  "latitude": 22.297457,
-  "longitude": 114.173642,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "B2/F, K11, 18 Hanoi Road, Tsim Sha Tsui",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -30855,8 +30792,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [
@@ -34115,8 +34052,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -41914,8 +41851,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [

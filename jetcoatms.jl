@@ -29786,8 +29786,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [
@@ -30051,29 +30051,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 110500,
-  "latitude": 22.1966485,
-  "longitude": 113.5457059,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "No.22-24, Avenida do Conselheiro Ferreira de Almeida, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {
@@ -30792,8 +30769,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -41851,8 +41828,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -45465,8 +45442,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [
@@ -54318,6 +54295,24 @@
   ]
 }
 {
+  "id": 330255,
+  "latitude": 22.416669691335294,
+  "longitude": 114.22878958542367,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 203, Commercial Centre, Heng On Estate, Ma On Shan, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
   "id": 330260,
   "latitude": 22.320571,
   "longitude": 114.168918,
@@ -55460,6 +55455,26 @@
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
     "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 344325,
+  "latitude": 22.3592713,
+  "longitude": 114.10822659999997,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 309A-B, Level 3, Maritime Square, Tsing Yi, New Territorie",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
     "CUP",
     "CIRRUS"
   ],
@@ -60969,6 +60984,27 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 409497,
+  "latitude": 22.3710322,
+  "longitude": 114.1228477,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "New Territories South Regional Police Headquarters, No.8 Shing Mun Road, Tsuen Wan, N.T.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }

@@ -63314,3 +63314,21 @@
     "RMB"
   ]
 }
+{
+  "id": 445749,
+  "latitude": 22.3700655,
+  "longitude": 114.1138278,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "G/F, Shop No. G21-22, Citywalk Phase 1, Tsuen Wan",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

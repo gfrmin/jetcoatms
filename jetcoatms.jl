@@ -58241,10 +58241,10 @@
 }
 {
   "id": 378877,
-  "latitude": 22.36965461596902,
-  "longitude": 114.11657345033188,
+  "latitude": 22.3700655,
+  "longitude": 114.1138278,
   "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "282 Sha Tsui Road",
+  "address": "G/F, Shop No. G21-22, Citywalk Phase 1, Tsuen Wan",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -63330,5 +63330,87 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 445750,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Lisboeta Hotel, Rua da Patinagem, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 445751,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua da Patinagem No.128, Hotel do Lisboeta, Level 1 at Cotai, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 445752,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua da Patinagem No.128, Hotel do Lisboeta, Level 1 at Cotai, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CIRRUS",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 445753,
+  "latitude": 22.1640142,
+  "longitude": 113.5579199,
+  "bank": "Luso International Banking Limited",
+  "address": "Administrative Building- GF, City University of Macau, Avenida Padre Tomas Pereira Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }

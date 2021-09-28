@@ -23654,8 +23654,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "FISC",
     "Diners Club",
+    "FISC",
     "Discover"
   ],
   "currencies": [
@@ -29786,8 +29786,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -30255,29 +30255,6 @@
   "longitude": 113.54039669036865,
   "bank": "Bank of China Limited, Macau Branch",
   "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 113558,
-  "latitude": 22.19548888052481,
-  "longitude": 113.54473918676376,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "No.338-342, Rua Do Campo, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",
@@ -54207,29 +54184,6 @@
     "HKD",
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 326758,
-  "latitude": 22.2016,
-  "longitude": 113.5762,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "FISC",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {

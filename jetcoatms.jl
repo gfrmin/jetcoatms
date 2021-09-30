@@ -25131,27 +25131,6 @@
   ]
 }
 {
-  "id": 41420,
-  "latitude": 22.290377021393216,
-  "longitude": 114.19363796710968,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop Unit 23, G/F, Maximall, City Garden, 233 Electric Road, North Point, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 41422,
   "latitude": 22.407753,
   "longitude": 114.222442,
@@ -28815,27 +28794,6 @@
   "longitude": 114.166107,
   "bank": "Industrial and Commercial Bank of China (Asia) Limited",
   "address": "Nam Cheong Street Entrance,Shek Kip Mei Shopping Center",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 95201,
-  "latitude": 22.287193,
-  "longitude": 114.161241,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "ATM 1B, Upper Deck, Central Pier 7, Star Ferry",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",

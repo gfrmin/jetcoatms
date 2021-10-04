@@ -14120,25 +14120,6 @@
   ]
 }
 {
-  "id": 1643,
-  "latitude": 22.308343929876685,
-  "longitude": 114.2611813545227,
-  "bank": "Dah Sing Bank, Limited",
-  "address": "Shop G10, G/F, The Edge, 9 Tong Chun Street, Tseung Kwan O.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "MPF",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1645,
   "latitude": 22.322889476588063,
   "longitude": 114.25696760416031,
@@ -23654,8 +23635,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -45377,8 +45358,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -63315,6 +63296,40 @@
   "longitude": 113.5579199,
   "bank": "Luso International Banking Limited",
   "address": "Administrative Building- GF, City University of Macau, Avenida Padre Tomas Pereira Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 449003,
+  "latitude": 22.1957661,
+  "longitude": 113.5562794,
+  "bank": "Luso International Banking Limited",
+  "address": "Legend Palace Hotel, Macau Fisherman's Wharf, Avendia da Amizade , Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 449004,
+  "latitude": 22.1905467,
+  "longitude": 113.5559971,
+  "bank": "Luso International Banking Limited",
+  "address": "Harbourview Hotel, Macau Fisherman's Wharf, Avenida Dr. Sun Yat-Sen, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Interbank Transfer",

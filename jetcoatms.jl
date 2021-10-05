@@ -25624,27 +25624,6 @@
   ]
 }
 {
-  "id": 46943,
-  "latitude": 22.385292550135116,
-  "longitude": 114.18764591217041,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Level 1 next to Customer Care Centre, HomeSquare, Shatin, NT",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Interbank Transfer",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "JCB",
-    "CUP",
-    "CIRRUS",
-    "Diners Club",
-    "Discover"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 46944,
   "latitude": 22.19270862153354,
   "longitude": 113.55263292789459,

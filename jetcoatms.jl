@@ -3753,24 +3753,6 @@
   ]
 }
 {
-  "id": 705,
-  "latitude": 22.288001,
-  "longitude": 114.151542,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Adjacent to lift L37, 3/F Shun Tak Centre, Sheung Wan, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "PLUS",
-    "CUP",
-    "CIRRUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 708,
   "latitude": 22.276771259186624,
   "longitude": 114.1705870628357,
@@ -25766,6 +25748,47 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 66138,
+  "latitude": 22.24449385343289,
+  "longitude": 114.1501834988594,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No.12 Ground Floor, Lei Chak House, Ap Lei Chau Estate, 322 Ap Lei Chau Bridge Road, Ap Lei Chau, Hong Kong.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 66139,
+  "latitude": 22.24449633602355,
+  "longitude": 114.1501459479332,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No.12 Ground Floor, Lei Chak House, Ap Lei Chau Estate, 322 Ap Lei Chau Bridge Road, Ap Lei Chau, Hong Kong.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }
 {
@@ -52142,6 +52165,27 @@
   ]
 }
 {
+  "id": 298767,
+  "latitude": 22.384997,
+  "longitude": 114.19879100000003,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "ATM at Belair Gardens Commercial Complex,Belair Gardens, 52 Tai Chung Kiu Road, Shatin, NT.(Nearby the Main Entrance)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 298770,
   "latitude": 22.2984371,
   "longitude": 114.17303379999998,
@@ -55109,6 +55153,27 @@
   ]
 }
 {
+  "id": 340816,
+  "latitude": 22.38674530031101,
+  "longitude": 113.96819724662703,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Site at Passage adjacent to Estate Office, G/F, Hong Lung House, Lung Yat Estate, Tuen Mun",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 340817,
   "latitude": 22.4144578,
   "longitude": 114.22568669999998,
@@ -55327,6 +55392,26 @@
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
     "PLUS",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 344324,
+  "latitude": 22.303139525141997,
+  "longitude": 114.16286602824175,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 1003-1004, 1/F, Elements, 1 Austin Road West, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
     "CUP",
     "CIRRUS"
   ],
@@ -56736,6 +56821,26 @@
   ]
 }
 {
+  "id": 358368,
+  "latitude": 22.3049429,
+  "longitude": 114.25189060000002,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No. L2-063 on Level 2 of the Commercial Development of Metro Town, Tseung Kwan O Town Lot No.73,  Sai Kung, N.T. ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 358369,
   "latitude": 22.3264828,
   "longitude": 114.22581489999993,
@@ -58043,6 +58148,25 @@
   "longitude": 114.201698,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "Shop No. DIH 105, Unpaid Concourse, Diamond Hill Station, MTR",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 378872,
+  "latitude": 22.3093594,
+  "longitude": 114.1827294,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No. HOM 203, Unpaid Concourse.  Ho Man Tin Station,MTR",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "MPF",

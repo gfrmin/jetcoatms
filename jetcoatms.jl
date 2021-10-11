@@ -52186,6 +52186,27 @@
   ]
 }
 {
+  "id": 298768,
+  "latitude": 22.342682,
+  "longitude": 114.208752,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "ATM at Fu Shan Estate,Diamond Hill, KLN.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 298770,
   "latitude": 22.2984371,
   "longitude": 114.17303379999998,
@@ -53148,6 +53169,26 @@
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "MPF",
     "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 312740,
+  "latitude": 22.302263,
+  "longitude": 114.162802,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop B1-14 Concourse Level, West Kowloon Station, 3 Austin Road West, Tsim Sha Tsui, KLN.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
     "Bill Payment, Credit Card Payment and Charity Donation",
     "JCB",
     "CUP",
@@ -54330,6 +54371,25 @@
   ]
 }
 {
+  "id": 330269,
+  "latitude": 22.2944676,
+  "longitude": 114.24013339999999,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Site at Space next to Lift No. 2, 1/F, Lift Tower of Phase I, Lei Yue Mun Estate",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 330272,
   "latitude": 22.321107846470824,
   "longitude": 114.16915700367008,
@@ -54683,6 +54743,26 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 333798,
+  "latitude": 22.2924729,
+  "longitude": 114.20201429999997,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop  B, G/F, Kiu Wah Building, 188-194 Java Road, North Point, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }
 {
@@ -55179,6 +55259,27 @@
   "longitude": 114.22568669999998,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "Site at passage, G/F, Yan Hei House, Yan On Estate, Shatin",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 340820,
+  "latitude": 22.370197,
+  "longitude": 114.18594299999995,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "ATM No. 2, 5 Floor, Sun Tin Wai Shopping Centre, Sun Tin Wai Estate, No. 29 Sha Tin Tau Road, Sha Tin, N T",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "MPF",
@@ -56818,6 +56919,25 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 358367,
+  "latitude": 22.3049429,
+  "longitude": 114.25189060000002,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No. L2-063 on Level 2 of the Commercial Development of Metro Town, Tseung Kwan O Town Lot No.73,  Sai Kung, N.T. ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }
 {
@@ -59904,6 +60024,27 @@
   ]
 }
 {
+  "id": 396046,
+  "latitude": 22.27778214502026,
+  "longitude": 113.93277036752852,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Site at passage, G/F, Wing C, Mun Wo House, Mun Tung Estate, Tung Chung",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 396047,
   "latitude": 22.27734779428798,
   "longitude": 113.93352205660494,
@@ -60980,6 +61121,27 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 409496,
+  "latitude": 22.4518018,
+  "longitude": 114.1732428,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "New Territories North Regional Police Headquarters, No.6 On Po Lane, Tai Po, N.T.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }

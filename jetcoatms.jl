@@ -29708,8 +29708,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -41847,8 +41847,8 @@
     "JCB",
     "CUP",
     "CIRRUS",
-    "Diners Club",
     "FISC",
+    "Diners Club",
     "Discover"
   ],
   "currencies": [
@@ -63850,6 +63850,53 @@
     "Interbank Transfer",
     "Bill Payment, Credit Card Payment and Charity Donation",
     "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 449006,
+  "latitude": 22.2058739,
+  "longitude": 113.5382355,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Bloco 2 R/C Waterfront Duet, Rua de Fai Chi Kei, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 449007,
+  "latitude": 22.2058739,
+  "longitude": 113.5382355,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Bloco 2 R/C Waterfront Duet, Rua de Fai Chi Kei, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Interbank Transfer",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC",
+    "Diners Club",
+    "Discover"
   ],
   "currencies": [
     "HKD",

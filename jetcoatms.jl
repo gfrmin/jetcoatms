@@ -61537,6 +61537,27 @@
   ]
 }
 {
+  "id": 409498,
+  "latitude": 22.3324147,
+  "longitude": 114.1983494,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Kowloon East Regional Police Headquarters, No.105 Concorde Road, Kai Tak, KLN.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "PLUS",
+    "JCB",
+    "CUP",
+    "CIRRUS",
+    "FISC"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 409499,
   "latitude": 22.3236149,
   "longitude": 114.1833397,

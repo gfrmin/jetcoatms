@@ -5426,10 +5426,10 @@
 }
 {
   "id": 855,
-  "latitude": 22.306626750658094,
-  "longitude": 114.18678492307663,
+  "latitude": 22.306395836620528,
+  "longitude": 114.18755139384844,
   "bank": "China CITIC Bank International Limited",
-  "address": "61-63 Wuhu Street, Hunghom",
+  "address": "Shop B1, G/F, Whampoa Estate, 9 Man Tai Street, Hung Hom, Kowloon ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

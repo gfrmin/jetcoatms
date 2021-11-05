@@ -43049,27 +43049,6 @@
   ]
 }
 {
-  "id": 215651,
-  "latitude": 22.2799946,
-  "longitude": 114.1754684,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop 101, 1/F, China Resources Building, 26 Harbour Road, Wanchai, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 215653,
   "latitude": 22.19574545976063,
   "longitude": 113.54676049325406,

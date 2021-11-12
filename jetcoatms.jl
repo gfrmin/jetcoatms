@@ -3013,29 +3013,6 @@
   ]
 }
 {
-  "id": 632,
-  "latitude": 22.28635648523375,
-  "longitude": 114.21881854534149,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop G1010 Yiu Sing Mansion",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 633,
   "latitude": 22.28468867333844,
   "longitude": 114.21620607376099,

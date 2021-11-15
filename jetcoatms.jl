@@ -14472,10 +14472,10 @@
 }
 {
   "id": 1686,
-  "latitude": 22.369508,
-  "longitude": 114.113671,
+  "latitude": 22.3700655,
+  "longitude": 114.1138278,
   "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop 65, G/F, Citywalk, 1 Yeung UK Road, Tsuen Wan.",
+  "address": "Shop 65 & 67-69, G/F, Citywalk, 1 Yeung Uk Road, Tsuen Wan, New Territories  ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -45399,6 +45399,27 @@
   ]
 }
 {
+  "id": 235083,
+  "latitude": 22.280175,
+  "longitude": 114.169709,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "1 Gloucester road, Wanchai, Hong Kong.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 235086,
   "latitude": 22.283873,
   "longitude": 114.156489,
@@ -48535,6 +48556,27 @@
   ]
 }
 {
+  "id": 261607,
+  "latitude": 22.28808,
+  "longitude": 114.140043,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "160 Connaught Road West ,Sai Ying Pun, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 261609,
   "latitude": 22.1855572,
   "longitude": 113.54799939999998,
@@ -49667,6 +49709,26 @@
     "Discover",
     "MPF",
     "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 274854,
+  "latitude": 22.3644772,
+  "longitude": 114.12691029999996,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "ATM no.3 at open space near shop 132, 1/F Kwai Shing East Shopping Centre, Kwai Chung, New Territories.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
     "CIRRUS",
     "CUP",
     "JCB",
@@ -51088,6 +51150,45 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 288378,
+  "latitude": 22.30080096517299,
+  "longitude": 114.17378130951579,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Apartments A-B on G/F & 1/F, Holly Mansion, 37 Kimberley Road, Tsim Sha Tsui, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 288379,
+  "latitude": 22.300798483581342,
+  "longitude": 114.17377829203065,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Apartments A-B on G/F & 1/F, Holly Mansion, 37 Kimberley Road, Tsim Sha Tsui, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }
 {
@@ -53466,6 +53567,27 @@
   ]
 }
 {
+  "id": 309233,
+  "latitude": 22.319884643681124,
+  "longitude": 114.13691075214957,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shaun Sham Shui Po District, Ngong Shuen Chau Barracks, Chi Ngong Road, Kowloon, ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 309237,
   "latitude": 22.323515,
   "longitude": 114.213274,
@@ -53598,6 +53720,26 @@
   "longitude": 114.162802,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "Shop B1-14 Concourse Level, West Kowloon Station, 3 Austin Road West, Tsim Sha Tsui, KLN.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 312742,
+  "latitude": 22.362209,
+  "longitude": 114.103353,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 114D, G/F, Cheung Fat Plaza, Cheung Fat Estate, Tsing Yi, N.T.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -54139,9 +54281,11 @@
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
     "MPF",
+    "FISC",
     "CIRRUS",
     "CUP",
-    "JCB"
+    "JCB",
+    "PLUS"
   ],
   "currencies": [
     "HKD",
@@ -54669,6 +54813,24 @@
   "longitude": 114.22878958542367,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "Shop 203, Commercial Centre, Heng On Estate, Ma On Shan, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 330257,
+  "latitude": 22.453567,
+  "longitude": 114.175055,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop G11, Fu Shin Shopping Centre, Tai Po, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

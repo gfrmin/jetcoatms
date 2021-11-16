@@ -56453,26 +56453,6 @@
   ]
 }
 {
-  "id": 354810,
-  "latitude": 22.189991411558264,
-  "longitude": 113.5401760821743,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "AIA TOWER, Nos 251A-301, Avenida Comerical De Macau, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 354811,
   "latitude": 22.305682332919,
   "longitude": 114.19004040856362,

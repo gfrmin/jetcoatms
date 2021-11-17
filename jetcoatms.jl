@@ -10380,30 +10380,6 @@
   ]
 }
 {
-  "id": 1334,
-  "latitude": 22.492186,
-  "longitude": 114.139534,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 27B & 27C, level 2 of Fanling Town Centre, Fanling, N.T.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1337,
   "latitude": 22.498792017716738,
   "longitude": 114.14318025112152,

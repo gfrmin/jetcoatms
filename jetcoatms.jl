@@ -64447,3 +64447,44 @@
     "RMB"
   ]
 }
+{
+  "id": 455009,
+  "latitude": 22.2771085,
+  "longitude": 114.1750309,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "B/F to 1/F, Nos. 183-187 Johnston Road, Wan Chai",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 464008,
+  "latitude": 22.19855,
+  "longitude": 113.558944,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "No.207, Av Da Amizade, Edif. do Grande Premio de Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}

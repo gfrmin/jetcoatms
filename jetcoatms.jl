@@ -25847,27 +25847,6 @@
   ]
 }
 {
-  "id": 66149,
-  "latitude": 22.392276302599903,
-  "longitude": 113.97589087486267,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop1, level 1, South Wing, Trend Plaza, Tuen Mun, NT",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 66151,
   "latitude": 22.335339,
   "longitude": 114.154595,
@@ -28719,47 +28698,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 98204,
-  "latitude": 22.287015,
-  "longitude": 114.192645,
-  "bank": "CMB Wing Lung Bank Limited",
-  "address": "G/F, Sing Pao Building, 101 King's Road, North Point, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 98205,
-  "latitude": 22.287015,
-  "longitude": 114.192645,
-  "bank": "CMB Wing Lung Bank Limited",
-  "address": "G/F, Sing Pao Building, 101 King's Road, North Point, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -42496,46 +42434,6 @@
     "Bill Payment, Credit Card Payment and Charity Donation",
     "MPF",
     "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 209281,
-  "latitude": 22.281224,
-  "longitude": 114.172973,
-  "bank": "CMB Wing Lung Bank Limited",
-  "address": "HK Convention & Exhibition Centre, New Extension, Wanchai, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 209282,
-  "latitude": 22.281224,
-  "longitude": 114.172973,
-  "bank": "CMB Wing Lung Bank Limited",
-  "address": "HK Convention & Exhibition Centre, New Extension, Wanchai, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
     "CIRRUS",
     "CUP",
     "JCB",

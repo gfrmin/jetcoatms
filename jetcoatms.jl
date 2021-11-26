@@ -64516,6 +64516,48 @@
   ]
 }
 {
+  "id": 458009,
+  "latitude": 22.2066583,
+  "longitude": 113.5429202,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua Sul do Patane Nos. 94 e 100-104, Trust Leisure Garden, R/C J & K, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 458012,
+  "latitude": 22.2066583,
+  "longitude": 113.5429202,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua Sul do Patane Nos. 94 e 100-104, Trust Leisure Garden, R/C J & K, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
   "id": 464008,
   "latitude": 22.19855,
   "longitude": 113.558944,
@@ -64536,5 +64578,26 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 467008,
+  "latitude": 22.2066583,
+  "longitude": 113.5429202,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua Sul do Patane Nos. 94 e 100-104, Trust Leisure Garden, R/C J & K, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
   ]
 }

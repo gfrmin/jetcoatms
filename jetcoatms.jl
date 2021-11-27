@@ -42754,27 +42754,6 @@
   ]
 }
 {
-  "id": 212467,
-  "latitude": 22.249403999282404,
-  "longitude": 114.15419172222903,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "G/F, Aberdeen Centre Shopping Arcade Site 2,7-11 Nam Ning Street,Aberdeen, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 212470,
   "latitude": 22.3124200797347,
   "longitude": 114.22522630132744,

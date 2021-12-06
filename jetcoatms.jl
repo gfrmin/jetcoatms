@@ -656,10 +656,10 @@
 }
 {
   "id": 407,
-  "latitude": 22.27969504614663,
-  "longitude": 114.18192476034164,
+  "latitude": 22.280332,
+  "longitude": 114.183762,
   "bank": "China CITIC Bank International Limited",
-  "address": "451-453 Hennessy Road, Hong Kong",
+  "address": "1/F - 2/F, Macau Yat Yuen Centre, 525 Hennessy Road, Causeway Bay, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -7787,10 +7787,10 @@
 }
 {
   "id": 1079,
-  "latitude": 22.315934502353855,
-  "longitude": 114.16992723941803,
+  "latitude": 22.3146331,
+  "longitude": 114.170164,
   "bank": "Chong Hing Bank Limited",
-  "address": "591 Nathan Road",
+  "address": "Shop No.2 of G/F & Whole of Upper Ground Floor, Ginza Square, No. 567 Nathan Road, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -9178,8 +9178,8 @@
 }
 {
   "id": 1202,
-  "latitude": 22.3173848,
-  "longitude": 114.1905251,
+  "latitude": 22.317332771447948,
+  "longitude": 114.1904094589302,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "80N To Kwa Wan Road, Kowloon",
   "tran": [
@@ -19007,45 +19007,6 @@
   ]
 }
 {
-  "id": 2105,
-  "latitude": 22.189474,
-  "longitude": 113.547861,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Star World Hotel, Avenida de Amizade, Macau.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 2109,
-  "latitude": 22.189474,
-  "longitude": 113.547861,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Star World Hotel, Avenida de Amizade, Macau.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 2113,
   "latitude": 22.1928115,
   "longitude": 113.542105,
@@ -28738,23 +28699,6 @@
   "id": 98219,
   "latitude": 22.357527675832298,
   "longitude": 114.12708699703217,
-  "bank": "China CITIC Bank International Limited",
-  "address": "Shop No. 165, Level 1, Metroplaza, Kwai Fong, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 98220,
-  "latitude": 22.357398685472354,
-  "longitude": 114.12712454795837,
   "bank": "China CITIC Bank International Limited",
   "address": "Shop No. 165, Level 1, Metroplaza, Kwai Fong, New Territories",
   "tran": [
@@ -52657,6 +52601,27 @@
   ]
 }
 {
+  "id": 298773,
+  "latitude": 22.3170651,
+  "longitude": 114.22637929999996,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "195-197 Hip Wo Street, Kwun Tong, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 302233,
   "latitude": 22.2109749,
   "longitude": 113.54901410000002,
@@ -52913,9 +52878,11 @@
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
     "MPF",
+    "FISC",
     "CIRRUS",
     "CUP",
-    "JCB"
+    "JCB",
+    "PLUS"
   ],
   "currencies": [
     "HKD",
@@ -53012,9 +52979,11 @@
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
     "MPF",
+    "FISC",
     "CIRRUS",
     "CUP",
-    "JCB"
+    "JCB",
+    "PLUS"
   ],
   "currencies": [
     "HKD",
@@ -53427,6 +53396,27 @@
   ]
 }
 {
+  "id": 309232,
+  "latitude": 22.440516,
+  "longitude": 114.079704,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "260 Kam Tin Road, Shek Kong,Yuen Long, NT",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 309233,
   "latitude": 22.319884643681124,
   "longitude": 114.13691075214957,
@@ -53453,6 +53443,48 @@
   "longitude": 114.18034880000005,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "200 Waterloo Road, Kowloon Tong, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 309235,
+  "latitude": 22.304553,
+  "longitude": 114.17662700000005,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "127 Austin Road, Tsim Sha Tsui, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 309236,
+  "latitude": 22.202112,
+  "longitude": 114.215043,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "South Stanley Camp, Stanley Peninsula, Southern District, Hong Kong Island, H.K.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -53593,6 +53625,26 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 312739,
+  "latitude": 22.302263,
+  "longitude": 114.162802,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop B1-14 Concourse Level, West Kowloon Station, 3 Austin Road West, Tsim Sha Tsui, KLN.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }
 {
@@ -54257,6 +54309,27 @@
   ]
 }
 {
+  "id": 319772,
+  "latitude": null,
+  "longitude": null,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Unit No. 6E185A at Hong Kong Internation Airport, Chek Lap Kok, Hong Kong.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 319773,
   "latitude": 22.12995205980116,
   "longitude": 113.54263598925786,
@@ -54461,6 +54534,27 @@
   ]
 }
 {
+  "id": 323267,
+  "latitude": null,
+  "longitude": null,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Unit No. 7T001 at Hong Kong Internation Airport, Chek Lap Kok, Hong Kong.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 323268,
   "latitude": 22.133182521213563,
   "longitude": 113.54505029095458,
@@ -54572,30 +54666,6 @@
 }
 {
   "id": 326753,
-  "latitude": 22.2016,
-  "longitude": 113.5762,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 326754,
   "latitude": 22.2016,
   "longitude": 113.5762,
   "bank": "Bank of China Limited, Macau Branch",
@@ -54753,6 +54823,26 @@
   ]
 }
 {
+  "id": 330253,
+  "latitude": 22.385008948889393,
+  "longitude": 114.19143503921737,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 2-3 on G/F & F2/F, Fook Hoi House, Lek Yuen Estate, 6 Lek Yuen Street, Sha Tin, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
   "id": 330255,
   "latitude": 22.416669691335294,
   "longitude": 114.22878958542367,
@@ -54810,6 +54900,46 @@
   ]
 }
 {
+  "id": 330258,
+  "latitude": 22.453567,
+  "longitude": 114.175055,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop G11, Fu Shin Shopping Centre, Tai Po, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 330259,
+  "latitude": 22.320571,
+  "longitude": 114.168918,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop B, 707-713 Nathan Road, Mong Kok, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
   "id": 330260,
   "latitude": 22.320571,
   "longitude": 114.168918,
@@ -54822,6 +54952,27 @@
     "CIRRUS",
     "CUP",
     "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 330261,
+  "latitude": 22.349027,
+  "longitude": 114.1059524,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 102, G/F, Commercial Centre, No.1, Cheung Hong Estate, 12 Ching Hong Road, Tsing Yi, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
   ],
   "currencies": [
     "HKD",
@@ -54878,6 +55029,27 @@
   "longitude": 114.16542244112179,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "207-211 Nam Cheong Street, Sham Shui Po, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 330265,
+  "latitude": 22.262820335468554,
+  "longitude": 114.24975262268447,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 19, Cheerful Garden, Siu Sai Wan, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -58426,6 +58598,27 @@
   ]
 }
 {
+  "id": 368645,
+  "latitude": 22.263242720635205,
+  "longitude": 114.23389418079478,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Site at Open Space adjacent to Shop No. 719, 7/F, On Hing House, Hing Wah (II) Estate, Chai Wan, H.K.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 368646,
   "latitude": 22.1955202,
   "longitude": 113.54470659999993,
@@ -58994,6 +59187,27 @@
   "longitude": 114.19896050926205,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "Shop No. KAT 6, Unpaid Concourse,  Kai Tak Station, MTR",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 378870,
+  "latitude": 22.3638822,
+  "longitude": 114.1707607,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No. HIK 2, Unpaid Concourse,  Hing Keng Station, MTR",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -62113,24 +62327,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 409504,
-  "latitude": 22.3154865,
-  "longitude": 114.2239251,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "22-24 Fu Yan Street, Kwun Tong ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {

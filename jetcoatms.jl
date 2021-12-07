@@ -64821,3 +64821,108 @@
     "RMB"
   ]
 }
+{
+  "id": 470008,
+  "latitude": 22.208255,
+  "longitude": 113.550206,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Panoramica do Lago Nam Van No. 810, R/C A, Macau(ICBC Tower Branch)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 470011,
+  "latitude": 22.208255,
+  "longitude": 113.550206,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Panoramica do Lago Nam Van No. 810, R/C A, Macau(ICBC Tower Branch)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 470014,
+  "latitude": 22.208255,
+  "longitude": 113.550206,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Panoramica do Lago Nam Van No. 810, R/C A, Macau(ICBC Tower Branch)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 473009,
+  "latitude": 22.208255,
+  "longitude": 113.550206,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Panoramica do Lago Nam Van No. 810, R/C A, Macau(ICBC Tower Branch)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 473012,
+  "latitude": 22.208255,
+  "longitude": 113.550206,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Panoramica do Lago Nam Van No. 810, R/C A, Macau(ICBC Tower Branch)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}

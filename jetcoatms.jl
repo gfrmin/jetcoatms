@@ -64885,6 +64885,24 @@
   ]
 }
 {
+  "id": 473008,
+  "latitude": 22.25036457627013,
+  "longitude": 114.13693241835061,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "Site near Shop No.20, G/F, Wah Fu Shopping Centre, Pok Fu Lam, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 473009,
   "latitude": 22.208255,
   "longitude": 113.550206,

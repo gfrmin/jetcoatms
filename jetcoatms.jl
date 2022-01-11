@@ -64011,6 +64011,27 @@
   ]
 }
 {
+  "id": 449010,
+  "latitude": 22.139760945636425,
+  "longitude": 113.54474120571288,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Hengqin Border gate - Departure Floor(2/F)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
   "id": 455009,
   "latitude": 22.2771085,
   "longitude": 114.1750309,
@@ -64356,6 +64377,27 @@
   ],
   "currencies": [
     "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 485009,
+  "latitude": 22.139760945636425,
+  "longitude": 113.54474120571288,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Hengqin Border gate - Arrival Floor(1/F)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
     "RMB"
   ]
 }

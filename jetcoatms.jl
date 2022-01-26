@@ -14515,27 +14515,6 @@
   ]
 }
 {
-  "id": 1710,
-  "latitude": 22.3748584287158,
-  "longitude": 114.11230266094208,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "G/F, 423-427, Castle Peak Road, Tsuen Wan",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1714,
   "latitude": 22.37221691186998,
   "longitude": 114.11814987659454,

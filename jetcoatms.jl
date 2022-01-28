@@ -23034,29 +23034,6 @@
   ]
 }
 {
-  "id": 20061,
-  "latitude": 22.190603833259246,
-  "longitude": 113.54345440864563,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Avenida de Lisboa Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 20062,
   "latitude": 22.190703175007922,
   "longitude": 113.54355096817017,

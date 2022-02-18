@@ -39173,29 +39173,6 @@
   ]
 }
 {
-  "id": 196725,
-  "latitude": 22.1926939,
-  "longitude": 113.55029059999993,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Rua de Luis Gonzaga Gomes No.68 R/C. B, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 196726,
   "latitude": 22.140209836146678,
   "longitude": 113.56311685242304,
@@ -63636,6 +63613,46 @@
   ]
 }
 {
+  "id": 452010,
+  "latitude": 22.1440777,
+  "longitude": 113.574116,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Shop 201, 2nd floor at Grand Lisboa Palace Resort Macau Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 452013,
+  "latitude": 22.1440777,
+  "longitude": 113.574116,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Shop 201, 2nd floor at Grand Lisboa Palace Resort Macau Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 455009,
   "latitude": 22.2771085,
   "longitude": 114.1750309,
@@ -64001,6 +64018,26 @@
   ],
   "currencies": [
     "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 506008,
+  "latitude": 22.1440777,
+  "longitude": 113.574116,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Shop 201, 2nd floor at Grand Lisboa Palace Resort Macau Rua do Tiro, Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
     "MOP",
     "RMB"
   ]

@@ -41984,74 +41984,6 @@
   ]
 }
 {
-  "id": 215661,
-  "latitude": 22.14905810857161,
-  "longitude": 113.55340113220223,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 215662,
-  "latitude": 22.14920716520314,
-  "longitude": 113.55344404754646,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 215663,
-  "latitude": 22.149187290994735,
-  "longitude": 113.55338503894814,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 215664,
-  "latitude": 22.149177353889456,
-  "longitude": 113.55339040336617,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 215667,
   "latitude": 22.2851089,
   "longitude": 114.21245490000001,
@@ -42992,40 +42924,6 @@
   ]
 }
 {
-  "id": 225313,
-  "latitude": 22.14876514487148,
-  "longitude": 113.55355242843643,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 225314,
-  "latitude": 22.14912766835263,
-  "longitude": 113.5533796745301,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 225318,
   "latitude": 22.1882571,
   "longitude": 113.54968589999999,
@@ -43504,40 +43402,6 @@
   ]
 }
 {
-  "id": 228560,
-  "latitude": 22.146948,
-  "longitude": 113.551872,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Broadway Macau, Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 228561,
-  "latitude": 22.146948,
-  "longitude": 113.551872,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Broadway Macau, Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 228562,
   "latitude": 22.33878,
   "longitude": 114.149385,
@@ -43558,108 +43422,6 @@
     "JPY",
     "EUR",
     "GBP"
-  ]
-}
-{
-  "id": 228563,
-  "latitude": 22.149512,
-  "longitude": 113.553415,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 228564,
-  "latitude": 22.149512,
-  "longitude": 113.553415,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 228565,
-  "latitude": 22.190101,
-  "longitude": 113.547778,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Star World Hotel, Avenida de Amizade, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 228566,
-  "latitude": 22.190101,
-  "longitude": 113.547778,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Star World Hotel, Avenida de Amizade, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 228567,
-  "latitude": 22.190101,
-  "longitude": 113.547778,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Star World Hotel, Avenida de Amizade, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 228568,
-  "latitude": 22.190101,
-  "longitude": 113.547778,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Star World Hotel, Avenida de Amizade, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -48564,23 +48326,6 @@
   ]
 }
 {
-  "id": 274870,
-  "latitude": 22.1455485,
-  "longitude": 113.55176359999996,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Broadway Macau, Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 278199,
   "latitude": 22.4647433,
   "longitude": 114.00303650000001,
@@ -51823,142 +51568,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 305726,
-  "latitude": 22.150522,
-  "longitude": 113.55238499999996,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 305727,
-  "latitude": 22.150522,
-  "longitude": 113.55238499999996,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 305728,
-  "latitude": 22.150522,
-  "longitude": 113.55238499999996,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 305729,
-  "latitude": 22.150522,
-  "longitude": 113.55238499999996,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 305730,
-  "latitude": 22.150522,
-  "longitude": 113.55238499999996,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 305731,
-  "latitude": 22.150522,
-  "longitude": 113.55238499999996,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 305732,
-  "latitude": 22.150522,
-  "longitude": 113.55238499999996,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 305733,
-  "latitude": 22.150522,
-  "longitude": 113.55238499999996,
-  "bank": "OCBC Wing Hang Bank Limited",
-  "address": "Galaxy Macau, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -63919,6 +63528,24 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 500009,
+  "latitude": 22.3045742009951,
+  "longitude": 114.18919027651289,
+  "bank": "Citibank (Hong Kong) Limited",
+  "address": "Shop G27A, G/F, Site 2 (Whampoa Fashion World), Whampoa Garden, Hung Hom, Kowloon, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }

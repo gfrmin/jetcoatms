@@ -32622,24 +32622,6 @@
   ]
 }
 {
-  "id": 165182,
-  "latitude": 22.285716420477172,
-  "longitude": 114.15523370615165,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "Shop B, G/F, China Insurance Group Building, 141 Des Voeux Road C., Central",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 165183,
   "latitude": 22.333141762445443,
   "longitude": 114.26491489496766,
@@ -41615,24 +41597,6 @@
   ]
 }
 {
-  "id": 212455,
-  "latitude": 22.2855454,
-  "longitude": 114.1551584,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "Shop B, G/F, China Insurance Group Building, 141 Des Voeux Road C., Central",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 212457,
   "latitude": 22.3159674,
   "longitude": 114.2659701,
@@ -46414,28 +46378,6 @@
   ]
 }
 {
-  "id": 251743,
-  "latitude": 22.192788,
-  "longitude": 113.549844,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Rua de Luis Gonzaga Gomes No.33 FL.1 Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 251747,
   "latitude": 22.297814,
   "longitude": 114.17248,
@@ -50827,24 +50769,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 295295,
-  "latitude": 22.2855,
-  "longitude": 114.155172,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "Shop B, G/F, China Insurance Group Building, 141 Des Voeux Road C., Central",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {

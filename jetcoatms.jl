@@ -63149,6 +63149,29 @@
   ]
 }
 {
+  "id": 461010,
+  "latitude": 22.191524,
+  "longitude": 113.548875,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "No.555 Avenida da Amizade,Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
   "id": 467008,
   "latitude": 22.2066583,
   "longitude": 113.5429202,

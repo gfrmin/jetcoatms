@@ -31501,27 +31501,6 @@
   ]
 }
 {
-  "id": 146887,
-  "latitude": 22.3176016,
-  "longitude": 114.16950480000003,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "G/F, Grand Plaza, 625 & 639 Nathan Road, Mongkok",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 146889,
   "latitude": 22.296931,
   "longitude": 114.23916099999997,

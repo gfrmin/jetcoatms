@@ -15191,24 +15191,6 @@
   ]
 }
 {
-  "id": 1782,
-  "latitude": 22.396467377700734,
-  "longitude": 113.9657199382782,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop No. 214, Shan King Shopping Centre, Shan King Estate, 1 Ming Kum Road, Tuen Mun",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1785,
   "latitude": 22.3825378,
   "longitude": 113.9760613,
@@ -63472,6 +63454,23 @@
     "CIRRUS",
     "CUP",
     "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 503009,
+  "latitude": 22.3590463,
+  "longitude": 114.127189,
+  "bank": "Public Bank (Hong Kong) Limited",
+  "address": "Shop 102, G/F, Wealthy Garden, No. 208 Hing Fong Road, Kwai Chung, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "JCB"
   ],
   "currencies": [
     "HKD",

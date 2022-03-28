@@ -33058,28 +33058,6 @@
   ]
 }
 {
-  "id": 171359,
-  "latitude": 22.18828328797579,
-  "longitude": 113.54497986955869,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Wynn Macau, Rua Cidadede Sintra, NAPE, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 171360,
   "latitude": 22.18827087004713,
   "longitude": 113.54509788675534,

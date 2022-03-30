@@ -10931,24 +10931,6 @@
   ]
 }
 {
-  "id": 1397,
-  "latitude": 22.371001549253723,
-  "longitude": 114.14169430732727,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "G/F, On Yam Shopping Centre, On Yam Estate, Kwai Chung, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1399,
   "latitude": 22.364398720424482,
   "longitude": 114.12741959095001,
@@ -63093,6 +63075,99 @@
   "longitude": 113.548875,
   "bank": "Bank of China Limited, Macau Branch",
   "address": "No.555 Avenida da Amizade,Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 464010,
+  "latitude": 22.1508189,
+  "longitude": 113.5546246,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Estrada da Baia de Nossa Senhora da Esperanca da Taipa Metro Ligeir de Pai Kok Estacao",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 464013,
+  "latitude": 22.163123,
+  "longitude": 113.57367,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Estrada de Pac On da Taipa Metro Ligeir de Terminal Maritimo Da Taipa Estacao",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 464016,
+  "latitude": 22.157187,
+  "longitude": 113.547256,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Largo do Jockey Clube da Estrada Governador Albano de Oliveira da Taipa Metro Ligeir Jockey Clube Estacao",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 464019,
+  "latitude": 22.154308,
+  "longitude": 113.551859,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Avenida do Estadio da Taipa Metro Ligeir de Estadio Estacao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

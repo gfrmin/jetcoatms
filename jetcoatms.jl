@@ -43398,30 +43398,6 @@
   ]
 }
 {
-  "id": 231813,
-  "latitude": 22.141568,
-  "longitude": 113.568914,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Avenida da Nave Desportiva, COTAI, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 231814,
   "latitude": 22.141558,
   "longitude": 113.568914,
@@ -63203,6 +63179,24 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 467010,
+  "latitude": 22.503742128398915,
+  "longitude": 114.15747075847474,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "Shop 10, G/F, Queens Hill Shopping Centre, Queens Hill Estate, Fanling, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }

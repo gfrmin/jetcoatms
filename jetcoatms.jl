@@ -42273,53 +42273,6 @@
   ]
 }
 {
-  "id": 222066,
-  "latitude": 22.2777138,
-  "longitude": 114.16543509999997,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Unit 355, Level 3, Pacific Place, 88 Queensway, Admiralty",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 222067,
-  "latitude": 22.2777138,
-  "longitude": 114.16543509999997,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Unit 355, Level 3, Pacific Place, 88 Queensway, Admiralty",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 222070,
   "latitude": 22.462089478068606,
   "longitude": 113.99784812905273,
@@ -63400,6 +63353,43 @@
     "JCB"
   ],
   "currencies": [
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 521008,
+  "latitude": 22.384044121745518,
+  "longitude": 113.96560622527007,
+  "bank": "Chong Hing Bank Limited",
+  "address": "Shop No. 82 Glorious Garden,45 Lung Mun Road",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 521011,
+  "latitude": 22.2116369,
+  "longitude": 113.5393721,
+  "bank": "Banco Nacional Ultramarino, S.A.",
+  "address": "14-17 Estr. Marginal da Ilha Verde, USJ, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
     "MOP",
     "RMB"
   ]

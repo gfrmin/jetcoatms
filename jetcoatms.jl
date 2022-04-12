@@ -16548,10 +16548,10 @@
 }
 {
   "id": 1895,
-  "latitude": 22.1893525,
-  "longitude": 113.5501315,
+  "latitude": 22.18921279930257,
+  "longitude": 113.54985858523274,
   "bank": "Banco Comercial De Macau S.A.",
-  "address": "Alameda Dr. Carlos D",
+  "address": "Alameda Dr. Carlos D'Assumpcao, No. 363, Edf. Hot Line, R/C O",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19345,52 +19345,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 2250,
-  "latitude": 22.19461470051257,
-  "longitude": 113.54015797376633,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Mercado De S. Domingos, Entrance Of Travessa Do Soriano, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 2251,
-  "latitude": 22.194609733565127,
-  "longitude": 113.5401713848114,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Mercado De S. Domingos, Entrance Of Travessa Do Soriano, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "MOP",
-    "RMB"
   ]
 }
 {
@@ -36894,29 +36848,6 @@
 }
 {
   "id": 193298,
-  "latitude": 22.1457488,
-  "longitude": 113.568286,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "MGM Cotai, Avenida da Nave Desportiva, S/N, Taipa (Gaming Area)",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 193299,
   "latitude": 22.1457488,
   "longitude": 113.568286,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",

@@ -16450,25 +16450,6 @@
   ]
 }
 {
-  "id": 1889,
-  "latitude": 22.2001833,
-  "longitude": 113.537216,
-  "bank": "Banco Comercial De Macau S.A.",
-  "address": "Rua Visconde de Paco d'Arcos, 402",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 1890,
   "latitude": 22.1950892,
   "longitude": 113.5398621,
@@ -16564,25 +16545,6 @@
     "HKD",
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 1896,
-  "latitude": 22.1893525,
-  "longitude": 113.5501315,
-  "bank": "Banco Comercial De Macau S.A.",
-  "address": "Alameda Dr. Carlos D' Assumpcao Nos. 315-363, Edificio",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {
@@ -63047,6 +63009,24 @@
   ]
 }
 {
+  "id": 473010,
+  "latitude": 22.383275835750176,
+  "longitude": 114.18932602880135,
+  "bank": "Citibank (Hong Kong) Limited",
+  "address": "Shop Nos. 1, 24 & 25, G/F, Shatin Plaza, Shatin, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 473012,
   "latitude": 22.208255,
   "longitude": 113.550206,
@@ -63064,6 +63044,42 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 473013,
+  "latitude": 22.383275835750176,
+  "longitude": 114.18932602880135,
+  "bank": "Citibank (Hong Kong) Limited",
+  "address": "Shop Nos. 1, 24 & 25, G/F, Shatin Plaza, Shatin, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 473016,
+  "latitude": 22.383275835750176,
+  "longitude": 114.18932602880135,
+  "bank": "Citibank (Hong Kong) Limited",
+  "address": "Shop Nos. 1, 24 & 25, G/F, Shatin Plaza, Shatin, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }

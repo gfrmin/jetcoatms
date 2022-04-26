@@ -26507,24 +26507,6 @@
   ]
 }
 {
-  "id": 77496,
-  "latitude": 22.382806,
-  "longitude": 114.188928,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "Shop 7, G/F., Shatin Plaza, Shatin",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 77499,
   "latitude": 22.31022486207135,
   "longitude": 114.22467648983002,
@@ -30513,24 +30495,6 @@
     "Bill Payment, Credit Card Payment and Charity Donation",
     "Interbank Transfer",
     "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 131666,
-  "latitude": 22.382735,
-  "longitude": 114.189049,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "Shop nos 7, 16B & 17, G/F, Shatin Plaza, Shatin",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
   ],
   "currencies": [
     "HKD",

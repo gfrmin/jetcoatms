@@ -13111,52 +13111,6 @@
   ]
 }
 {
-  "id": 1596,
-  "latitude": 22.46826639091367,
-  "longitude": 113.99874866008759,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Open space beside escalator opposite to Shop 5 on Ground Floor of Tin Chak Shopping Centre, Tin Shui Wai",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 1597,
-  "latitude": 22.4682969,
-  "longitude": 113.99881,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Open space beside escalator opposite to Shop 5 on Ground Floor of Tin Chak Shopping Centre, Tin Shui Wai",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1599,
   "latitude": 22.4572962,
   "longitude": 114.0043855,
@@ -43133,53 +43087,6 @@
   ]
 }
 {
-  "id": 231815,
-  "latitude": 22.305975,
-  "longitude": 114.19102,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 12G2, G/F, Site 12, Wonderful Worlds of Whampoa, Hung Hom",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 231816,
-  "latitude": 22.305975,
-  "longitude": 114.19102,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 12G2, G/F, Site 12, Wonderful Worlds of Whampoa, Hung Hom",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 231817,
   "latitude": 22.296212,
   "longitude": 114.238589,
@@ -63304,5 +63211,22 @@
     "HKD",
     "MOP",
     "RMB"
+  ]
+}
+{
+  "id": 524008,
+  "latitude": 22.1414877,
+  "longitude": 113.572905,
+  "bank": "Luso International Banking Limited",
+  "address": "Cotal, R. da Patinagem, no.128, piso L01 do Hotel do Lisboeta, Macau.Unit No.RA-05",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }

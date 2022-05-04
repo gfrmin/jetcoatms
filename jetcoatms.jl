@@ -47645,10 +47645,10 @@
 }
 {
   "id": 274863,
-  "latitude": 22.191943,
-  "longitude": 113.541698,
+  "latitude": 22.1470331,
+  "longitude": 113.559839,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua do Dr. Pedro Jose Lobo No. 22, Kam Lou IV, R/C M, Macau",
+  "address": "Estrada da Baia de Na.Senhora da Esperanca S/N, BOH Area - Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47666,10 +47666,10 @@
 }
 {
   "id": 274864,
-  "latitude": 22.191943,
-  "longitude": 113.541698,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua do Dr. Pedro Jose Lobo No. 22, Kam Lou IV, R/C M, Macau",
+  "address": "Estrada da Baia de Na.Senhora da Esperanca S/N, BOH Area - Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -63172,6 +63172,90 @@
     "JCB"
   ],
   "currencies": [
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 518009,
+  "latitude": 22.197085,
+  "longitude": 113.559097,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Shop Unit 1506, 1 Piso do Terminal do Porto Exterior, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 518012,
+  "latitude": 22.2099801,
+  "longitude": 113.5424846,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida do General Castelo Branco No.119, Mayfair Garden Fase 3, Bloco 5, R/C C - Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 518015,
+  "latitude": 22.1905467,
+  "longitude": 113.5559971,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Hotel Harbourview, Macau Fisherman's Wharf, Avenida Dr. Sun Yat-Sen, Macau ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 518018,
+  "latitude": 22.201605614408425,
+  "longitude": 113.54306207729813,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Estrada do Repouso No.74-C, Edificio Mei Hon, R/C C - Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
     "MOP",
     "RMB"
   ]

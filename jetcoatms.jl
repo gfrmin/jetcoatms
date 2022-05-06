@@ -57307,42 +57307,6 @@
   ]
 }
 {
-  "id": 382287,
-  "latitude": 22.3172556,
-  "longitude": 114.2265203,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "191 Hip Wo Street",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 382288,
-  "latitude": 22.3172556,
-  "longitude": 114.2265203,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "191 Hip Wo Street",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 382289,
   "latitude": 22.3224373,
   "longitude": 114.2568234,
@@ -63312,5 +63276,26 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 527008,
+  "latitude": 22.275423529928457,
+  "longitude": 114.19052743961002,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "G/F, main entrance of Ophthalmic Centre, Tung Wah Eastern Hospital, 19 Eastern Hospital Road, Causeway Bay, HK.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }

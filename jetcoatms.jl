@@ -29506,28 +29506,6 @@
   ]
 }
 {
-  "id": 119580,
-  "latitude": 22.37272785706696,
-  "longitude": 114.11825180053711,
-  "bank": "Nanyang Commercial Bank Limited",
-  "address": "Shops A&B, G/F, 21-25 Tsuen Wan Market Street, Tsuen Wan, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 119581,
   "latitude": 22.157101791043996,
   "longitude": 113.56040596961975,

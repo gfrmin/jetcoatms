@@ -31035,10 +31035,10 @@
 }
 {
   "id": 140846,
-  "latitude": 22.2786938,
-  "longitude": 114.18182330000002,
+  "latitude": 22.27841646210013,
+  "longitude": 114.1846072116394,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Whole of Third Floor, No. 8 Russell Street, Causeway Bay, Hong Kong",
+  "address": "49/F, Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -42582,10 +42582,10 @@
 }
 {
   "id": 225331,
-  "latitude": 22.337118,
-  "longitude": 114.14873699999998,
+  "latitude": 22.33700837171314,
+  "longitude": 114.14829480852892,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop 5, G/F and M/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road, Cheung Sha Wan Road, Kowloon",
+  "address": "Unit 1110, 11/F, Tower II, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

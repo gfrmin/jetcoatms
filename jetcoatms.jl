@@ -31454,48 +31454,6 @@
   ]
 }
 {
-  "id": 149942,
-  "latitude": 22.4427609,
-  "longitude": 114.02686100000005,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop 3-4, G/F, Ying Cheong Building, 21 Kau Yuk Road, Yuen Long, New Territories ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 149943,
-  "latitude": 22.4427609,
-  "longitude": 114.02686100000005,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop 3-4, G/F, Ying Cheong Building, 21 Kau Yuk Road, Yuen Long, New Territories ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 149944,
   "latitude": 22.2822479,
   "longitude": 114.15850180000007,
@@ -38526,42 +38484,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 193412,
-  "latitude": 22.27937563470916,
-  "longitude": 114.16460623809814,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "ATM Space, Lab Concept, Queensway Plaza, No.93 Queensway, Admiralty, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 193413,
-  "latitude": 22.279395490484152,
-  "longitude": 114.16459014484406,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "ATM Space, Lab Concept, Queensway Plaza, No.93 Queensway, Admiralty, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {

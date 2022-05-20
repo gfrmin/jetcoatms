@@ -62859,6 +62859,25 @@
   ]
 }
 {
+  "id": 476010,
+  "latitude": 22.200102362273373,
+  "longitude": 113.53712113252352,
+  "bank": "Banco Comercial De Macau S.A.",
+  "address": "Rua Visconde de Paco d'Arcos, 402",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
   "id": 476012,
   "latitude": 22.202699,
   "longitude": 113.5430407,
@@ -62877,6 +62896,25 @@
     "HKD",
     "MOP",
     "RMB"
+  ]
+}
+{
+  "id": 476013,
+  "latitude": 22.200102362273373,
+  "longitude": 113.53712113252352,
+  "bank": "Banco Comercial De Macau S.A.",
+  "address": "Rua Visconde de Paco d'Arcos, 402",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }
 {
@@ -63138,6 +63176,26 @@
   ],
   "currencies": [
     "HKD"
+  ]
+}
+{
+  "id": 521009,
+  "latitude": 22.200102362273373,
+  "longitude": 113.53712113252352,
+  "bank": "Banco Comercial De Macau S.A.",
+  "address": "Rua Visconde de Paco d'Arcos, 402",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
   ]
 }
 {

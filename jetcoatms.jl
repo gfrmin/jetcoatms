@@ -41507,24 +41507,6 @@
   ]
 }
 {
-  "id": 218855,
-  "latitude": 22.27668318678697,
-  "longitude": 114.17392100000006,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "Shop A & B, G/F, Hong Chiang Building, No. 141-147 Johnston Road, Wan Chai",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 222040,
   "latitude": 22.156529,
   "longitude": 113.55660569999998,
@@ -47988,24 +47970,6 @@
     "CIRRUS",
     "CUP",
     "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 278230,
-  "latitude": 22.276805805706232,
-  "longitude": 114.17394446319463,
-  "bank": "Citibank (Hong Kong) Limited",
-  "address": "Shops A & B, G/F, Hong Chiang Building, 141-147 Johnston Road, Wanchai",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
     "PLUS"
   ],
   "currencies": [

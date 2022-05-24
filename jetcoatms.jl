@@ -62925,6 +62925,24 @@
   ]
 }
 {
+  "id": 479010,
+  "latitude": 22.4152562,
+  "longitude": 113.9758875,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "Between Shop No G14 and G15, G/F, Hei Tin House, Yan Tin Estate, Tuen Mun",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 479012,
   "latitude": 22.4925329,
   "longitude": 114.1396157,

@@ -478,7 +478,7 @@
   "latitude": 22.278592,
   "longitude": 114.165303,
   "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "1/F United Centre, 95 Queensway, Admiralty",
+  "address": "Shops 1015-1018 on 1/F & Shops 2032-2034 on 2/F, United Centre, 95 Queensway, Admiralty",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -496,7 +496,7 @@
   "latitude": 22.278592,
   "longitude": 114.165303,
   "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "1/F United Centre, 95 Queensway, Admiralty",
+  "address": "Shops 1015-1018 on 1/F & Shops 2032-2034 on 2/F, United Centre, 95 Queensway, Admiralty",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -10021,7 +10021,7 @@
   "latitude": 22.30504355226667,
   "longitude": 114.170101583004,
   "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "G/F, 131-137 Woo Sung Street, Yaumati",
+  "address": "G/F & 1/F, 131-137 Woo Sung Street, Yaumati",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28551,7 +28551,7 @@
   "latitude": 22.2831148,
   "longitude": 114.1569609,
   "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "G/F, 39-41 Des Voeux Road Central, Central, Hong Kong",
+  "address": "G/F,1/F & Basement, 39-41 Des Voeux Rd C, Central",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47242,7 +47242,7 @@
   "latitude": 22.3158624,
   "longitude": 114.21436360000007,
   "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "Manulife Tower, One Bay East, 83 Hoi Bun Road, Kwun Tong",
+  "address": "1/F, Manulife Tower, One Bay East, 83 Hoi Bun Road, Kwun Tong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -53087,6 +53087,7 @@
     "CUP"
   ],
   "currencies": [
+    "HKD",
     "RMB"
   ]
 }

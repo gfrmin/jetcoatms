@@ -9081,25 +9081,6 @@
   ]
 }
 {
-  "id": 1206,
-  "latitude": 22.31531168896755,
-  "longitude": 114.18890923261642,
-  "bank": "Dah Sing Bank, Limited",
-  "address": "Ground Floor, Mei King Mansion, Phase II, No.245B and 247 To Kwa Wan Road, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1207,
   "latitude": 22.32308549117527,
   "longitude": 114.18941617012024,
@@ -63238,5 +63219,28 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 530008,
+  "latitude": 22.1482976,
+  "longitude": 113.5689891,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "Cotai East Station,Avenida do Aeroporto da Taipa",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }

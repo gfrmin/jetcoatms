@@ -3523,24 +3523,6 @@
   ]
 }
 {
-  "id": 685,
-  "latitude": 22.2828742,
-  "longitude": 114.2220997,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop Nos. G15 and G16 on G/F, Tai On Building, Nos. 57-87 Shau Kei Wan Road, Shau Kei Wan, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 688,
   "latitude": 22.28137284535499,
   "longitude": 114.22266483306885,

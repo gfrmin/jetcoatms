@@ -29788,27 +29788,6 @@
   ]
 }
 {
-  "id": 122592,
-  "latitude": 22.330988,
-  "longitude": 114.188216,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Kiosk K05, LG/F, Kowloon City Plaza, 128 Carpenter Road, Kowloon City, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 122594,
   "latitude": 22.338021488896402,
   "longitude": 114.138762652874,
@@ -30099,27 +30078,6 @@
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
     "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 128616,
-  "latitude": 22.423411236442583,
-  "longitude": 114.23822164535522,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "LG1/F, Kam Ying Court Shopping Centre, 9, Kam Ying Road, Ma On Shan, Sha Tin, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
     "CIRRUS",
     "CUP",
     "JCB"

@@ -63141,6 +63141,26 @@
   ]
 }
 {
+  "id": 524009,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
+  "bank": "Banco Nacional Ultramarino, S.A.",
+  "address": "Estada da Baia de Nossa Senhora de Esperance, Londoner-14 at 2/F",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
   "id": 527008,
   "latitude": 22.275423529928457,
   "longitude": 114.19052743961002,

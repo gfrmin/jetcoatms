@@ -23229,53 +23229,9 @@
   ]
 }
 {
-  "id": 27940,
-  "latitude": 22.148595850541387,
-  "longitude": 113.55616807937622,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Avenida de Cotai Cotai City, Galaxy Macau, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 27942,
   "latitude": 22.148317610159744,
   "longitude": 113.55631828308105,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Avenida de Cotai Cotai City, Galaxy Macau, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 27943,
-  "latitude": 22.14839710746777,
-  "longitude": 113.55653285980225,
   "bank": "Bank of China Limited, Macau Branch",
   "address": "Avenida de Cotai Cotai City, Galaxy Macau, Macau",
   "tran": [
@@ -34401,28 +34357,6 @@
   ]
 }
 {
-  "id": 190001,
-  "latitude": 22.1411042297787,
-  "longitude": 113.56292373337396,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Avenida De Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 190003,
   "latitude": 22.141124105128224,
   "longitude": 113.56292373337396,
@@ -38411,28 +38345,6 @@
   "id": 193417,
   "latitude": 22.140368839874217,
   "longitude": 113.56337434448847,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Avenida De Cotai Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 193418,
-  "latitude": 22.14038871532754,
-  "longitude": 113.56330997147211,
   "bank": "Bank of China Limited, Macau Branch",
   "address": "Avenida De Cotai Cotai City, Macau",
   "tran": [
@@ -46538,28 +46450,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 264900,
-  "latitude": 22.157717,
-  "longitude": 113.551371,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Hotel Taipa Square Casino, Rua De Chaves Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {

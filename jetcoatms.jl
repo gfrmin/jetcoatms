@@ -60561,25 +60561,6 @@
   ]
 }
 {
-  "id": 426070,
-  "latitude": 22.2902489,
-  "longitude": 114.197045,
-  "bank": "Fubon Bank (Hong Kong) Limited",
-  "address": "Shop 2, G/F, Tsing Wan Building, 334-336 King's Road, North Point, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 429344,
   "latitude": 22.1955762,
   "longitude": 113.5368597,

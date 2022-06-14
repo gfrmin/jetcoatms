@@ -14972,25 +14972,6 @@
   ]
 }
 {
-  "id": 1773,
-  "latitude": 22.3961375521097,
-  "longitude": 113.97511303424835,
-  "bank": "Fubon Bank (Hong Kong) Limited",
-  "address": "Shop11, G/F., Mei Hang Building, 15-45 Kai Man Path, Tuen Mun, NT",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1774,
   "latitude": 22.38828846416911,
   "longitude": 113.96833777427673,
@@ -36570,28 +36551,6 @@
   "longitude": 113.55099880304101,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Mocha Hotel Taipa Square, Rua de Chaves, Hotel Taipa Square, R/C, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 193305,
-  "latitude": 22.157593489460364,
-  "longitude": 113.55110072698358,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Taipa Square Hotel G/F, Rua de Chaves, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

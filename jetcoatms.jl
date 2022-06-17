@@ -62737,6 +62737,27 @@
   ]
 }
 {
+  "id": 482010,
+  "latitude": 22.2073375,
+  "longitude": 113.556226,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida do Nordeste No. 308, Kuong Wa San Chun, Bloco 13, R/C A, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
   "id": 485009,
   "latitude": 22.139760945636425,
   "longitude": 113.54474120571288,

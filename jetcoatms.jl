@@ -47339,10 +47339,10 @@
 }
 {
   "id": 274865,
-  "latitude": 22.191943,
-  "longitude": 113.541698,
+  "latitude": 22.2105044522477,
+  "longitude": 113.55601904610214,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua do Dr. Pedro Jose Lobo No. 22, Kam Lou IV, R/C M, Macau",
+  "address": "Rua Central da Areia Prete No. 235-419, Edificio Jardim Kong Fok Cheong, R/C Loja S, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -63053,5 +63053,27 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 545008,
+  "latitude": 22.19157987937621,
+  "longitude": 113.54902118039132,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "555 Avenida da aamizade, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }

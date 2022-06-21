@@ -57897,29 +57897,6 @@
   ]
 }
 {
-  "id": 392597,
-  "latitude": 22.2065358,
-  "longitude": 113.5455187,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "No.162-166 R/C, Centro Commercial Camoes, Avenida do Almirante Lacerda,Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 392598,
   "latitude": 22.2111522,
   "longitude": 113.5565714,
@@ -63075,5 +63052,26 @@
   ],
   "currencies": [
     "HKD"
+  ]
+}
+{
+  "id": 548008,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Shop No. L02-2033, Studio city Macau, Estrada do Istmo(Lotes G300, G310E G400), Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
   ]
 }

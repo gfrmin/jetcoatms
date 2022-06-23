@@ -63010,6 +63010,25 @@
   ]
 }
 {
+  "id": 527009,
+  "latitude": 22.286721,
+  "longitude": 114.217477,
+  "bank": "Fubon Bank (Hong Kong) Limited",
+  "address": "Shop 061 and 062, G/F, Cityplaza, 18 Taikoo Shing Road",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 530008,
   "latitude": 22.1482976,
   "longitude": 113.5689891,

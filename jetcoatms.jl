@@ -5051,29 +5051,6 @@
   ]
 }
 {
-  "id": 840,
-  "latitude": 22.3027647,
-  "longitude": 114.1905199,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shops 1-3, G/F, Site 9, Whampoa Garden",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 841,
   "latitude": 22.3045733,
   "longitude": 114.179327,
@@ -6098,29 +6075,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 929,
-  "latitude": 22.336068983394274,
-  "longitude": 114.18286085128784,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Unit G02, G/F, Hong Kong Baptist University",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -11341,29 +11295,6 @@
   ]
 }
 {
-  "id": 1439,
-  "latitude": 22.337324345851368,
-  "longitude": 114.26328957080841,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, Entrance Piazza, The Hong Kong University of Science and Technology, Clear Water Bay, Sai Kung",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1441,
   "latitude": 22.3373640409226,
   "longitude": 114.26373481750488,
@@ -12418,29 +12349,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 1543,
-  "latitude": 22.46688827905193,
-  "longitude": 114.19378280639648,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Room C-P-12, Podium, Central Facilities Building, The Hong Kong Institute of Education",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -14565,29 +14473,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 1733,
-  "latitude": 22.409907724766068,
-  "longitude": 113.98265272378922,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop MBG, 14 Main Building, Lingnan College, 8 Castle Peak Road",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -44163,29 +44048,6 @@
   ]
 }
 {
-  "id": 238432,
-  "latitude": 22.337551,
-  "longitude": 114.263008,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, Entrance Piazza, The Hong Kong University of Science and Technology, Clear Water Bay, Sai Kung",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 238433,
   "latitude": 22.198079,
   "longitude": 113.559521,
@@ -63079,6 +62941,27 @@
   "longitude": 113.5617742,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Shop No. L02-2033, Studio city Macau, Estrada do Istmo(Lotes G300, G310E G400), Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 551008,
+  "latitude": 22.210283295102418,
+  "longitude": 113.5488161318771,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Estrada da Areia Preta No.38B, Novo Macau Centro, G/F G, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

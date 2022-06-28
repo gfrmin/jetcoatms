@@ -14522,26 +14522,6 @@
   ]
 }
 {
-  "id": 1741,
-  "latitude": 22.389111833212137,
-  "longitude": 113.97861063480377,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop G & H, 6 Tsing Hoi Circuit, Tuen Mun.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1743,
   "latitude": 22.412099717122626,
   "longitude": 113.9782726764679,
@@ -25939,28 +25919,6 @@
     "Interbank Transfer",
     "FISC",
     "MPF",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 77463,
-  "latitude": 22.3350955,
-  "longitude": 114.1945836,
-  "bank": "Nanyang Commercial Bank Limited",
-  "address": "41-45 Yin Hing Street, San Po Kong, Kowloon.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "FISC",
     "CIRRUS",
     "CUP",
     "JCB",
@@ -62962,6 +62920,27 @@
   "longitude": 113.5488161318771,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Estrada da Areia Preta No.38B, Novo Macau Centro, G/F G, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 554008,
+  "latitude": 22.1983184,
+  "longitude": 113.5437612,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua do Almirante Costa Cabral Nos. 133-135, Edf. Si San R/C C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

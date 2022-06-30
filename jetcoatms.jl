@@ -62576,6 +62576,23 @@
   ]
 }
 {
+  "id": 488010,
+  "latitude": 22.300266479407306,
+  "longitude": 114.17778833651685,
+  "bank": "OCBC Wing Hang Bank Limited",
+  "address": "Shop G3-5, G/F., East Ocean Centre, 98 Granville Road, Tsimshatsui, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
   "id": 500009,
   "latitude": 22.3045742009951,
   "longitude": 114.18919027651289,

@@ -47444,23 +47444,6 @@
   ]
 }
 {
-  "id": 278217,
-  "latitude": 22.199265,
-  "longitude": 113.54427399999997,
-  "bank": "Luso International Banking Limited",
-  "address": "Rua de Francisco Xavier Pereira 4E-6G EDF Kong Lei 1 Andar Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 278219,
   "latitude": 22.192392,
   "longitude": 113.54038300000002,

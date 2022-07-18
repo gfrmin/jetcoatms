@@ -2733,27 +2733,6 @@
   ]
 }
 {
-  "id": 612,
-  "latitude": 22.285420825355626,
-  "longitude": 114.1915699839592,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "113-115 Electric Road, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 614,
   "latitude": 22.29091060237624,
   "longitude": 114.19971585273743,

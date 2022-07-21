@@ -9514,30 +9514,6 @@
   ]
 }
 {
-  "id": 1280,
-  "latitude": 22.340722,
-  "longitude": 114.20229549999999,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, 1 Yuk Wah CrescentShop 102A, Level 1, Plaza Hollywood, 3 Lung Poon Street, Diamond Hill",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1286,
   "latitude": 22.345082,
   "longitude": 114.193767,
@@ -24162,53 +24138,6 @@
   ]
 }
 {
-  "id": 41424,
-  "latitude": 22.30418494500646,
-  "longitude": 114.16141390800476,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 1002, 1/F, Elements, 1 Austin Road West, Tsim Sha Tsui",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 41425,
-  "latitude": 22.30429413234982,
-  "longitude": 114.16144609451294,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 1002, 1/F, Elements, 1 Austin Road West, Tsim Sha Tsui",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 41428,
   "latitude": 22.3306173,
   "longitude": 114.162636,
@@ -27899,29 +27828,6 @@
   "longitude": 114.20929670333862,
   "bank": "The Bank of East Asia, Limited",
   "address": "G/F., Staff Student Centre - Leung Hung Kee Building, New Asia College of Chinese University, Shatin",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 101258,
-  "latitude": 22.320729,
-  "longitude": 114.256992,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 243, Level 2, Metro City Plaza I, 1 Wan Hang Road, Tseung Kwan O",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -41552,29 +41458,6 @@
   "address": "Shop Nos. A11-A14 & 110-112, Ground Floor, Flora Plaza, No. 88 Pak Wo Road, Fanling, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 222064,
-  "latitude": 22.340722,
-  "longitude": 114.20229549999999,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 102A, Level 1, Plaza Hollywood, 3 Lung Poon Street, Diamond Hill",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
   ],
   "currencies": [
     "HKD"

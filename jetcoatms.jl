@@ -27847,10 +27847,10 @@
 }
 {
   "id": 101259,
-  "latitude": 22.32361894720182,
-  "longitude": 114.21066999435425,
+  "latitude": 22.3269115,
+  "longitude": 114.1990234,
   "bank": "Nanyang Commercial Bank Limited",
-  "address": "Shop 2, G/F, Shun Fat Industrial Building, 17 Wang Hoi Road, Kowloon Bay, Kowloon",
+  "address": "Shop Nos. 1 - 3, G/F, K. Summit, 9 Muk Tai Street, Kai Tak, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -61828,6 +61828,27 @@
   ]
 }
 {
+  "id": 461008,
+  "latitude": 22.458273370523955,
+  "longitude": 114.0026732276127,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop G65, G/F,Kingswood(Phase 1), 12-18 Tin Yan Road, Tin Shui Wai, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 461010,
   "latitude": 22.191524,
   "longitude": 113.548875,
@@ -61848,6 +61869,26 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 461026,
+  "latitude": 22.458273370523955,
+  "longitude": 114.0026732276127,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop G65, G/F, Kingswood(Phase 1), 12-18 Tin Yan Road, Tin Shui Wai, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }
 {
@@ -62815,6 +62856,23 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 557020,
+  "latitude": 22.324776,
+  "longitude": 114.2076569,
+  "bank": "China CITIC Bank International Limited",
+  "address": "G/F, DCH Building, 20 Kai Cheung Road, Kowloon Bay, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }

@@ -23531,27 +23531,6 @@
   ]
 }
 {
-  "id": 35968,
-  "latitude": 22.304281724701465,
-  "longitude": 114.16182696819305,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop KOW ATM 24, Exit A, B, MTR Kowloon Station",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 35970,
   "latitude": 22.37712538066443,
   "longitude": 114.10395830869675,
@@ -27349,27 +27328,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 92190,
-  "latitude": 22.502678,
-  "longitude": 114.128083,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "L3 Lift Lobby,Landmark North, No. 39 Lung Sum Aveune, Sheung Shiu",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {
@@ -44326,27 +44284,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 241790,
-  "latitude": 22.371754,
-  "longitude": 114.101965,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "G/F, Belvedere Garden Phase 3, 625 Castle Peak Road, Tsuen Wan, NT",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {

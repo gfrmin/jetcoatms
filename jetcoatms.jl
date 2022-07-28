@@ -62712,6 +62712,29 @@
   ]
 }
 {
+  "id": 542012,
+  "latitude": 22.264620582784037,
+  "longitude": 114.0007654607479,
+  "bank": "The Bank of East Asia, Limited",
+  "address": "Shop A2, Silver Centre Building, Silvermine Bay, Lantau Island",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
   "id": 545008,
   "latitude": 22.19157987937621,
   "longitude": 113.54902118039132,

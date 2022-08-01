@@ -2229,25 +2229,6 @@
   ]
 }
 {
-  "id": 573,
-  "latitude": 22.268550573121686,
-  "longitude": 114.18559938669205,
-  "bank": "Dah Sing Bank, Limited",
-  "address": "Shop A, G/F, Kam Yuk Mansion, No.13 Yuk Sau Street, Happy Valley",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 574,
   "latitude": 22.268821128750197,
   "longitude": 114.18473035097122,

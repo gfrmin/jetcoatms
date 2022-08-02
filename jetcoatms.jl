@@ -13161,30 +13161,6 @@
   ]
 }
 {
-  "id": 1614,
-  "latitude": 22.3214999982029,
-  "longitude": 114.25758183002472,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 243, Level 2, Metro City Plaza I, Tseung Kwan O",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1615,
   "latitude": 22.3071208,
   "longitude": 114.25725290000003,

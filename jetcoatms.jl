@@ -62669,6 +62669,29 @@
   ]
 }
 {
+  "id": 530010,
+  "latitude": 22.2130457,
+  "longitude": 113.5514814,
+  "bank": "Bank of China Limited, Macau Branch",
+  "address": "No.279, Rua Da Tribuna, Edificio Wai Long, Bloco B, R/C, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
   "id": 542012,
   "latitude": 22.264620582784037,
   "longitude": 114.0007654607479,

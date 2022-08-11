@@ -20179,7 +20179,8 @@
     "PLUS"
   ],
   "currencies": [
-    "HKD"
+    "HKD",
+    "MOP"
   ]
 }
 {

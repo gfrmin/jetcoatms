@@ -19939,28 +19939,6 @@
   ]
 }
 {
-  "id": 2313,
-  "latitude": 22.14976842896382,
-  "longitude": 113.56490135192871,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 2314,
   "latitude": 22.14925170069337,
   "longitude": 113.56442928314209,
@@ -20032,28 +20010,6 @@
   "id": 2317,
   "latitude": 22.149351071661943,
   "longitude": 113.5646653175354,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 2319,
-  "latitude": 22.14951006506573,
-  "longitude": 113.56472969055176,
   "bank": "Bank of China Limited, Macau Branch",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [

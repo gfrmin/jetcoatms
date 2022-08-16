@@ -36082,7 +36082,7 @@
   "latitude": 22.1253114,
   "longitude": 113.57675519999998,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Westin Resort, 1918 Estrada de Hac Sa, Coloane, Macau",
+  "address": "Grand Coloane Resort Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -36371,7 +36371,7 @@
   "latitude": 22.150522,
   "longitude": 113.55238499999996,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Galaxy Macau Resort Jinmen Premium Club (Phase 2) 1/F, Estrada da Baia de Nossa Senhora da Esperanca, Cotai, Macau",
+  "address": "Galaxy - UA Cinema 1/F",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -55563,7 +55563,7 @@
   "latitude": 22.1911865,
   "longitude": 113.54839040000002,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Shop 002, 006, 007, 008, 009, Macau Landmark, 555 Avenida da Amizade, Macau",
+  "address": "Nova Taipa Branch",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

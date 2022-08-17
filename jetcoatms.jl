@@ -33806,28 +33806,6 @@
   ]
 }
 {
-  "id": 189993,
-  "latitude": 22.149187290994725,
-  "longitude": 113.5529290634156,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Galaxy Macau, B/F, Staff Area, Avenida de Cotai, Cotai City, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 189995,
   "latitude": 22.131317265533863,
   "longitude": 113.55617947733765,
@@ -34070,77 +34048,11 @@
   ]
 }
 {
-  "id": 190020,
-  "latitude": 22.1920074,
-  "longitude": 113.54160490000004,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Kam Loi Branch, Rua do Dr. Pedro Jose Lobo No.22, Kam Loi IV, R/C M, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 190021,
-  "latitude": 22.1920074,
-  "longitude": 113.54160490000004,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Kam Loi Branch, Rua do Dr. Pedro Jose Lobo No.22, Kam Loi IV, R/C M, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 190026,
   "latitude": 22.19086353791198,
   "longitude": 113.54126814655763,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Hotel Sintra, Av. Dr. Mario Soares, Macau, G/F",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 190027,
-  "latitude": 22.1903432,
-  "longitude": 113.54078570000001,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Grand Emperor Hotel 1/F, 288 Avenida Commercial de Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34202,28 +34114,6 @@
   ]
 }
 {
-  "id": 190030,
-  "latitude": 22.19048840513192,
-  "longitude": 113.54624284603278,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Hotel Fortuna Rua de Cantao, No.63, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 190031,
   "latitude": 22.19048840513192,
   "longitude": 113.54626966812293,
@@ -34246,55 +34136,11 @@
   ]
 }
 {
-  "id": 190032,
-  "latitude": 22.190483438038555,
-  "longitude": 113.54621602394263,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Fortuna Casino(6/F) Rua de Cantao, No.63, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 190033,
   "latitude": 22.190498339318115,
   "longitude": 113.54624821045081,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "G/F, Hotel Fortuna Rua de Cantao, No.63, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 190034,
-  "latitude": 22.190354,
-  "longitude": 113.545859,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Hotel Fortuna (Casino Entrance G/F), Rua de Cantao, No.63, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35061,28 +34907,6 @@
   "longitude": 113.54228250475467,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Kiang Wu Hospital, Emergency Section, Rua de Coelho do Amaral, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 190087,
-  "latitude": 22.208096713838994,
-  "longitude": 113.55505984662705,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Circle K Store, Rua Nova da Areia Preta, No. 288 - 292, Edf. Hoi Pan Garden, Block 8, R/C Shop D, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -36056,28 +35880,6 @@
   ]
 }
 {
-  "id": 193292,
-  "latitude": 22.157449290344744,
-  "longitude": 113.54978171226844,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Grandview Hotel, 1/F, 142, Estrada Governador Albano de Oliveira, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 193297,
   "latitude": 22.1253114,
   "longitude": 113.57675519999998,
@@ -36328,28 +36130,6 @@
   "longitude": 113.56412101275032,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Back-of-House, LG Floor, Sands Cotai Central, Baia de Nossa Senhora de Esperance, Estrada da Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 193318,
-  "latitude": 22.190332949908225,
-  "longitude": 113.5470526380634,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Hotel President Casino 1 andar, Avenida da Amizade No.355, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -36631,28 +36411,6 @@
   ]
 }
 {
-  "id": 193336,
-  "latitude": 22.14672718522607,
-  "longitude": 113.55988795764165,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "ICBC(Macau) Venetian Service Center, Bank Booth A, LG1, Back-of-House, The Venetian Macao Resort Hotel, Estrada da Baia de Nossa Senhora de Esperance, s/n, Cotai Strip, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 193338,
   "latitude": 22.196261577411615,
   "longitude": 113.55921523556526,
@@ -36812,28 +36570,6 @@
   "longitude": 113.55705942037662,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Babylon Casino, G/F, Macau Fisherman's Wharf, Avenida da Amizade e Avenida Dr. Sun Yat-Sen, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 193348,
-  "latitude": 22.190408114519553,
-  "longitude": 113.55771119716724,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "1/F, Staff Canteen, Harbourview Hotel, Macau Fisherman's Wharf, Avenida da Amizade e Avenida Dr. Sun Yat-Sen, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38818,26 +38554,6 @@
     "HKD",
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 202937,
-  "latitude": 22.188483,
-  "longitude": 113.550502,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua Cidade de Coimbra, 495 Edf. China Civil Plaza, R/C (V) Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {
@@ -42716,26 +42432,6 @@
   ]
 }
 {
-  "id": 235088,
-  "latitude": 22.205094,
-  "longitude": 113.5423,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Avenida Marginal do Lam Mau No. 471, Edificio Van Sion Son Chun, Shop A, G/F, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 235089,
   "latitude": 22.147173,
   "longitude": 113.570524,
@@ -44219,46 +43915,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 241795,
-  "latitude": 22.143661,
-  "longitude": 113.562785,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Shop No. 3517, Level, The Pariaian Macao, Estrada do Istmo, Lote 3, Cotai Strip, Coloane Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 241796,
-  "latitude": 22.143661,
-  "longitude": 113.562785,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Shop No. 3517, Level, The Pariaian Macao, Estrada do Istmo, Lote 3, Cotai Strip, Coloane Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {
@@ -50098,90 +49754,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 305736,
-  "latitude": 22.1885723,
-  "longitude": 113.54853379999997,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "LMAC Macau Casino G/F, Avenida 24 de Junho, Nape, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 305737,
-  "latitude": 22.1885723,
-  "longitude": 113.54853379999997,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "LMAC Macau Casino G/F, Avenida 24 de Junho, Nape, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 305738,
-  "latitude": 22.1885723,
-  "longitude": 113.54853379999997,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "LMAC Macau Casino G/F, Avenida 24 de Junho, Nape, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 305739,
-  "latitude": 22.1885723,
-  "longitude": 113.54853379999997,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "LMAC Macau Casino 1/F, Avenida 24 de Junho, Nape, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
   ]
 }
 {

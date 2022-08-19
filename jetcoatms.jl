@@ -62221,6 +62221,27 @@
   ]
 }
 {
+  "id": 533010,
+  "latitude": 22.2848888,
+  "longitude": 114.1453022,
+  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
+  "address": "Bonham Road 44-46",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "CUP",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 542012,
   "latitude": 22.264620582784037,
   "longitude": 114.0007654607479,
@@ -62339,6 +62360,27 @@
     "Bill Payment, Credit Card Payment and Charity Donation",
     "Interbank Transfer",
     "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 572008,
+  "latitude": 22.2848888,
+  "longitude": 114.1453022,
+  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
+  "address": "Bonham Road 44-46",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "CUP",
+    "JCB"
   ],
   "currencies": [
     "HKD",

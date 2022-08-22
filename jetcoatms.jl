@@ -19939,52 +19939,6 @@
   ]
 }
 {
-  "id": 2314,
-  "latitude": 22.14925170069337,
-  "longitude": 113.56442928314209,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 2315,
-  "latitude": 22.149152329654658,
-  "longitude": 113.56468677520752,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 2316,
   "latitude": 22.149430568386286,
   "longitude": 113.56462240219116,
@@ -20233,29 +20187,6 @@
   ]
 }
 {
-  "id": 2329,
-  "latitude": 22.149291449089223,
-  "longitude": 113.56481552124023,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 2330,
   "latitude": 22.1492715748927,
   "longitude": 113.56485843658447,
@@ -20390,29 +20321,6 @@
     "PLUS"
   ],
   "currencies": [
-    "MOP"
-  ]
-}
-{
-  "id": 2342,
-  "latitude": 22.1964435,
-  "longitude": 113.5558995,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "No.1565-1595, Avenida Da Amizada, Casino Oceanus, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
     "MOP"
   ]
 }
@@ -27850,55 +27758,11 @@
   ]
 }
 {
-  "id": 101266,
-  "latitude": 22.33194555920523,
-  "longitude": 114.16467547416687,
-  "bank": "Nanyang Commercial Bank Limited",
-  "address": "Nos.198-200 Tai Po Road, Kowloon.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 101267,
   "latitude": 22.282459,
   "longitude": 114.128391,
   "bank": "Nanyang Commercial Bank Limited",
   "address": "86 Belcher's Street, Kennedy Town, Hong Kong.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 101268,
-  "latitude": 22.326765055679953,
-  "longitude": 114.16290521621704,
-  "bank": "Nanyang Commercial Bank Limited",
-  "address": "Ground Floor, 236 Lai Chi Kok Road, Kowloon.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -41182,27 +41046,6 @@
   "longitude": 114.19653383068851,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "2E(outside Security Office), Wong Tai Sin Hospital, 124 Shatin Pass Road, Wong Tai Sin, KLN.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 222078,
-  "latitude": 22.3455304,
-  "longitude": 114.19671749999998,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "G/F, East Wing, Our Lady of Maryknoll Hospital, 118 Shatin Pass Road, Wong Tai Sin, KLN.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

@@ -62085,6 +62085,45 @@
   ]
 }
 {
+  "id": 536010,
+  "latitude": 22.189663,
+  "longitude": 113.544105,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Hotel Lisboa at G/F Shop No. 63, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 536013,
+  "latitude": 22.46462680250075,
+  "longitude": 114.0031464705696,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop 1110, 1/F, One Sky Mall",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 542012,
   "latitude": 22.264620582784037,
   "longitude": 114.0007654607479,

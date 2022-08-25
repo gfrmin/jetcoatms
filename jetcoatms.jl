@@ -18063,26 +18063,6 @@
   ]
 }
 {
-  "id": 2074,
-  "latitude": 22.1519186,
-  "longitude": 113.5529383,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Rua do Pai Kok, No. 18-28, Loja AG-Ah, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 2075,
   "latitude": 22.1479797,
   "longitude": 113.5617373,
@@ -30041,47 +30021,6 @@
   ],
   "currencies": [
     "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 134745,
-  "latitude": 22.2026397,
-  "longitude": 113.5431346,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Rua da Barca Branch-Rua da Barca No. 47, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 134746,
-  "latitude": 22.2026397,
-  "longitude": 113.5431346,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Rua da Barca Branch-Rua da Barca No. 47, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
     "RMB"
   ]
 }
@@ -44347,25 +44286,6 @@
   ]
 }
 {
-  "id": 251735,
-  "latitude": 22.197484,
-  "longitude": 113.554865,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Jai Alai Stadium-Zona de Aterros do Porto Exterior (ZAPE) No. S/N, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 251736,
   "latitude": 22.197484,
   "longitude": 113.554865,
@@ -52004,25 +51924,6 @@
 }
 {
   "id": 333807,
-  "latitude": 22.1458939,
-  "longitude": 113.56169610000006,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Four Seasons Hotel, Estrada da Baia de Nossa Senhora de Esperance, Four Seasons Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 333808,
   "latitude": 22.1458939,
   "longitude": 113.56169610000006,
   "bank": "Banco Nacional Ultramarino, S.A.",
@@ -61504,26 +61405,6 @@
   ]
 }
 {
-  "id": 476009,
-  "latitude": 22.202699,
-  "longitude": 113.5430407,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Rua da Barca Branch-Rua da Barca No. 47, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 476010,
   "latitude": 22.200102362273373,
   "longitude": 113.53712113252352,
@@ -61543,27 +61424,6 @@
   ]
 }
 {
-  "id": 476012,
-  "latitude": 22.202699,
-  "longitude": 113.5430407,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Rua da Barca Branch-Rua da Barca No. 47, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 476013,
   "latitude": 22.200102362273373,
   "longitude": 113.53712113252352,
@@ -61575,26 +61435,6 @@
     "Interbank Transfer",
     "CIRRUS",
     "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 476015,
-  "latitude": 22.1518188,
-  "longitude": 113.5543892,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Rua do Pai Kok, No. 18-28, Loja AG-Ah, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
     "PLUS"
   ],
   "currencies": [
@@ -62111,6 +61951,24 @@
   "longitude": 114.0031464705696,
   "bank": "China Construction Bank (Asia) Corporation Limited",
   "address": "Shop 1110, 1/F, One Sky Mall",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 539010,
+  "latitude": 22.46462680250075,
+  "longitude": 114.0031464705696,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop 1110, 1/F, One Sky Mall, Tin Shui Wai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

@@ -19963,28 +19963,6 @@
   ]
 }
 {
-  "id": 2320,
-  "latitude": 22.14937094584724,
-  "longitude": 113.56462240219116,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 2321,
   "latitude": 22.149649184146707,
   "longitude": 113.56481552124023,
@@ -38765,29 +38743,6 @@
   ]
 }
 {
-  "id": 206076,
-  "latitude": 22.14434221816445,
-  "longitude": 113.55375106341558,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 206077,
   "latitude": 22.144222968750785,
   "longitude": 113.55375106341558,
@@ -38899,29 +38854,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 206082,
-  "latitude": 22.143984469620463,
-  "longitude": 113.55387980944829,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {
@@ -44633,76 +44565,6 @@
   ]
 }
 {
-  "id": 255030,
-  "latitude": 22.212995,
-  "longitude": 113.549032,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Istmo de Ferreira do Amaral No.64, R/C-E,F Edf. Yi Nam, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 255031,
-  "latitude": 22.212995,
-  "longitude": 113.549032,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Istmo de Ferreira do Amaral No.64, R/C-E,F Edf. Yi Nam, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 255032,
-  "latitude": 22.212995,
-  "longitude": 113.549032,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Istmo de Ferreira do Amaral No.64, R/C-E,F Edf. Yi Nam, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 258310,
   "latitude": 22.185955,
   "longitude": 113.548522,
@@ -46204,28 +46066,6 @@
   ]
 }
 {
-  "id": 274860,
-  "latitude": 22.149423,
-  "longitude": 113.566592,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 274861,
   "latitude": 22.149423,
   "longitude": 113.566592,
@@ -47039,30 +46879,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 281604,
-  "latitude": 22.1651151,
-  "longitude": 113.57234879999999,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Taipa Ferry Terminal, Estrada de Pac On, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
   ]
 }
 {
@@ -54198,52 +54014,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 361793,
-  "latitude": 22.21300607651769,
-  "longitude": 113.54885809818234,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Istmo de Ferreira do Amaral No.64, R/C-E,F Edf. Yi Nam, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 361794,
-  "latitude": 22.213008559665976,
-  "longitude": 113.5488527337643,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Istmo de Ferreira do Amaral No.64, R/C-E,F Edf. Yi Nam, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "MOP",
-    "RMB"
   ]
 }
 {

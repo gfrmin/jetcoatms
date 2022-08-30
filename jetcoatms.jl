@@ -55526,47 +55526,11 @@
   ]
 }
 {
-  "id": 382286,
-  "latitude": 22.27929,
-  "longitude": 114.185358,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "51 Jardinws Bazaar",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 382289,
   "latitude": 22.3224373,
   "longitude": 114.2568234,
   "bank": "China Construction Bank (Asia) Corporation Limited",
   "address": "Shop 190, Level 1, Metro City Phase III, The Metropolis, Tseung Kwan O",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 382290,
-  "latitude": 22.2485137,
-  "longitude": 114.1545884,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "G/F, Shop 7, Site 04, Aberdeen Centre, 14 Nam Ning Street, Aberdeen, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -55603,24 +55567,6 @@
   "longitude": 114.1338329,
   "bank": "China Construction Bank (Asia) Corporation Limited",
   "address": "Shop 1, G/F, 489 Queens Road West",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 382293,
-  "latitude": 22.28092,
-  "longitude": 114.175095,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "Shop 121, 1/F, Great Eagle Centre, Wanchai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -55711,24 +55657,6 @@
   "longitude": 113.9761708,
   "bank": "China Construction Bank (Asia) Corporation Limited",
   "address": "Shop 9, G/F, Tuen Mun Town Plaza Phase II Tuen Mun, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 382299,
-  "latitude": 22.3062599,
-  "longitude": 114.1717311,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "316 Nathan Road",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -55951,24 +55879,6 @@
   ]
 }
 {
-  "id": 382312,
-  "latitude": 22.4254804,
-  "longitude": 114.2313545,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "Shop 297, Level 2, Ma On Shan Plaza, Ma On Shan, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 382314,
   "latitude": 22.280725514998256,
   "longitude": 114.15877301104508,
@@ -56010,24 +55920,6 @@
   "longitude": 114.1557652,
   "bank": "China Construction Bank (Asia) Corporation Limited",
   "address": "99 Des Voeux Road, Central, Hong Kong ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 382317,
-  "latitude": 22.276559861233658,
-  "longitude": 114.17424830363542,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "G/F, 150 Johnston Road, Wanchai, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -56173,24 +56065,6 @@
   "longitude": 114.18746405644872,
   "bank": "China Construction Bank (Asia) Corporation Limited",
   "address": "G/F, 100 Ma Tau Wai Road",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 389167,
-  "latitude": 22.2870761,
-  "longitude": 114.2167491,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "Shop 001, G/F, CityPlaza II, Taikoo Shing",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -58489,26 +58363,6 @@
   ]
 }
 {
-  "id": 416167,
-  "latitude": 22.3240785,
-  "longitude": 114.208422,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "G/F, CCB Centre, 18 Wang Chiu Road, Kowloon Bay",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "USD",
-    "JPY",
-    "EUR",
-    "GBP"
-  ]
-}
-{
   "id": 416168,
   "latitude": 22.368748,
   "longitude": 114.11299,
@@ -59817,24 +59671,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 432651,
-  "latitude": 22.24818302702513,
-  "longitude": 114.15447206758058,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "Shop 7, G/F, Site 4, Aberdeen Centre",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {
@@ -61712,24 +61548,6 @@
   "currencies": [
     "HKD",
     "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 536013,
-  "latitude": 22.46462680250075,
-  "longitude": 114.0031464705696,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "Shop 1110, 1/F, One Sky Mall",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
     "RMB"
   ]
 }

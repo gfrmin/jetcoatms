@@ -47336,28 +47336,6 @@
   ]
 }
 {
-  "id": 288384,
-  "latitude": 22.195558,
-  "longitude": 113.554401,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Hotel Golden Dragon, Rua de Malaca, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 288385,
   "latitude": 22.195558,
   "longitude": 113.554401,
@@ -61713,5 +61691,39 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 578008,
+  "latitude": 22.202751366588615,
+  "longitude": 113.54614719507178,
+  "bank": "Luso International Banking Limited",
+  "address": "Rotunda Carlos da Maia No.8, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 578011,
+  "latitude": 22.202751366588615,
+  "longitude": 113.54614719507178,
+  "bank": "Luso International Banking Limited",
+  "address": "Rotunda Carlos da Maia No.8, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }

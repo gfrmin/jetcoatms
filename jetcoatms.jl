@@ -55893,24 +55893,6 @@
   ]
 }
 {
-  "id": 382316,
-  "latitude": 22.284794,
-  "longitude": 114.1557652,
-  "bank": "China Construction Bank (Asia) Corporation Limited",
-  "address": "99 Des Voeux Road, Central, Hong Kong ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 382318,
   "latitude": 22.2868,
   "longitude": 114.152484,

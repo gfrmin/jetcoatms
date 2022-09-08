@@ -10730,24 +10730,6 @@
   ]
 }
 {
-  "id": 1392,
-  "latitude": 22.3627368020899,
-  "longitude": 114.1338837146759,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Unit A, G/F, Effort Industrial Building 2-8 Kung Yip Street, Kwai Chung",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1393,
   "latitude": 22.339646488512788,
   "longitude": 114.12733912467957,

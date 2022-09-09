@@ -19552,29 +19552,6 @@
   ]
 }
 {
-  "id": 2290,
-  "latitude": 22.157059560716874,
-  "longitude": 113.5517692565918,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "No.142, Estrada Governador Albano De Oliveira, Hotel Grandview, Taipa, Macau.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 2292,
   "latitude": 22.216142283128196,
   "longitude": 113.54893684387207,
@@ -38596,50 +38573,6 @@
   "id": 206070,
   "latitude": 22.14501262692068,
   "longitude": 113.55842135529474,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 206071,
-  "latitude": 22.145092126095104,
-  "longitude": 113.5543980417724,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 206072,
-  "latitude": 22.14442171771744,
-  "longitude": 113.55426604754643,
   "bank": "Bank of China Limited, Macau Branch",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [

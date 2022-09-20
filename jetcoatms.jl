@@ -31336,27 +31336,6 @@
   ]
 }
 {
-  "id": 162125,
-  "latitude": 22.375923562784067,
-  "longitude": 114.12303261918794,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "ATM No.1, 2/F, Shek Wai Kok Shopping Centre, Shek Wai Kok Estate, Tsuen Wan",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 162126,
   "latitude": 22.24377292974553,
   "longitude": 114.146630576799,

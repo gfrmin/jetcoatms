@@ -45828,7 +45828,7 @@
   "latitude": 22.1919549,
   "longitude": 113.54878259999998,
   "bank": "Tai Fung Bank Limited",
-  "address": "2F NO.230-246, RUA DE PEQUIM, MACAU",
+  "address": "NO.230-246, RUA DE PEQUIM RC MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

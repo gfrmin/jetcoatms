@@ -10178,24 +10178,6 @@
   ]
 }
 {
-  "id": 1348,
-  "latitude": 22.4923563471176,
-  "longitude": 114.134082198143,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Next to Shop No. 2, G/F Ka Fuk Shopping Centre, Ka Fuk Estate, Fanling, New Territories.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1352,
   "latitude": 22.413378,
   "longitude": 114.2100038,
@@ -45829,24 +45811,6 @@
   "longitude": 113.54878259999998,
   "bank": "Tai Fung Bank Limited",
   "address": "NO.230-246, RUA DE PEQUIM RC MACAU",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 278202,
-  "latitude": 22.1919549,
-  "longitude": 113.54878259999998,
-  "bank": "Tai Fung Bank Limited",
-  "address": "NO.230-246, RUA DE PEQUIM, MACAU ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

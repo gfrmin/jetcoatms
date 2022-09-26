@@ -23025,28 +23025,6 @@
   ]
 }
 {
-  "id": 33267,
-  "latitude": 22.1857611,
-  "longitude": 113.5492948,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 33268,
   "latitude": 22.18537835824329,
   "longitude": 113.5490870475769,
@@ -27089,48 +27067,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 95185,
-  "latitude": 22.368988,
-  "longitude": 114.120796,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop No. G38, Panda Place, Panda Hotel, 3 Tsuen Wah Street, Tsuen Wan, N.T.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Discover",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 95186,
-  "latitude": 22.368988,
-  "longitude": 114.120796,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop No. G38, Panda Place, Panda Hotel, 3 Tsuen Wah Street, Tsuen Wan, N.T.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {
@@ -45263,27 +45199,6 @@
   "longitude": 114.17021410000007,
   "bank": "Industrial and Commercial Bank of China (Asia) Limited",
   "address": "G/F, Hollywood plaza, 610 Nathan Road, Mongkok, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 271515,
-  "latitude": 22.3110748,
-  "longitude": 114.22254309999994,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "G/F,  TY Wider, 58 Tsun Yip Street, Kwun Tong, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

@@ -24571,23 +24571,6 @@
   ]
 }
 {
-  "id": 66153,
-  "latitude": 22.280628262392035,
-  "longitude": 114.16704654693604,
-  "bank": "China CITIC Bank International Limited",
-  "address": "Shop 202 & 207, 2/F CITIC Tower, No 1 Tim Mei Avenue, Central, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 66154,
   "latitude": 22.202554141388774,
   "longitude": 113.53985622525215,

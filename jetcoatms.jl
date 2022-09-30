@@ -45339,24 +45339,6 @@
   ]
 }
 {
-  "id": 274844,
-  "latitude": 22.3158624,
-  "longitude": 114.21436360000007,
-  "bank": "DBS Bank (Hong Kong) Limited",
-  "address": "1/F, Manulife Tower, One Bay East, 83 Hoi Bun Road, Kwun Tong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 274845,
   "latitude": 22.1855572,
   "longitude": 113.54799939999998,

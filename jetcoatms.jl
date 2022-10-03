@@ -2329,29 +2329,6 @@
   ]
 }
 {
-  "id": 580,
-  "latitude": 22.284390847692013,
-  "longitude": 114.14082527160645,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, Shop 1-3, Ka Fu Building, 19-27 Bonham Road",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 582,
   "latitude": 22.280945951607823,
   "longitude": 114.1525411605835,
@@ -24611,29 +24588,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 68940,
-  "latitude": 22.319381017029574,
-  "longitude": 114.23204183578491,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "ATM no.4, 2/F, Sau Mau Ping Shopping Centre, 101 Sau Ming Road, Kwun Tong, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -48868,30 +48822,6 @@
   "currencies": [
     "HKD",
     "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 309229,
-  "latitude": 22.2846048,
-  "longitude": 114.1424955,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop 1-3, Ka Fu Building, 19-27 Bonham Road, Sheung Wan",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
     "RMB"
   ]
 }

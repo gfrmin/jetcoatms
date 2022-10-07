@@ -61098,3 +61098,23 @@
     "MOP"
   ]
 }
+{
+  "id": 590010,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Estrada do Istmo S/N, Cotai - The Londoner Macau, Back of House Area",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}

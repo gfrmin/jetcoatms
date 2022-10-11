@@ -47087,29 +47087,6 @@
   ]
 }
 {
-  "id": 288402,
-  "latitude": 22.185607,
-  "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 288403,
   "latitude": 22.185607,
   "longitude": 113.547978,

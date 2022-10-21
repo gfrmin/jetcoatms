@@ -15541,29 +15541,6 @@
   ]
 }
 {
-  "id": 1851,
-  "latitude": 22.264663450105168,
-  "longitude": 114.00062084197998,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop AS, Silver Centre Building, Silvermine Bay",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1853,
   "latitude": 22.29757398865327,
   "longitude": 113.93413424491882,

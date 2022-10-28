@@ -61050,3 +61050,26 @@
     "MOP"
   ]
 }
+{
+  "id": 593010,
+  "latitude": 22.411126716599394,
+  "longitude": 113.98368212156527,
+  "bank": "The Bank of East Asia, Limited",
+  "address": "G/F, Lau Lee Yuen Haan Amenities Building, Lingnan University",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}

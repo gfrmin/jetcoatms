@@ -5118,47 +5118,6 @@
   ]
 }
 {
-  "id": 851,
-  "latitude": 22.304959180688826,
-  "longitude": 114.187570810318,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop G8B, Site 1 Whampoa Garden, Hung Hom, Kowloon.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 852,
-  "latitude": 22.304854956904652,
-  "longitude": 114.18756544589996,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop G8B, Site 1 Whampoa Garden, Hung Hom, Kowloon.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 853,
   "latitude": 22.307961784883013,
   "longitude": 114.18765127658844,
@@ -9116,53 +9075,11 @@
   ]
 }
 {
-  "id": 1227,
-  "latitude": 22.2956492,
-  "longitude": 114.1748335,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop No.24, at Unpaid Concouse of KCRC East Tsim Sha Tsui Station",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1228,
   "latitude": 22.29791,
   "longitude": 114.172146,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "MTR Tsim Sha Tsui Station",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1229,
-  "latitude": 22.2956492,
-  "longitude": 114.1748335,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop No.24, at Unpaid Concouse of KCRC East Tsim Sha Tsui Station",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -31476,27 +31393,6 @@
   ]
 }
 {
-  "id": 168266,
-  "latitude": 22.2910014,
-  "longitude": 114.20122249999997,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop B & C, G/F, Cheong Ming Yeung House, 480 King's Road, North Point, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 168267,
   "latitude": 22.372539,
   "longitude": 114.11994099999993,
@@ -43201,47 +43097,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 241803,
-  "latitude": 22.306518,
-  "longitude": 114.187365,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shops A1-A2 & G1, G/F, Block A-E Whampoa Estate, Nos.1-15 Tak Man Street, Hung Hom, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 241804,
-  "latitude": 22.306518,
-  "longitude": 114.187365,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shops A1-A2 & G1, G/F, Block A-E Whampoa Estate, Nos.1-15 Tak Man Street, Hung Hom, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -60909,6 +60764,44 @@
     "Discover",
     "CIRRUS",
     "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 548009,
+  "latitude": 22.1576214,
+  "longitude": 113.5493205,
+  "bank": "Tai Fung Bank Limited",
+  "address": "390-400, Estrada Governador Albano de Olveira, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 548012,
+  "latitude": 22.1576214,
+  "longitude": 113.5493205,
+  "bank": "Tai Fung Bank Limited",
+  "address": "390-400, Estrada Governador Albano de Olveira, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
   ],
   "currencies": [
     "HKD",

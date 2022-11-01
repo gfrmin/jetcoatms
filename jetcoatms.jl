@@ -34872,53 +34872,11 @@
   ]
 }
 {
-  "id": 193262,
-  "latitude": 22.185376161813384,
-  "longitude": 113.54833591586907,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "MGM Macau G/F, Avenida Dr. Sun Yat Sen, Nape, Macau - Casino",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 193263,
   "latitude": 22.185256947186094,
   "longitude": 113.54797113544305,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "MGM Macau G/F, Avenida Dr. Sun Yat Sen, Nape, Macau - Casino",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 193264,
-  "latitude": 22.185356292715863,
-  "longitude": 113.54816425449212,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "MGM Macau G/F, Avenida Dr. Sun Yat Sen, Nape, Macau - Casino Slot Area",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35137,28 +35095,6 @@
   "longitude": 113.54402177315524,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Grand Lisboa Hotel 1/F",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 193288,
-  "latitude": 22.19274429481732,
-  "longitude": 113.54993709999997,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rio Hotel & Casino - Staff Area, Rua de Luis Gonzaga Gomes No.3, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -60828,6 +60764,38 @@
     "HKD",
     "MOP",
     "RMB"
+  ]
+}
+{
+  "id": 551009,
+  "latitude": 22.4241633,
+  "longitude": 114.2314688,
+  "bank": "Chong Hing Bank Limited",
+  "address": "Shop No.2701-14 on Level 2 of MOS Town, 18 On Luk Street, Ma On Shan, N.T.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 551012,
+  "latitude": 22.4241633,
+  "longitude": 114.2314688,
+  "bank": "Chong Hing Bank Limited",
+  "address": "Shop No.2701-14 on Level 2 of MOS Town, 18 On Luk Street, Ma On Shan, N.T.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }
 {

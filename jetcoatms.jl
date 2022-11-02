@@ -24172,27 +24172,6 @@
   ]
 }
 {
-  "id": 46958,
-  "latitude": 22.312823,
-  "longitude": 114.220369,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "ATM Area, G/F, Hung To Center, 94-96 How Ming Street, Kwun Tong, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 66132,
   "latitude": 22.314453144843885,
   "longitude": 114.26342904567719,
@@ -29736,27 +29715,6 @@
   "longitude": 114.15982020000001,
   "bank": "Industrial and Commercial Bank of China (Asia) Limited",
   "address": "Unit No. K01 on 1/F., Dragon Centre, No.37K Yen Chow Street, Shamshuipo, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 134754,
-  "latitude": 22.4920039,
-  "longitude": 114.13882609999996,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "FAN ATM 2, Fanling, N.T.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

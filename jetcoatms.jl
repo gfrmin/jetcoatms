@@ -19572,78 +19572,9 @@
   ]
 }
 {
-  "id": 2306,
-  "latitude": 22.148655473408756,
-  "longitude": 113.5607385635376,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 2307,
-  "latitude": 22.148814467598253,
-  "longitude": 113.56138229370117,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 2308,
   "latitude": 22.148814467598253,
   "longitude": 113.56112480163574,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 2309,
-  "latitude": 22.148854216117577,
-  "longitude": 113.56114625930786,
   "bank": "Bank of China Limited, Macau Branch",
   "address": "The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
   "tran": [
@@ -38650,29 +38581,6 @@
   ]
 }
 {
-  "id": 206116,
-  "latitude": 22.147919653605104,
-  "longitude": 113.55997378833013,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "The Venetian Macao- Resort Hotel,Estrada da Baia de N.Scnhora da Esperanca, s/n, The Cotai Strip, Taipa, Macao SAR ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 206117,
   "latitude": 22.367494442787457,
   "longitude": 114.12787043551248,
@@ -46657,28 +46565,6 @@
   ]
 }
 {
-  "id": 288393,
-  "latitude": 22.185607,
-  "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 288394,
   "latitude": 22.185607,
   "longitude": 113.547978,
@@ -46790,29 +46676,6 @@
   ]
 }
 {
-  "id": 288401,
-  "latitude": 22.185607,
-  "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 288403,
   "latitude": 22.185607,
   "longitude": 113.547978,
@@ -46839,52 +46702,6 @@
   "id": 288404,
   "latitude": 22.185607,
   "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 288405,
-  "latitude": 22.185607,
-  "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 288406,
-  "latitude": 22.185607,
-  "longitude": 113547978,
   "bank": "Bank of China Limited, Macau Branch",
   "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
   "tran": [
@@ -60775,6 +60592,70 @@
     "HKD",
     "MOP",
     "RMB"
+  ]
+}
+{
+  "id": 557011,
+  "latitude": 22.304913849263297,
+  "longitude": 114.18792451775629,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop G8B,  Site 1,  Whampoa Garden, Hung Hom, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 557014,
+  "latitude": 22.304913849263297,
+  "longitude": 114.18792451775629,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop G8B,  Site 1,  Whampoa Garden, Hung Hom, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "USD",
+    "JPY",
+    "EUR",
+    "GBP"
+  ]
+}
+{
+  "id": 557017,
+  "latitude": 22.304913849263297,
+  "longitude": 114.18792451775629,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop G8B,  Site 1,  Whampoa Garden, Hung Hom, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }
 {

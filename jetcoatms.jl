@@ -18386,28 +18386,6 @@
   ]
 }
 {
-  "id": 2228,
-  "latitude": 22.189682435192456,
-  "longitude": 113.54303061962128,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 2229,
   "latitude": 22.189799162505608,
   "longitude": 113.54297697544098,
@@ -18428,29 +18406,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 2230,
-  "latitude": 22.189749491320363,
-  "longitude": 113.54301184415817,
-  "bank": "Bank of China Limited, Macau Branch",
-  "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "MOP",
-    "RMB"
   ]
 }
 {

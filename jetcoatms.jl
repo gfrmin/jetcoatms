@@ -60728,3 +60728,41 @@
     "HKD"
   ]
 }
+{
+  "id": 623010,
+  "latitude": 22.208644074326614,
+  "longitude": 113.54973170304108,
+  "bank": "Tai Fung Bank Limited",
+  "address": "ESTRADA DA AREIA PRETA 42D-E, MACAU",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 623013,
+  "latitude": 22.208644074326614,
+  "longitude": 113.54973170304108,
+  "bank": "Tai Fung Bank Limited",
+  "address": "ESTRADA DA AREIA PRETA 42D-E, MACAU",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}

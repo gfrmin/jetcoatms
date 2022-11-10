@@ -18389,7 +18389,7 @@
   "id": 2229,
   "latitude": 22.189799162505608,
   "longitude": 113.54297697544098,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18412,7 +18412,7 @@
   "id": 2231,
   "latitude": 22.189709754359544,
   "longitude": 113.54293942451477,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18436,7 +18436,7 @@
   "id": 2232,
   "latitude": 22.18979171182893,
   "longitude": 113.54297161102295,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18458,7 +18458,7 @@
   "id": 2233,
   "latitude": 22.189799162505608,
   "longitude": 113.54299306869507,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18481,7 +18481,7 @@
   "id": 2234,
   "latitude": 22.190762780023405,
   "longitude": 113.54020357131958,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Comerical De Macau, S/N, New Yaohan, 7 Andar, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18504,7 +18504,7 @@
   "id": 2235,
   "latitude": 22.1479797,
   "longitude": 113.5617373,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18527,7 +18527,7 @@
   "id": 2236,
   "latitude": 22.2049907,
   "longitude": 113.5445702,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.103, Avenida Horta E Costa, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18550,7 +18550,7 @@
   "id": 2237,
   "latitude": 22.2049907,
   "longitude": 113.5445702,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.103, Avenida Horta E Costa, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18573,7 +18573,7 @@
   "id": 2238,
   "latitude": 22.190939111379468,
   "longitude": 113.53498935699463,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.1, Rua Da Praia Do Manduco, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18597,7 +18597,7 @@
   "id": 2239,
   "latitude": 22.15784703002536,
   "longitude": 113.55818510055542,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.388, Rua De Evora, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18620,7 +18620,7 @@
   "id": 2240,
   "latitude": 22.1577408,
   "longitude": 113.5581687,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.388, Rua De Evora, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18644,7 +18644,7 @@
   "id": 2242,
   "latitude": 22.212253705904576,
   "longitude": 113.54764938354492,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.4, Avenida Artur Tamagnini Barbosa, Edificio Choi Fai Kok, Bloco A, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18667,7 +18667,7 @@
   "id": 2243,
   "latitude": 22.212241290095896,
   "longitude": 113.5477003455162,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.4, Avenida Artur Tamagnini Barbosa, Edificio Choi Fai Kok, Bloco A, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18690,7 +18690,7 @@
   "id": 2245,
   "latitude": 22.195585,
   "longitude": 113.5447287,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.338-342, Rua Do Campo, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18714,7 +18714,7 @@
   "id": 2249,
   "latitude": 22.2110105,
   "longitude": 113.5494064,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.41-43, Rua Um Do Bairro Iao Hon, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18737,7 +18737,7 @@
   "id": 2252,
   "latitude": 22.2078373,
   "longitude": 113.5560366,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18761,7 +18761,7 @@
   "id": 2254,
   "latitude": 22.196666034784496,
   "longitude": 113.54559481143951,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.22-24, Avenida Do Conselheiro Ferreira De Almeida, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18784,7 +18784,7 @@
   "id": 2257,
   "latitude": 22.2028034,
   "longitude": 113.5470309,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.33, Avenida Horta E Costa, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18807,7 +18807,7 @@
   "id": 2258,
   "latitude": 22.1898706,
   "longitude": 113.5444791,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The East Wing Of Hotel Lisboa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18830,7 +18830,7 @@
   "id": 2260,
   "latitude": 22.1479797,
   "longitude": 113.5617373,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Shop No.2656, The Grand Canal Shoppes, The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperance, Cotal Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18853,7 +18853,7 @@
   "id": 2261,
   "latitude": 22.148198364113533,
   "longitude": 113.56206893920898,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Shop No.2656, The Grand Canal Shoppes, The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperance, Cotal Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18877,7 +18877,7 @@
   "id": 2264,
   "latitude": 22.2078804,
   "longitude": 113.5510468,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.130, Avenida De Venceslau De Morais, Bloco P, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18901,7 +18901,7 @@
   "id": 2265,
   "latitude": 22.2078804,
   "longitude": 113.5510468,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.130, Avenida De Venceslau De Morais, Bloco P, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18923,7 +18923,7 @@
   "id": 2267,
   "latitude": 22.2023116,
   "longitude": 113.5497875,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.20-26, Avenida Do Ouvidor De Arriaga, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18947,7 +18947,7 @@
   "id": 2269,
   "latitude": 22.2095473,
   "longitude": 113.5447083,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.79, Avenida General Castelo Branco, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18970,7 +18970,7 @@
   "id": 2270,
   "latitude": 22.1926993,
   "longitude": 113.5479153,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.382, Avenida Do Dr. Rodrigo Rodrigues, Bloco A, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -18994,7 +18994,7 @@
   "id": 2271,
   "latitude": 22.1923928,
   "longitude": 113.5407535,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.1 L, Avenida Almeida Ribeiro, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19017,7 +19017,7 @@
   "id": 2272,
   "latitude": 22.1923928,
   "longitude": 113.5407535,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.13, Avenida Almeida Ribeiro, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19041,7 +19041,7 @@
   "id": 2273,
   "latitude": 22.1923928,
   "longitude": 113.5407535,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.1 L, Avenida Almeida Ribeiro, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19064,7 +19064,7 @@
   "id": 2277,
   "latitude": 22.1997893,
   "longitude": 113.5424217,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.67-71, Rua De Coelho Do Amaral, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19088,7 +19088,7 @@
   "id": 2278,
   "latitude": 22.1610291,
   "longitude": 113.5562526,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.583-601, Avenida Dr. Sun Yat Sen, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19111,7 +19111,7 @@
   "id": 2279,
   "latitude": 22.1610291,
   "longitude": 113.5562526,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.583-601, Avenida Dr. Sun Yat Sen, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19134,7 +19134,7 @@
   "id": 2280,
   "latitude": 22.189411642662083,
   "longitude": 113.55229006745913,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-Y,Z,AA, No.322,326,330, Avenida do Governador Jaime Silverio Marques, Jardim Nam Ngon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19157,7 +19157,7 @@
   "id": 2281,
   "latitude": 22.189357004206634,
   "longitude": 113.55234371163942,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-Y,Z,AA, No.322,326,330, Avenida do Governador Jaime Silverio Marques, Jardim Nam Ngon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19181,7 +19181,7 @@
   "id": 2282,
   "latitude": 22.1945566,
   "longitude": 113.5412837,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.9-11, Rua De S.Domigos, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19204,7 +19204,7 @@
   "id": 2283,
   "latitude": 22.1945566,
   "longitude": 113.5412837,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.9-11, Rua De S.Domigos No, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19227,7 +19227,7 @@
   "id": 2284,
   "latitude": 22.1945566,
   "longitude": 113.5412837,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.9-11, Rua De S.Domigos, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19250,7 +19250,7 @@
   "id": 2286,
   "latitude": 22.19944994050838,
   "longitude": 113.5428911447525,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada Do Repouso, Kiang Wu Hospital, Inpatient Building, Emergency Lobby, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19273,7 +19273,7 @@
   "id": 2287,
   "latitude": 22.1940798,
   "longitude": 113.5501027,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.678, Avenida Do Dr. Rodrigo Rodigues, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19296,7 +19296,7 @@
   "id": 2288,
   "latitude": 22.197229773941828,
   "longitude": 113.55910778045654,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida da Amizade, Terminal Maritimo De Macau, Departure Hall, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19319,7 +19319,7 @@
   "id": 2289,
   "latitude": 22.196812557514438,
   "longitude": 113.5535717010498,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.1118, Avenida Do Dr. Rodrigo Rodigues, Casa Real Hotel, R/C Lobby, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19342,7 +19342,7 @@
   "id": 2292,
   "latitude": 22.216142283128196,
   "longitude": 113.54893684387207,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Local De Saida No.2 Piso Do Edifico Fronteirico Das Portas Do Cerco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19366,7 +19366,7 @@
   "id": 2294,
   "latitude": 22.1575886,
   "longitude": 113.5510045,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua De Chaves, Taipa Square, R/C Lobby, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19389,7 +19389,7 @@
   "id": 2295,
   "latitude": 22.2157693,
   "longitude": 113.5490299,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Local De Saida No.2 Piso Do Edifico Fronteirico Das Portas Do Cerco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19413,7 +19413,7 @@
   "id": 2300,
   "latitude": 22.198471482164575,
   "longitude": 113.53646993637085,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua Das Lorchas E Rua Do Visconde Paco De Arcos, Entre Pontes 12A-20, Ponte 16, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19436,7 +19436,7 @@
   "id": 2301,
   "latitude": 22.20013676832009,
   "longitude": 113.54540825522531,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.31 Rua de Sacadura Cabral Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19460,7 +19460,7 @@
   "id": 2302,
   "latitude": 22.148635599122425,
   "longitude": 113.56114625930786,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Venetian Macao-Resort-Hotel Staff Corridor Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19483,7 +19483,7 @@
   "id": 2303,
   "latitude": 22.148595850541387,
   "longitude": 113.5608458518982,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Venetian Macao-Resort-Hotel Staff Corridor Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19507,7 +19507,7 @@
   "id": 2304,
   "latitude": 22.19184560006787,
   "longitude": 113.55439782142639,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.203, Largo de Monte Carlo, Sands Macau Hotel, Staff Corridor, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19530,7 +19530,7 @@
   "id": 2308,
   "latitude": 22.148814467598253,
   "longitude": 113.56112480163574,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19553,7 +19553,7 @@
   "id": 2310,
   "latitude": 22.1937519,
   "longitude": 113.5516676,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Macao Polytechnic Institute, Rua de Luis Gonzaga Gomes, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19576,7 +19576,7 @@
   "id": 2312,
   "latitude": 22.149887673679924,
   "longitude": 113.56479406356812,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19599,7 +19599,7 @@
   "id": 2316,
   "latitude": 22.149430568386286,
   "longitude": 113.56462240219116,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19621,7 +19621,7 @@
   "id": 2317,
   "latitude": 22.149351071661943,
   "longitude": 113.5646653175354,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19643,7 +19643,7 @@
   "id": 2321,
   "latitude": 22.149649184146707,
   "longitude": 113.56481552124023,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19665,7 +19665,7 @@
   "id": 2322,
   "latitude": 22.14939082002973,
   "longitude": 113.56470823287964,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19687,7 +19687,7 @@
   "id": 2323,
   "latitude": 22.149529939228575,
   "longitude": 113.5646653175354,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19709,7 +19709,7 @@
   "id": 2324,
   "latitude": 22.149589561700267,
   "longitude": 113.56468677520752,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19732,7 +19732,7 @@
   "id": 2325,
   "latitude": 22.149291449089223,
   "longitude": 113.56479406356812,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19755,7 +19755,7 @@
   "id": 2326,
   "latitude": 22.14951006506573,
   "longitude": 113.56464385986328,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19778,7 +19778,7 @@
   "id": 2327,
   "latitude": 22.153216547892875,
   "longitude": 113.56735825538635,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Wai Long, Macau University Of Science Techology, Mult-Function Building, Block N, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19802,7 +19802,7 @@
   "id": 2328,
   "latitude": 22.1901137,
   "longitude": 113.5405788,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.251A-301, Avenida Comercial De Macau, A.I.A. Tower, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19825,7 +19825,7 @@
   "id": 2330,
   "latitude": 22.1492715748927,
   "longitude": 113.56485843658447,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19848,7 +19848,7 @@
   "id": 2331,
   "latitude": 22.199395305958273,
   "longitude": 113.54261755943298,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada Do Repouso, Kiang Wu Hospital, Specialist Medical Center, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19871,7 +19871,7 @@
   "id": 2338,
   "latitude": 22.206860175195885,
   "longitude": 113.54789614677429,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Colina De Mong-Ha, Instituto De Formacao Turistica, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19895,7 +19895,7 @@
   "id": 2339,
   "latitude": 22.191119,
   "longitude": 113.5347977,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua De Joao Lecaros, Mercado De S. Lourenco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19918,7 +19918,7 @@
   "id": 2340,
   "latitude": 22.20585693575461,
   "longitude": 113.55303525924683,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua Do Padre Eugenio Taverna Avenida De Venceslau De Morais, Macao Daily News Building, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19941,7 +19941,7 @@
   "id": 2341,
   "latitude": 22.209273880310597,
   "longitude": 113.55319082736969,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.52, Rua Nova Da Areia Preta, Centro De Servicos Da RAEM, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19963,7 +19963,7 @@
   "id": 2343,
   "latitude": 22.1964435,
   "longitude": 113.5558995,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.1565-1595, Avenida Da Amizada, Casino Oceanus, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -19986,7 +19986,7 @@
   "id": 2344,
   "latitude": 22.1964435,
   "longitude": 113.5558995,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.1565-1595, Avenida Da Amizada, Casino Oceanus, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -20009,7 +20009,7 @@
   "id": 2347,
   "latitude": 22.1640351,
   "longitude": 113.5577775,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Padre Tomas Pereira, Universidade De Macau, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -20033,7 +20033,7 @@
   "id": 2348,
   "latitude": 22.195848981504163,
   "longitude": 113.55230569839478,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Av do Dr Rodrigo Rodrigues, Gabinete de Ligacao do Governo Central da RPC na RAEM, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -21109,7 +21109,7 @@
   "id": 9792,
   "latitude": 22.2047727,
   "longitude": 113.5407048,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Praia R/C-C Avenida Marginal do Lam Mau Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -21213,7 +21213,7 @@
   "id": 9810,
   "latitude": 22.199454907284604,
   "longitude": 113.54272484779358,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua De Coelho Do Amaral, Kiang Wu Hospital, Outpatient Dept. No. 1, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22018,7 +22018,7 @@
   "id": 20062,
   "latitude": 22.190703175007922,
   "longitude": 113.54355096817017,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Lisboa Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22041,7 +22041,7 @@
   "id": 20063,
   "latitude": 22.190723043349234,
   "longitude": 113.5433578491211,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Lisboa Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22064,7 +22064,7 @@
   "id": 20064,
   "latitude": 22.19082238501361,
   "longitude": 113.54361534118652,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Lisboa Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22152,7 +22152,7 @@
   "id": 22681,
   "latitude": 22.186918204730087,
   "longitude": 113.55246663093567,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Dr.San Yat Sen, Centro de Ciencia de Macau, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22276,7 +22276,7 @@
   "id": 27916,
   "latitude": 22.15909653852635,
   "longitude": 113.54195773601532,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida dos Jardins do Oceano no.522-550 Taipa Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22363,7 +22363,7 @@
   "id": 27934,
   "latitude": 22.1857611,
   "longitude": 113.5492948,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22443,7 +22443,7 @@
   "id": 27938,
   "latitude": 22.14869522197296,
   "longitude": 113.55648994445801,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Cotai Cotai City, Galaxy Macau, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22467,7 +22467,7 @@
   "id": 27939,
   "latitude": 22.14875484479824,
   "longitude": 113.55578184127808,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Cotai Cotai City, Galaxy Macau, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22490,7 +22490,7 @@
   "id": 27942,
   "latitude": 22.148317610159744,
   "longitude": 113.55631828308105,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Cotai Cotai City, Galaxy Macau, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22536,7 +22536,7 @@
   "id": 30588,
   "latitude": 22.196345670994948,
   "longitude": 113.53634119033813,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua Das Lorchas E Rua Do Visconde Paco De Arcos, Entre Pontes 12A-20, Ponte 16, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22599,7 +22599,7 @@
   "id": 30591,
   "latitude": 22.21107668235588,
   "longitude": 113.55195164680481,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.206-216, Rua do Mercado de Iao Ho, iSQUARE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22622,7 +22622,7 @@
   "id": 30592,
   "latitude": 22.2113431,
   "longitude": 113.5512443,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.206-216, Rua do Mercado de Iao Ho, iSQUARE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22763,7 +22763,7 @@
   "id": 33265,
   "latitude": 22.1857611,
   "longitude": 113.5492948,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22785,7 +22785,7 @@
   "id": 33268,
   "latitude": 22.18537835824329,
   "longitude": 113.5490870475769,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22807,7 +22807,7 @@
   "id": 33269,
   "latitude": 22.185934691824468,
   "longitude": 113.54973077774048,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -23116,7 +23116,7 @@
   "id": 35981,
   "latitude": 22.193867172947385,
   "longitude": 113.5436099767685,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "G/F Lobby of Club One Oasis, One Oasis, Coloane Terreno junto a Estrada de Seac Pai Van - Aterro da Concordia, Coloane",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -23283,7 +23283,7 @@
   "id": 38692,
   "latitude": 22.18567639436431,
   "longitude": 113.54844331741333,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -23305,7 +23305,7 @@
   "id": 38693,
   "latitude": 22.18587011750395,
   "longitude": 113.54845941066742,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -23328,7 +23328,7 @@
   "id": 38694,
   "latitude": 22.156048513218558,
   "longitude": 113.57558727264404,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Macau International Airport Departure Hall, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -23754,7 +23754,7 @@
   "id": 44178,
   "latitude": 22.192610522957814,
   "longitude": 113.54991316795349,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua de Luis Gonzaga Gomes no.33 Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -23777,7 +23777,7 @@
   "id": 44179,
   "latitude": 22.1889150127824,
   "longitude": 113.54686081409454,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Wynn Macau Rua Cidadede Sintra NAPE Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24700,7 +24700,7 @@
   "id": 74586,
   "latitude": 22.165378690428756,
   "longitude": 113.55845332145691,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Edf. do Servico de Migracao Travessa Um do Cais de Pac On, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24723,7 +24723,7 @@
   "id": 74597,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24745,7 +24745,7 @@
   "id": 74598,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24767,7 +24767,7 @@
   "id": 74599,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24789,7 +24789,7 @@
   "id": 74601,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24809,7 +24809,7 @@
   "id": 74602,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24829,7 +24829,7 @@
   "id": 74603,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24849,7 +24849,7 @@
   "id": 74604,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24869,7 +24869,7 @@
   "id": 74605,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24889,7 +24889,7 @@
   "id": 74606,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24909,7 +24909,7 @@
   "id": 74607,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24929,7 +24929,7 @@
   "id": 74608,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25125,7 +25125,7 @@
   "id": 77458,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25149,7 +25149,7 @@
   "id": 77459,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25646,7 +25646,7 @@
   "id": 80414,
   "latitude": 22.147443136808352,
   "longitude": 113.56286287307739,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25707,7 +25707,7 @@
   "id": 83321,
   "latitude": 22.20578243749029,
   "longitude": 113.55345904827118,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua Do Padre Eugenio Taverna Avenida De Venceslau De Morais, Macao Daily News Building, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25786,7 +25786,7 @@
   "id": 86230,
   "latitude": 22.200191,
   "longitude": 113.5454692,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.31 Rua de Sacadura Cabral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25909,7 +25909,7 @@
   "id": 89162,
   "latitude": 22.1966218,
   "longitude": 113.5536281,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.1118, Avenida Do Dr. Rodrigo Rodigues, Casa Real Hotel, R/C Lobby, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25932,7 +25932,7 @@
   "id": 89163,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25952,7 +25952,7 @@
   "id": 89164,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25972,7 +25972,7 @@
   "id": 89173,
   "latitude": 22.14082,
   "longitude": 113.5631,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Shop 2145, Shoppes Cotai Central, Sands Cotai Central, Cotai Strip, Taip, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -25994,7 +25994,7 @@
   "id": 89174,
   "latitude": 22.14082,
   "longitude": 113.5631,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Shop 2145, Shoppes Cotai Central, Sands Cotai Central, Cotai Strip, Taip, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26017,7 +26017,7 @@
   "id": 89175,
   "latitude": 22.14082,
   "longitude": 113.5631,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Shop 2145, Shoppes Cotai Central, Sands Cotai Central, Cotai Strip, Taip, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26040,7 +26040,7 @@
   "id": 89176,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26062,7 +26062,7 @@
   "id": 89177,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26082,7 +26082,7 @@
   "id": 89178,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26102,7 +26102,7 @@
   "id": 89179,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26122,7 +26122,7 @@
   "id": 89180,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26142,7 +26142,7 @@
   "id": 89181,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26162,7 +26162,7 @@
   "id": 89182,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": " The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26182,7 +26182,7 @@
   "id": 89183,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26202,7 +26202,7 @@
   "id": 89184,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26222,7 +26222,7 @@
   "id": 89185,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26242,7 +26242,7 @@
   "id": 89186,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26262,7 +26262,7 @@
   "id": 89187,
   "latitude": 22.14082,
   "longitude": 113.5631,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26282,7 +26282,7 @@
   "id": 89188,
   "latitude": 22.14082,
   "longitude": 113.5631,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26302,7 +26302,7 @@
   "id": 89189,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26322,7 +26322,7 @@
   "id": 89190,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26342,7 +26342,7 @@
   "id": 89191,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26362,7 +26362,7 @@
   "id": 89193,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26384,7 +26384,7 @@
   "id": 89194,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26406,7 +26406,7 @@
   "id": 89195,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26428,7 +26428,7 @@
   "id": 89196,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26450,7 +26450,7 @@
   "id": 89197,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26472,7 +26472,7 @@
   "id": 89198,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26494,7 +26494,7 @@
   "id": 89199,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26516,7 +26516,7 @@
   "id": 89200,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": " The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26539,7 +26539,7 @@
   "id": 89203,
   "latitude": 22.194781274559926,
   "longitude": 113.53536595878602,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Macau Terminal Maritimo de Passageiros do Porto Interior",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26562,7 +26562,7 @@
   "id": 89204,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26584,7 +26584,7 @@
   "id": 89205,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": " The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26921,7 +26921,7 @@
   "id": 98223,
   "latitude": 22.2095095,
   "longitude": 113.5447777,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.79, Avenida General Castelo Branco, R/C, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26944,7 +26944,7 @@
   "id": 98224,
   "latitude": 22.20388520169972,
   "longitude": 113.5426926612854,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "AVENIDA DO ALMIRANTE LACERDA N 52, SON BON VILLAS R/C D, MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26967,7 +26967,7 @@
   "id": 98225,
   "latitude": 22.203915001412984,
   "longitude": 113.54270875453949,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "AVENIDA DO ALMIRANTE LACERDA N 52, SON BON VILLAS R/C D, MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -26990,7 +26990,7 @@
   "id": 98226,
   "latitude": 22.191778544940618,
   "longitude": 113.54487866163254,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "DSFSM, Calcada dos Quarteis, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27442,7 +27442,7 @@
   "id": 104303,
   "latitude": 22.2107726,
   "longitude": 113.5428984,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "AVENIDA DO CONSELHEIRO BORJA, NO.435 ,MAYFAIR GARDEN R/C BK,MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27466,7 +27466,7 @@
   "id": 104304,
   "latitude": 22.2107726,
   "longitude": 113.5428984,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "AVENIDA DO CONSELHEIRO BORJA, NO.435 ,MAYFAIR GARDEN R/C BK,MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27649,7 +27649,7 @@
   "id": 104326,
   "latitude": 22.2034443,
   "longitude": 113.5485762,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "EDF. ORIENTAL GARDEN, AVENIDA DO OUVIDOR ARRIAGA R/C-N,MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27672,7 +27672,7 @@
   "id": 104327,
   "latitude": 22.2034443,
   "longitude": 113.5485762,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "EDF. ORIENTAL GARDEN, AVENIDA DO OUVIDOR ARRIAGA R/C-N,MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27695,7 +27695,7 @@
   "id": 104328,
   "latitude": 22.156588,
   "longitude": 113.57285,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Macau International Airport , Immigration South Lobby",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27717,7 +27717,7 @@
   "id": 104329,
   "latitude": 22.15666458233777,
   "longitude": 113.5731840133667,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Macau International Airport , Immigration North Lobby",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27739,7 +27739,7 @@
   "id": 104330,
   "latitude": 22.21471201438113,
   "longitude": 113.54911923408508,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Local de Saida (Atio de immigracao) , Edifico Fronteirico das Portas do Cerco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27763,7 +27763,7 @@
   "id": 104332,
   "latitude": 22.197299309892536,
   "longitude": 113.55891466140747,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Local de Saida (Atio de immigracao) Terminal Maritimo de Macau, Avenida da Amizade, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27886,7 +27886,7 @@
   "id": 110501,
   "latitude": 22.2016066,
   "longitude": 113.5459551,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.61-63 Rua Francisco Xavier Pereira, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27909,7 +27909,7 @@
   "id": 110502,
   "latitude": 22.1577252,
   "longitude": 113.55813,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No. 388, Rua De Evora R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27933,7 +27933,7 @@
   "id": 110503,
   "latitude": 22.1577252,
   "longitude": 113.55813,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No. 388, Rua De Evora R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -27979,7 +27979,7 @@
   "id": 113554,
   "latitude": 22.20784602478965,
   "longitude": 113.55113089084625,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.130, Avenida De Venceslau De Morais, Bloco P, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28002,7 +28002,7 @@
   "id": 113555,
   "latitude": 22.19252111660126,
   "longitude": 113.54041814804077,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28025,7 +28025,7 @@
   "id": 113556,
   "latitude": 22.19254595170601,
   "longitude": 113.54040741920471,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28048,7 +28048,7 @@
   "id": 113557,
   "latitude": 22.192528567133156,
   "longitude": 113.54039669036865,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28089,7 +28089,7 @@
   "id": 113560,
   "latitude": 22.194536471070062,
   "longitude": 113.54125767946243,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.9-11, Rua De S.Domigos, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28112,7 +28112,7 @@
   "id": 113561,
   "latitude": 22.1946542,
   "longitude": 113.5413422,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.9-11, Rua De S.Domigos, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28134,7 +28134,7 @@
   "id": 113563,
   "latitude": 22.212891,
   "longitude": 113.5514936,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.279, Rua Da Tribuna, Edificio Wai Long, Bloco B, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28157,7 +28157,7 @@
   "id": 113564,
   "latitude": 22.209505,
   "longitude": 113.544761,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.79, Avenida General Castelo Branco, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28181,7 +28181,7 @@
   "id": 113565,
   "latitude": 22.210853195756645,
   "longitude": 113.54940354824066,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.41-43, Rua Um Do Bairro Iao Hon, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28264,7 +28264,7 @@
   "id": 116576,
   "latitude": 22.202308291181826,
   "longitude": 113.54990780353546,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.20-26, Avenida Do Ouvidor De Arriaga, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28288,7 +28288,7 @@
   "id": 116586,
   "latitude": 22.2028528,
   "longitude": 113.5514016,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Est. Coronel Nicolau de Mesquita, Edf. do lago Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28311,7 +28311,7 @@
   "id": 116588,
   "latitude": 22.1610386,
   "longitude": 113.556214,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.583-601, Avenida Dr. Sun Yat Sen, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28335,7 +28335,7 @@
   "id": 116591,
   "latitude": 22.20267830799631,
   "longitude": 113.5430520772934,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.49-51, Rua Da Barca, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28359,7 +28359,7 @@
   "id": 116592,
   "latitude": 22.202638574693843,
   "longitude": 113.54304671287537,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.49-51, Rua Da Barca, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28403,7 +28403,7 @@
   "id": 119586,
   "latitude": 22.207957770528306,
   "longitude": 113.55631828308105,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28427,7 +28427,7 @@
   "id": 119587,
   "latitude": 22.20779387674783,
   "longitude": 113.55624854564667,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28451,7 +28451,7 @@
   "id": 119588,
   "latitude": 22.211056816894803,
   "longitude": 113.5501492023468,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-D No.23 Rua Dois do Bairro Iao Hon Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28474,7 +28474,7 @@
   "id": 119589,
   "latitude": 22.211116413269586,
   "longitude": 113.55016529560089,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-D No.23 Rua Dois do Bairro Iao Hon Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28498,7 +28498,7 @@
   "id": 119590,
   "latitude": 22.198970645775706,
   "longitude": 113.54268461465836,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.70 Rua Coelho Do Amaral Kiang Wu Hospital Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28522,7 +28522,7 @@
   "id": 119591,
   "latitude": 22.198997963136037,
   "longitude": 113.54284822940826,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.70 Rua Coelho Do Amaral Kiang Wu Hospital Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28545,7 +28545,7 @@
   "id": 119593,
   "latitude": 22.203855401980135,
   "longitude": 113.53803634643555,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Praia R/C-C Avenida Marginal do Lam Mau Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28568,7 +28568,7 @@
   "id": 119595,
   "latitude": 22.2020294,
   "longitude": 113.5378378,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.42, Rua De Ribeira De Patane, R/C, Maca",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28592,7 +28592,7 @@
   "id": 119596,
   "latitude": 22.2020294,
   "longitude": 113.5378378,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.42, Rua De Ribeira De Patane, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28616,7 +28616,7 @@
   "id": 119598,
   "latitude": 22.115853,
   "longitude": 113.5507068,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.91-95, Rua Cinco De Outubro, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28845,7 +28845,7 @@
   "id": 125599,
   "latitude": 22.211334933093905,
   "longitude": 113.55767011642456,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28868,7 +28868,7 @@
   "id": 125600,
   "latitude": 22.2113647312254,
   "longitude": 113.55764865875244,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28892,7 +28892,7 @@
   "id": 125601,
   "latitude": 22.2112389,
   "longitude": 113.5574662,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28915,7 +28915,7 @@
   "id": 125602,
   "latitude": 22.2112389,
   "longitude": 113.5574662,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28939,7 +28939,7 @@
   "id": 128609,
   "latitude": 22.211732,
   "longitude": 113.555036,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "EDF Man On No.98 Rua Direita do Estrada da Areia Preta Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -29514,7 +29514,7 @@
   "id": 134735,
   "latitude": 22.1903432,
   "longitude": 113.5407857,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Emperor Hotel 3F No.288 Av Comercial de Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -29762,7 +29762,7 @@
   "id": 137828,
   "latitude": 22.204039876004575,
   "longitude": 113.53787677682953,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Praia R/C-C Avenida Marginal do Lam Mau Maca",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -29825,7 +29825,7 @@
   "id": 143862,
   "latitude": 22.16371,
   "longitude": 113.559663,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "University of Macau Wu Yee Sun Library (E2), Avenida da Universidade, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -29849,7 +29849,7 @@
   "id": 143863,
   "latitude": 22.152643278696587,
   "longitude": 113.56653623436273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida da Universidade,Postgraduate House S3 Macau, China",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -29872,7 +29872,7 @@
   "id": 143864,
   "latitude": 22.2126409,
   "longitude": 113.54402129999994,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida do General Castelo Branco,No.646-652",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -30056,7 +30056,7 @@
   "id": 146895,
   "latitude": 22.189179388288988,
   "longitude": 113.5419152945816,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Comercial de Macau,FINANCE AND IT CENTER OF MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -30080,7 +30080,7 @@
   "id": 146896,
   "latitude": 22.152211618018463,
   "longitude": 113.56816448570555,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Block H,Macau University of Science and Techology,Avenida Wai Long, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -30103,7 +30103,7 @@
   "id": 146897,
   "latitude": 22.19401700917478,
   "longitude": 113.54672685158994,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada do Visconde de S. Januario(Edf. CHCSJ)",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -30460,7 +30460,7 @@
   "id": 156023,
   "latitude": 22.1638946,
   "longitude": 113.55637760000002,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "University of Macau Avenida da Universidade, University Mall, G/F Room 012 Macau, China",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -30483,7 +30483,7 @@
   "id": 156024,
   "latitude": 22.1638946,
   "longitude": 113.55637760000002,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "University of Macau Avenida da Universidade, University Mall, G/F Room 012 Macau, China",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -30506,7 +30506,7 @@
   "id": 156025,
   "latitude": 22.15332454545304,
   "longitude": 113.56827177406615,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Sala N107, r/c, Bloco N, Universidade de Ciencia e Tecnologia de Macau Avenida Wai Long, Taipa, MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -30529,7 +30529,7 @@
   "id": 156026,
   "latitude": 22.14436505275487,
   "longitude": 113.56171720157477,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Four Seasons Hotel Estrada do Istmo, s/n Venetian Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -31135,7 +31135,7 @@
   "id": 168261,
   "latitude": 22.193909,
   "longitude": 113.54684,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Res-do-chao do Edf. das consultas externas do CHCSJ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -31459,7 +31459,7 @@
   "id": 171358,
   "latitude": 22.191448965306442,
   "longitude": 113.54150840541843,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida do Infante D. Henrique, The Macau Square R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -31482,7 +31482,7 @@
   "id": 171360,
   "latitude": 22.18827087004713,
   "longitude": 113.54509788675534,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Wynn Macau, Rua Cidadede Sintra, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -31504,7 +31504,7 @@
   "id": 171361,
   "latitude": 22.188300673074096,
   "longitude": 113.54503887815702,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Wynn Macau, Rua Cidadede Sintra, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -31731,7 +31731,7 @@
   "id": 171380,
   "latitude": 22.195550586886846,
   "longitude": 113.55272071838533,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Marciano Baptista No. 208",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -32228,7 +32228,7 @@
   "id": 180715,
   "latitude": 22.2030722,
   "longitude": 113.5406226,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "RUA DA RIBEIRA DO PATANE, No 2-6,MACAU Edf. da F.A.O.M, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -32252,7 +32252,7 @@
   "id": 180716,
   "latitude": 22.1970965,
   "longitude": 113.55904980000003,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Terminal Maritimo de Macau FL.1, Avenida da Amizade, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -32637,7 +32637,7 @@
   "id": 186908,
   "latitude": 22.147404900354942,
   "longitude": 113.55828492275396,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau SAR",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -32659,7 +32659,7 @@
   "id": 186910,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -32681,7 +32681,7 @@
   "id": 186911,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -32703,7 +32703,7 @@
   "id": 186912,
   "latitude": 22.141509,
   "longitude": 113.5639273,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -33102,7 +33102,7 @@
   "id": 190000,
   "latitude": 22.140905476129177,
   "longitude": 113.56300956406244,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -33125,7 +33125,7 @@
   "id": 190003,
   "latitude": 22.141124105128224,
   "longitude": 113.56292373337396,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -33148,7 +33148,7 @@
   "id": 190004,
   "latitude": 22.141004852989,
   "longitude": 113.56305247940668,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -33171,7 +33171,7 @@
   "id": 190005,
   "latitude": 22.141064479071233,
   "longitude": 113.56303102173456,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -33194,7 +33194,7 @@
   "id": 190006,
   "latitude": 22.140905476129177,
   "longitude": 113.56281644501337,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -33216,7 +33216,7 @@
   "id": 190007,
   "latitude": 22.140567594281173,
   "longitude": 113.56290227570184,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36355,7 +36355,7 @@
   "id": 193394,
   "latitude": 22.14205327458713,
   "longitude": 113.56310075916895,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36377,7 +36377,7 @@
   "id": 193395,
   "latitude": 22.142038368173633,
   "longitude": 113.56309539475092,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36400,7 +36400,7 @@
   "id": 193396,
   "latitude": 22.142018492953138,
   "longitude": 113.56303102173456,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36423,7 +36423,7 @@
   "id": 193397,
   "latitude": 22.141958867274887,
   "longitude": 113.56303102173456,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36446,7 +36446,7 @@
   "id": 193398,
   "latitude": 22.1578359,
   "longitude": 113.57641230000002,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Macau International Airport, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36469,7 +36469,7 @@
   "id": 193399,
   "latitude": 22.2098129,
   "longitude": 113.53424900000005,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Parque Industrial, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36493,7 +36493,7 @@
   "id": 193402,
   "latitude": 22.157725200000016,
   "longitude": 113.55813670552254,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No. 388, Rua De Evora R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36650,7 +36650,7 @@
   "id": 193417,
   "latitude": 22.140368839874217,
   "longitude": 113.56337434448847,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36672,7 +36672,7 @@
   "id": 196721,
   "latitude": 22.2112765,
   "longitude": 113.54747889999999,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Artur Tamagnini Barbosa, Edf. Choi Fai Kok R/C-A, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36714,7 +36714,7 @@
   "id": 196726,
   "latitude": 22.140209836146678,
   "longitude": 113.56311685242304,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36737,7 +36737,7 @@
   "id": 196727,
   "latitude": 22.140170085186735,
   "longitude": 113.56311685242304,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Star World Hotel, Avenida de Amizade, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36759,7 +36759,7 @@
   "id": 196728,
   "latitude": 22.14032908895916,
   "longitude": 113.5630739370788,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36782,7 +36782,7 @@
   "id": 196729,
   "latitude": 22.140229711622442,
   "longitude": 113.5629666487182,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "G/F Lobby, 70 Avenida do Dr. Rodrigues, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36805,7 +36805,7 @@
   "id": 196730,
   "latitude": 22.140348964418095,
   "longitude": 113.5630739370788,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -36828,7 +36828,7 @@
   "id": 196731,
   "latitude": 22.140309213497428,
   "longitude": 113.56303102173456,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida De Cotai Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37130,7 +37130,7 @@
   "id": 199840,
   "latitude": 22.163550263600886,
   "longitude": 113.55613288476411,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Padre Tomas Pereira Taipa Block 1 R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37154,7 +37154,7 @@
   "id": 202917,
   "latitude": 22.189486149612538,
   "longitude": 113.55229543187716,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-Y,Z,AA, No.322,326,330, Avenida do Governador Jaime Silverio Marques, Jardim Nam Ngon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37781,7 +37781,7 @@
   "id": 206069,
   "latitude": 22.14533062334904,
   "longitude": 113.5542907534118,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37803,7 +37803,7 @@
   "id": 206070,
   "latitude": 22.14501262692068,
   "longitude": 113.55842135529474,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37825,7 +37825,7 @@
   "id": 206073,
   "latitude": 22.144501217225542,
   "longitude": 113.554008555481,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37847,7 +37847,7 @@
   "id": 206074,
   "latitude": 22.144501217225557,
   "longitude": 113.55396564013677,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37869,7 +37869,7 @@
   "id": 206075,
   "latitude": 22.144839089634157,
   "longitude": 113.55383689410405,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37891,7 +37891,7 @@
   "id": 206077,
   "latitude": 22.144222968750785,
   "longitude": 113.55375106341558,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37914,7 +37914,7 @@
   "id": 206078,
   "latitude": 22.144580716688765,
   "longitude": 113.55383689410405,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37937,7 +37937,7 @@
   "id": 206079,
   "latitude": 22.1284934,
   "longitude": 113.56230630000005,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Vale das Borboleta, complexo de habitacao publica de Seac Pai Van, R/C, Coloane",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37960,7 +37960,7 @@
   "id": 206080,
   "latitude": 22.14446146747709,
   "longitude": 113.55413730151372,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -37983,7 +37983,7 @@
   "id": 206081,
   "latitude": 22.14454096696275,
   "longitude": 113.55353648669438,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38005,7 +38005,7 @@
   "id": 206083,
   "latitude": 22.1284934,
   "longitude": 113.56230630000005,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Vale das Borboleta, complexo de habitacao publica de Seac Pai Van, R/C, Coloane",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38028,7 +38028,7 @@
   "id": 206084,
   "latitude": 22.144521092095555,
   "longitude": 113.55375106341558,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38051,7 +38051,7 @@
   "id": 206085,
   "latitude": 22.144660216107063,
   "longitude": 113.55405147082524,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38328,7 +38328,7 @@
   "id": 206102,
   "latitude": 22.2015987,
   "longitude": 113.54598099999998,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.61-63 Rua Francisco Xavier Pereira, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38351,7 +38351,7 @@
   "id": 206103,
   "latitude": 22.1996147,
   "longitude": 113.54229950000001,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.67-71, Rua De Coelho Do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38375,7 +38375,7 @@
   "id": 206106,
   "latitude": 22.2047501,
   "longitude": 113.5408433,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Praia R/C-C Avenida Marginal do Lam Mau Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38398,7 +38398,7 @@
   "id": 206108,
   "latitude": 22.1900113,
   "longitude": 113.54017079999994,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "G/F Lobby of A.I.A Tower, No. 251A-301, Avenida Comercial de Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38421,7 +38421,7 @@
   "id": 206109,
   "latitude": 22.2113484,
   "longitude": 113.55023819999997,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-D No.23 Rua Dois do Bairro Iao Hon Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38444,7 +38444,7 @@
   "id": 206111,
   "latitude": 22.2105616,
   "longitude": 113.54799520000006,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Istmo de Ferreira do Amaral, Edf. Chui Yi, I Fai Kok R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38468,7 +38468,7 @@
   "id": 206112,
   "latitude": 22.2105616,
   "longitude": 113.54799520000006,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Istmo de Ferreira do Amaral, Edf. Chui Yi, I Fai Kok R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38492,7 +38492,7 @@
   "id": 206114,
   "latitude": 22.15746709989283,
   "longitude": 113.54979822883604,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada Governador Albano de Oliveira, No 200-212, Edf. Happy Valley, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -38515,7 +38515,7 @@
   "id": 206115,
   "latitude": 22.15743480619825,
   "longitude": 113.54974458465574,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada Governador Albano de Oliveira, No 200-212, Edf. Happy Valley, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -39734,7 +39734,7 @@
   "id": 222056,
   "latitude": 22.1899283,
   "longitude": 113.54277660000002,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -39757,7 +39757,7 @@
   "id": 222057,
   "latitude": 22.1899283,
   "longitude": 113.54277660000002,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -39780,7 +39780,7 @@
   "id": 222058,
   "latitude": 22.2027079,
   "longitude": 113.54495659999998,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Edf. Heng Seng, R/C B, No. 54 Estrada de Coelho do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -39804,7 +39804,7 @@
   "id": 222059,
   "latitude": 22.2027079,
   "longitude": 113.54495659999998,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Edf. Heng Seng, R/C B, No. 54 Estrada de Coelho do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -39828,7 +39828,7 @@
   "id": 222060,
   "latitude": 22.2027079,
   "longitude": 113.54495659999998,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Edf. Heng Seng, R/C B, No. 54 Estrada de Coelho do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -39852,7 +39852,7 @@
   "id": 222061,
   "latitude": 22.1277901,
   "longitude": 113.5572481,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "One Oasis, Seac Pai Van, Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -39875,7 +39875,7 @@
   "id": 222062,
   "latitude": 22.1923514,
   "longitude": 113.54080920000001,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -40264,7 +40264,7 @@
   "id": 225318,
   "latitude": 22.1882571,
   "longitude": 113.54968589999999,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.431-437, Rua Cidade de Coimbra Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -40287,7 +40287,7 @@
   "id": 225319,
   "latitude": 22.1882571,
   "longitude": 113.54968589999999,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.431-437, Rua Cidade de Coimbra Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -40311,7 +40311,7 @@
   "id": 225320,
   "latitude": 22.1882571,
   "longitude": 113.54968589999999,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.431-437, Rua Cidade de Coimbra Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -40782,7 +40782,7 @@
   "id": 231809,
   "latitude": 22.141558,
   "longitude": 113.568968,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida da Nave Desportiva, COTAI, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -40805,7 +40805,7 @@
   "id": 231810,
   "latitude": 22.141558,
   "longitude": 113.568968,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida da Nave Desportiva, COTAI, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -40827,7 +40827,7 @@
   "id": 231811,
   "latitude": 22.141568,
   "longitude": 113.568914,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida da Nave Desportiva, COTAI, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -40849,7 +40849,7 @@
   "id": 231812,
   "latitude": 22.1872613,
   "longitude": 113.54614749999996,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Wynn Macau, Rua Cidadede Sintra, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -40871,7 +40871,7 @@
   "id": 231814,
   "latitude": 22.141558,
   "longitude": 113.568914,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida da Nave Desportiva, COTAI, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -41138,7 +41138,7 @@
   "id": 235078,
   "latitude": 22.214006,
   "longitude": 113.551074,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua do Hortelaos No.78 Edf Sun Star Plaza Bloco 3 Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -41162,7 +41162,7 @@
   "id": 235079,
   "latitude": 22.207146,
   "longitude": 113.543991,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua Nova do Patane No. 68 Edf Luen San Plaza, Block, CG Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -41185,7 +41185,7 @@
   "id": 235080,
   "latitude": 22.207146,
   "longitude": 113.543991,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua Nova do Patane No. 68 Edf Luen San Plaza, Block, CG Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -41567,7 +41567,7 @@
   "id": 235108,
   "latitude": 22.207874,
   "longitude": 113.549811,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Edf Heng Wan no.35 C Esteada da Aeria Preta Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -41590,7 +41590,7 @@
   "id": 235109,
   "latitude": 22.207874,
   "longitude": 113.549811,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Edf Heng Wan no.35 C Esteada da Aeria Preta Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -41613,7 +41613,7 @@
   "id": 235110,
   "latitude": 22.207874,
   "longitude": 113.549811,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Edf Heng Wan no.35 C Esteada da Aeria Preta Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -41636,7 +41636,7 @@
   "id": 235111,
   "latitude": 22.206975,
   "longitude": 113.547659,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Lobby, Avenida Padre Tomas Pereira,S.N. Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -41660,7 +41660,7 @@
   "id": 235113,
   "latitude": 22.210606,
   "longitude": 113.546105,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Star World Hotel 3F Avenida de Amizade Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -42667,7 +42667,7 @@
   "id": 238458,
   "latitude": 22.145058,
   "longitude": 113.565545,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada do Istmo, Lote 3, Cotai Strip, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -42690,7 +42690,7 @@
   "id": 238460,
   "latitude": 22.145058,
   "longitude": 113.565545,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada do Istmo, Lote 3, Cotai Strip, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -42713,7 +42713,7 @@
   "id": 238461,
   "latitude": 22.145058,
   "longitude": 113.565545,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada do Istmo, Lote 3, Cotai Strip, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -44310,7 +44310,7 @@
   "id": 264901,
   "latitude": 22.213758437308833,
   "longitude": 113.54976744966814,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua da Serenidade, No.117, Edf. Pak Lai (Block C) R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -44333,7 +44333,7 @@
   "id": 264902,
   "latitude": 22.189839,
   "longitude": 113.545645,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "1st floor, No.197-223 Avenida da, Amizade, Edf. Centro Commercial San Kin Yip, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -44542,7 +44542,7 @@
   "id": 268203,
   "latitude": 22.16225,
   "longitude": 113.57754999999997,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Taipa Ferry Terminal, Estrada de Pac On, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -45111,7 +45111,7 @@
   "id": 274861,
   "latitude": 22.149423,
   "longitude": 113.566592,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -45350,7 +45350,7 @@
   "id": 278209,
   "latitude": 22.1492208,
   "longitude": 113.56658659999994,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -45443,7 +45443,7 @@
   "id": 278219,
   "latitude": 22.192392,
   "longitude": 113.54038300000002,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No. 437, AV Doutor Stanley Ho, Edf dos Juizos Criminais do Tribunal Judicial de Base, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -45466,7 +45466,7 @@
   "id": 278221,
   "latitude": 22.2132904,
   "longitude": 113.53720210000006,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.14-17, Estrada Marginal da Ilha Verde, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -45863,7 +45863,7 @@
   "id": 281600,
   "latitude": 22.192345,
   "longitude": 113.54653029999997,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Nam Kwong Building, Avenida do Dr. Rodrigo Rodrigues, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -45886,7 +45886,7 @@
   "id": 281601,
   "latitude": 22.1651151,
   "longitude": 113.57234879999999,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Taipa Ferry Terminal, Estrada de Pac On, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -45909,7 +45909,7 @@
   "id": 281605,
   "latitude": 22.1302458,
   "longitude": 113.56451190000007,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C, Block VIII Edf. Ip Heng, Seac Pai Van, Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46120,7 +46120,7 @@
   "id": 285003,
   "latitude": 22.1294181,
   "longitude": 113.54491129999997,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "BOC Centennial Building(E3), University of Macau, Avenida da Universidade, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46363,7 +46363,7 @@
   "id": 288385,
   "latitude": 22.195558,
   "longitude": 113.554401,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada da Vitoria, Edificio de Servicos do Comissariado de Transito de Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46501,7 +46501,7 @@
   "id": 288392,
   "latitude": 22.185607,
   "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46523,7 +46523,7 @@
   "id": 288394,
   "latitude": 22.185607,
   "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46545,7 +46545,7 @@
   "id": 288395,
   "latitude": 22.185607,
   "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46567,7 +46567,7 @@
   "id": 288397,
   "latitude": 22.185607,
   "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46589,7 +46589,7 @@
   "id": 288398,
   "latitude": 22.185607,
   "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46611,7 +46611,7 @@
   "id": 288399,
   "latitude": 22.185607,
   "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46634,7 +46634,7 @@
   "id": 288403,
   "latitude": 22.185607,
   "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46657,7 +46657,7 @@
   "id": 288404,
   "latitude": 22.185607,
   "longitude": 113.547978,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "MGM Cotai, Avenida da Nave Desportiva, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -47070,7 +47070,7 @@
   "id": 291839,
   "latitude": 22.149463,
   "longitude": 113.566551,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -49462,7 +49462,7 @@
   "id": 326750,
   "latitude": 22.2016,
   "longitude": 113.5762,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -49486,7 +49486,7 @@
   "id": 326751,
   "latitude": 22.2016,
   "longitude": 113.5762,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -49509,7 +49509,7 @@
   "id": 326752,
   "latitude": 22.2016,
   "longitude": 113.5762,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": " Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -49533,7 +49533,7 @@
   "id": 326753,
   "latitude": 22.2016,
   "longitude": 113.5762,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -49557,7 +49557,7 @@
   "id": 326755,
   "latitude": 22.2016,
   "longitude": 113.5762,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -49581,7 +49581,7 @@
   "id": 326756,
   "latitude": 22.2016,
   "longitude": 113.5762,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -49605,7 +49605,7 @@
   "id": 326757,
   "latitude": 22.2016,
   "longitude": 113.5762,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -50643,7 +50643,7 @@
   "id": 337318,
   "latitude": 22.1491289,
   "longitude": 113.56658919999995,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "F292, Level 2, City of Dreams, Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -50667,7 +50667,7 @@
   "id": 337319,
   "latitude": 22.1491289,
   "longitude": 113.56658919999995,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "F292, Level 2, City of Dreams, Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -50690,7 +50690,7 @@
   "id": 337320,
   "latitude": 22.1491289,
   "longitude": 113.56658919999995,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": " F292, Level 2, City of Dreams, Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -51002,7 +51002,7 @@
   "id": 340823,
   "latitude": null,
   "longitude": null,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -51045,7 +51045,7 @@
   "id": 344317,
   "latitude": 22.18986100000002,
   "longitude": 113.54296863558193,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -51085,7 +51085,7 @@
   "id": 344319,
   "latitude": 22.18986596711539,
   "longitude": 113.54290426256557,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Dr. Mario Soares, Edificio Banco Da China, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -51107,7 +51107,7 @@
   "id": 344320,
   "latitude": 22.18986596711539,
   "longitude": 113.54295790674587,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida Dr. Mario Soares, Edificio Banco Da China, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -51146,7 +51146,7 @@
   "id": 344322,
   "latitude": 22.2035127,
   "longitude": 113.53833140000006,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Marcado do Patane, Avenida de Demetrio Cintatti, Macao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -51620,7 +51620,7 @@
   "id": 358313,
   "latitude": 22.2015879,
   "longitude": 113.54599570000005,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.61-63, Rua Francisco Xavier Pereira, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -51643,7 +51643,7 @@
   "id": 358314,
   "latitude": 22.2015879,
   "longitude": 113.54599570000005,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.61-63, Rua Francisco Xavier Pereira, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52723,7 +52723,7 @@
   "id": 361785,
   "latitude": 22.205136185331988,
   "longitude": 113.54154320989119,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Praia R/C-C Avenida Marginal do Lam Mau Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52913,7 +52913,7 @@
   "id": 365211,
   "latitude": 22.2054233,
   "longitude": 113.55365689999996,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua Do Padre Eugenio Taverna Avenida De Venceslau De Morais, Macao Daily News Building, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52971,7 +52971,7 @@
   "id": 365214,
   "latitude": 22.2061277,
   "longitude": 113.550567,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C L&M, No.11-13, Jardins Sun Yick, Rampa dos Cavaleiros, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52994,7 +52994,7 @@
   "id": 365215,
   "latitude": 22.2061277,
   "longitude": 113.550567,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C L&M, No.11-13, Jardins Sun Yick, Rampa dos Cavaleiros, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53017,7 +53017,7 @@
   "id": 365216,
   "latitude": 22.2061277,
   "longitude": 113.550567,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C L&M, No.11-13, Jardins Sun Yick, Rampa dos Cavaleiros, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53040,7 +53040,7 @@
   "id": 365217,
   "latitude": 22.1577306,
   "longitude": 113.55823869999995,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.388, Rua De Evora, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53063,7 +53063,7 @@
   "id": 365218,
   "latitude": 22.1577306,
   "longitude": 113.55823869999995,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.388, Rua De Evora, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53086,7 +53086,7 @@
   "id": 365219,
   "latitude": 22.2025398,
   "longitude": 113.54706110000006,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.33, Avenida Horta E Costa, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53109,7 +53109,7 @@
   "id": 365220,
   "latitude": 22.2025398,
   "longitude": 113.54706110000006,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.33, Avenida Horta E Costa, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53155,7 +53155,7 @@
   "id": 365222,
   "latitude": 22.2034443,
   "longitude": 113.54857620000007,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "EDF. ORIENTAL GARDEN, AVENIDA DO OUVIDOR ARRIAGA R/C-N,MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53178,7 +53178,7 @@
   "id": 365223,
   "latitude": 22.2114337,
   "longitude": 113.54987849999998,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-D No.23 Rua Dois do Bairro Iao Hon Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53200,7 +53200,7 @@
   "id": 368637,
   "latitude": 22.199652598782894,
   "longitude": 113.5424036325062,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": " No.70 Rua Coelho Do Amaral Kiang Wu Hospital Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53222,7 +53222,7 @@
   "id": 368638,
   "latitude": 22.2000287,
   "longitude": 113.54534450000006,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.31 Rua de Sacadura Cabral Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53245,7 +53245,7 @@
   "id": 368639,
   "latitude": 22.21304073370468,
   "longitude": 113.55150553988119,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.279, Rua Da Tribuna, Edificio Wai Long, Bloco B, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53269,7 +53269,7 @@
   "id": 368640,
   "latitude": 22.21303825055697,
   "longitude": 113.55150285767218,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.279, Rua Da Tribuna, Edificio Wai Long, Bloco B, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53309,7 +53309,7 @@
   "id": 368642,
   "latitude": 22.2089939,
   "longitude": 113.553225,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.52, Rua Nova Da Areia Preta, Centro De Servicos Da RAEM, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53333,7 +53333,7 @@
   "id": 368643,
   "latitude": 22.157538589123817,
   "longitude": 113.55149882703574,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada Governador Albano de Oliveira, No 200-212, Edf. Happy Valley, R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53356,7 +53356,7 @@
   "id": 368644,
   "latitude": 22.2078653,
   "longitude": 113.54976999999997,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Edf Heng Wan no.35 C Esteada da Aeria Preta Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53400,7 +53400,7 @@
   "id": 368646,
   "latitude": 22.1955202,
   "longitude": 113.54470659999993,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.338-342, Rua Do Campo, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53424,7 +53424,7 @@
   "id": 368647,
   "latitude": 22.1966365,
   "longitude": 113.54562669999996,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.22-24, Avenida do Conselheiro Ferreira de Almeida, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53469,7 +53469,7 @@
   "id": 368649,
   "latitude": 22.2095102,
   "longitude": 113.54454520000002,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.79, Avenida General Castelo Branco, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53611,7 +53611,7 @@
   "id": 372057,
   "latitude": 22.1390653,
   "longitude": 113.5589891,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Posto Fronteirico de Hengqin",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53634,7 +53634,7 @@
   "id": 372058,
   "latitude": 22.1390653,
   "longitude": 113.5589891,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Posto Fronteirico de Hengqin",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53658,7 +53658,7 @@
   "id": 372059,
   "latitude": 22.1525718,
   "longitude": 113.56809999999996,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Sala N107, r/c, Bloco N, Universidade de Ciencia e Tecnologia de Macau Avenida Wai Long, Taipa, MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53681,7 +53681,7 @@
   "id": 372060,
   "latitude": 22.124287270302762,
   "longitude": 113.54411653041075,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "University of Macau Avenida da Universidade, University Mall, G/F",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53728,7 +53728,7 @@
   "id": 375467,
   "latitude": 22.192356,
   "longitude": 113.54058039999995,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53751,7 +53751,7 @@
   "id": 375468,
   "latitude": 22.192356,
   "longitude": 113.54058039999995,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53810,7 +53810,7 @@
   "id": 375471,
   "latitude": 22.1925923,
   "longitude": 113.54806489999999,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.382, Avenida Do Dr. Rodrigo Rodrigues, Bloco A, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54191,7 +54191,7 @@
   "id": 382280,
   "latitude": 22.1410008,
   "longitude": 113.5613681,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54213,7 +54213,7 @@
   "id": 382281,
   "latitude": 22.1604445,
   "longitude": 113.5531482,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Kwong Tung, Nova Grand R/C, Loja G02, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54236,7 +54236,7 @@
   "id": 382282,
   "latitude": 22.1604445,
   "longitude": 113.5531482,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Kwong Tung, Nova Grand R/C, Loja G02, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54260,7 +54260,7 @@
   "id": 382283,
   "latitude": 22.1604445,
   "longitude": 113.5531482,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Kwong Tung, Nova Grand R/C, Loja G02, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54283,7 +54283,7 @@
   "id": 382284,
   "latitude": 22.1604445,
   "longitude": 113.5531482,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Kwong Tung, Nova Grand R/C, Loja G02, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54306,7 +54306,7 @@
   "id": 382285,
   "latitude": 22.1604445,
   "longitude": 113.5531482,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida de Kwong Tung, Nova Grand R/C, Loja G02, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54997,7 +54997,7 @@
   "id": 392589,
   "latitude": 22.2047706,
   "longitude": 113.5446709,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.103, Avenida Horta E Costa, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55020,7 +55020,7 @@
   "id": 392590,
   "latitude": 22.2047706,
   "longitude": 113.5446709,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.103, Avenida Horta E Costa, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55044,7 +55044,7 @@
   "id": 392591,
   "latitude": 22.21091693999936,
   "longitude": 113.54934177112924,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.41-43, Rua Um Do Bairro Iao Hon, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55362,7 +55362,7 @@
   "id": 392611,
   "latitude": 22.1470331,
   "longitude": 113.559839,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "The Venetian Macao-Resort-Hotel Staff Corridor Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55404,7 +55404,7 @@
   "id": 396036,
   "latitude": 22.1908739,
   "longitude": 113.5347091,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Rua De Joao Lecaros, Mercado De S. Lourenco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55427,7 +55427,7 @@
   "id": 396037,
   "latitude": 22.2041186,
   "longitude": 113.5429767,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "AVENIDA DO ALMIRANTE LACERDA N 52, SON BON VILLAS R/C D, MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55468,7 +55468,7 @@
   "id": 396039,
   "latitude": 22.1609326,
   "longitude": 113.54417,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida dos Jardins do Oceano no.522-550 Taipa Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55492,7 +55492,7 @@
   "id": 396040,
   "latitude": 22.210706348702896,
   "longitude": 113.54305030174828,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "AVENIDA DO CONSELHEIRO BORJA, NO.435 ,MAYFAIR GARDEN R/C BK,MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55516,7 +55516,7 @@
   "id": 396041,
   "latitude": 22.19780816683447,
   "longitude": 113.53791635704309,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.91-95, Rua Cinco De Outubro, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55540,7 +55540,7 @@
   "id": 396042,
   "latitude": 22.1909168,
   "longitude": 113.5350256,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.1, Rua Da Praia Do Manduco, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55788,7 +55788,7 @@
   "id": 399418,
   "latitude": 22.2126418,
   "longitude": 113.5440029,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida do General Castelo Branco,No.646-652",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55812,7 +55812,7 @@
   "id": 399419,
   "latitude": 22.2079592,
   "longitude": 113.5559182,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55836,7 +55836,7 @@
   "id": 399420,
   "latitude": 22.2079592,
   "longitude": 113.5559182,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55860,7 +55860,7 @@
   "id": 399422,
   "latitude": 22.2019506,
   "longitude": 113.5379478,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.42, Rua De Ribeira De Patane, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55902,7 +55902,7 @@
   "id": 399424,
   "latitude": 22.2027018,
   "longitude": 113.5430194,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.49-51, Rua Da Barca, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55926,7 +55926,7 @@
   "id": 399425,
   "latitude": 22.2027018,
   "longitude": 113.5430194,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.49-51, Rua Da Barca, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -55950,7 +55950,7 @@
   "id": 399426,
   "latitude": 22.2002825,
   "longitude": 113.5375491,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "RUA DA RIBEIRA DO PATANE, No 2-6,MACAU Edf. da F.A.O.M, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -56044,7 +56044,7 @@
   "id": 399431,
   "latitude": 22.202334541559445,
   "longitude": 113.5498929325409,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.20-26, Avenida Do Ouvidor De Arriaga, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -56068,7 +56068,7 @@
   "id": 399432,
   "latitude": 22.202334541559445,
   "longitude": 113.5498929325409,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.20-26, Avenida Do Ouvidor De Arriaga, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -56111,7 +56111,7 @@
   "id": 402796,
   "latitude": 22.199686432628653,
   "longitude": 113.54240902946512,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.67-71, Rua De Coelho Do Amaral, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -56498,7 +56498,7 @@
   "id": 409483,
   "latitude": 22.1270074,
   "longitude": 113.5580941,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C D.Praia Park,Estrada de Seac Pai Van, Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -56522,7 +56522,7 @@
   "id": 409484,
   "latitude": 22.1270074,
   "longitude": 113.5580941,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C D.Praia Park,Estrada de Seac Pai Van, Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -56546,7 +56546,7 @@
   "id": 409485,
   "latitude": 22.1270074,
   "longitude": 113.5580941,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C D.Praia Park,Estrada de Seac Pai Van, Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -57035,7 +57035,7 @@
   "id": 412840,
   "latitude": 22.1866552,
   "longitude": 113.5514048,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C N-O,No.1561-1659,The Carat,Avenida Dr.Sun Yat-Sen,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -57059,7 +57059,7 @@
   "id": 412841,
   "latitude": 22.1866552,
   "longitude": 113.5514048,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C N-O,No.1561-1659,The Carat,Avenida Dr.Sun Yat-Sen,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -57083,7 +57083,7 @@
   "id": 412842,
   "latitude": 22.1393229,
   "longitude": 113.5576302,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Posto Fronteirico de Hengqin",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -57107,7 +57107,7 @@
   "id": 412843,
   "latitude": 22.1393229,
   "longitude": 113.5576302,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Posto Fronteirico de Hengqin",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -57541,7 +57541,7 @@
   "id": 422777,
   "latitude": 22.1946806,
   "longitude": 113.5508967,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Av do Dr Rodrigo Rodrigues,  Xinzhu Building, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -57565,7 +57565,7 @@
   "id": 422778,
   "latitude": 22.2111827,
   "longitude": 113.5577605,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -57589,7 +57589,7 @@
   "id": 422779,
   "latitude": 22.1460615,
   "longitude": 113.5656161,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Shop 2145, Shoppes Cotai Central, Sands Cotai Central, Cotai Strip, Taip, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58208,7 +58208,7 @@
   "id": 432640,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58231,7 +58231,7 @@
   "id": 432641,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58254,7 +58254,7 @@
   "id": 432642,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58277,7 +58277,7 @@
   "id": 432643,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58300,7 +58300,7 @@
   "id": 432644,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58323,7 +58323,7 @@
   "id": 432645,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58346,7 +58346,7 @@
   "id": 432646,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58369,7 +58369,7 @@
   "id": 432647,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58392,7 +58392,7 @@
   "id": 432648,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58415,7 +58415,7 @@
   "id": 432649,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58437,7 +58437,7 @@
   "id": 432650,
   "latitude": 22.144177,
   "longitude": 113.573961,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58582,7 +58582,7 @@
   "id": 435926,
   "latitude": 22.1414877,
   "longitude": 113.572905,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Lisboeta Hotel, Rua da Patinagem, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58605,7 +58605,7 @@
   "id": 435927,
   "latitude": 22.1414877,
   "longitude": 113.572905,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Lisboeta Hotel, Rua da Patinagem, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58877,7 +58877,7 @@
   "id": 442481,
   "latitude": 22.2127984,
   "longitude": 113.5418243,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "QingMao Port-Macau Frontier Port Building, Avenida do Comendador Ho Yin, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58901,7 +58901,7 @@
   "id": 442482,
   "latitude": 22.2127984,
   "longitude": 113.5418243,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "QingMao Port-Macau Frontier Port Building, Avenida do Comendador Ho Yin, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -58924,7 +58924,7 @@
   "id": 442483,
   "latitude": 22.2127984,
   "longitude": 113.5418243,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "QingMao Port-Macau Frontier Port Building, Avenida do Comendador Ho Yin, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -59043,7 +59043,7 @@
   "id": 445750,
   "latitude": 22.1414877,
   "longitude": 113.572905,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Lisboeta Hotel, Rua da Patinagem, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -59159,7 +59159,7 @@
   "id": 449006,
   "latitude": 22.2058739,
   "longitude": 113.5382355,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Bloco 2 R/C Waterfront Duet, Rua de Fai Chi Kei, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -59183,7 +59183,7 @@
   "id": 449007,
   "latitude": 22.2058739,
   "longitude": 113.5382355,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Bloco 2 R/C Waterfront Duet, Rua de Fai Chi Kei, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -59407,7 +59407,7 @@
   "id": 461010,
   "latitude": 22.191524,
   "longitude": 113.548875,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.555 Avenida da Amizade,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -59450,7 +59450,7 @@
   "id": 464010,
   "latitude": 22.1508189,
   "longitude": 113.5546246,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada da Baia de Nossa Senhora da Esperanca da Taipa Metro Ligeir de Pai Kok Estacao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -59473,7 +59473,7 @@
   "id": 464013,
   "latitude": 22.163123,
   "longitude": 113.57367,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Estrada de Pac On da Taipa Metro Ligeir de Terminal Maritimo Da Taipa Estacao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -59497,7 +59497,7 @@
   "id": 464016,
   "latitude": 22.157187,
   "longitude": 113.547256,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Largo do Jockey Clube da Estrada Governador Albano de Oliveira da Taipa Metro Ligeir Jockey Clube Estacao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -59520,7 +59520,7 @@
   "id": 464019,
   "latitude": 22.154308,
   "longitude": 113.551859,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Avenida do Estadio da Taipa Metro Ligeir de Estadio Estacao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -60249,7 +60249,7 @@
   "id": 530008,
   "latitude": 22.1482976,
   "longitude": 113.5689891,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "Cotai East Station,Avenida do Aeroporto da Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -60272,7 +60272,7 @@
   "id": 530010,
   "latitude": 22.2130457,
   "longitude": 113.5514814,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "No.279, Rua Da Tribuna, Edificio Wai Long, Bloco B, R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -60378,7 +60378,7 @@
   "id": 545008,
   "latitude": 22.19157987937621,
   "longitude": 113.54902118039132,
-  "bank": "Bank of China Limited, Macau Branch",
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
   "address": "555 Avenida da aamizade, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -60763,6 +60763,24 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 626010,
+  "latitude": 22.3709609,
+  "longitude": 114.1416403,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "ATM Space No.4, Ground Floor, On Yam Shopping Centre, On Yam Estate, No.7 On Chuk Street, Kwai Chung, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }

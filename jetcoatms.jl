@@ -35367,28 +35367,6 @@
   ]
 }
 {
-  "id": 193346,
-  "latitude": 22.1899958449373,
-  "longitude": 113.55705942037662,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Babylon Casino, G/F, Macau Fisherman's Wharf, Avenida da Amizade e Avenida Dr. Sun Yat-Sen, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 193349,
   "latitude": 22.193080962683137,
   "longitude": 113.55320849384839,
@@ -35995,28 +35973,6 @@
   "longitude": 113.55303349999997,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Grand Lapa Hotel 2/F Casino, 956-1110 Avenida da Amizade, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 193387,
-  "latitude": 22.179879514443854,
-  "longitude": 113.537593477771,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Mocha Macau Tower, Largo da Torre de Macau, Macau Tower Convention & Entertainment Centre, G/F, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -60029,6 +59985,27 @@
   "longitude": 113.5437612,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Rua do Almirante Costa Cabral Nos. 133-135, Edf. Si San R/C C, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 554009,
+  "latitude": 22.1902208,
+  "longitude": 113.5458194,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua de Foshan No.51, Edificio Comercial San Kin Yip R/C. Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

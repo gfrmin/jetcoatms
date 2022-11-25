@@ -60123,6 +60123,29 @@
   ]
 }
 {
+  "id": 560009,
+  "latitude": 22.2047706,
+  "longitude": 113.5446709,
+  "bank": "BANK OF CHINA (MACAU) LIMITED",
+  "address": "No.103, Avenida Horta E Costa, R/C, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
   "id": 572008,
   "latitude": 22.2848888,
   "longitude": 114.1453022,

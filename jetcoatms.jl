@@ -10621,24 +10621,6 @@
   ]
 }
 {
-  "id": 1399,
-  "latitude": 22.364398720424482,
-  "longitude": 114.12741959095001,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Open Space Facing Shop 8, G/F Kwai Shing East Shopping Centre, Kwai Shing East Estate, Kwai Chung",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1403,
   "latitude": 22.357013,
   "longitude": 114.1279571,

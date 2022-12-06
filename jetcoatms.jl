@@ -60128,6 +60128,86 @@
   ]
 }
 {
+  "id": 563009,
+  "latitude": 22.29780125889119,
+  "longitude": 114.17281903435857,
+  "bank": "CMB Wing Lung Bank Limited",
+  "address": "4 Carnarvon Road, Tsim Sha Tsui",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 563012,
+  "latitude": 22.3182234,
+  "longitude": 114.1698988,
+  "bank": "CMB Wing Lung Bank Limited",
+  "address": "Bank Centre, 636 Nathan Road, Mongkok",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 563015,
+  "latitude": 22.2033916,
+  "longitude": 113.5466376,
+  "bank": "Tai Fung Bank Limited",
+  "address": "NO.68-C AVENIDA DE HORTA E COSTA, MACAU ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 563018,
+  "latitude": 22.2033916,
+  "longitude": 113.5466376,
+  "bank": "Tai Fung Bank Limited",
+  "address": "NO.68-C AVENIDA DE HORTA E COSTA, MACAU ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
   "id": 572008,
   "latitude": 22.2848888,
   "longitude": 114.1453022,

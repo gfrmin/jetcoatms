@@ -18740,29 +18740,6 @@
   ]
 }
 {
-  "id": 2254,
-  "latitude": 22.196666034784496,
-  "longitude": 113.54559481143951,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "No.22-24, Avenida Do Conselheiro Ferreira De Almeida, R/C, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 2257,
   "latitude": 22.2028034,
   "longitude": 113.5470309,
@@ -26403,29 +26380,6 @@
   ]
 }
 {
-  "id": 89203,
-  "latitude": 22.194781274559926,
-  "longitude": 113.53536595878602,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Macau Terminal Maritimo de Passageiros do Porto Interior",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 89204,
   "latitude": 22.141509,
   "longitude": 113.5639273,
@@ -27510,97 +27464,6 @@
   "currencies": [
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 104328,
-  "latitude": 22.156588,
-  "longitude": 113.57285,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Macau International Airport , Immigration South Lobby",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "MOP"
-  ]
-}
-{
-  "id": 104329,
-  "latitude": 22.15666458233777,
-  "longitude": 113.5731840133667,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Macau International Airport , Immigration North Lobby",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "MOP"
-  ]
-}
-{
-  "id": 104330,
-  "latitude": 22.21471201438113,
-  "longitude": 113.54911923408508,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Local de Saida (Atio de immigracao) , Edifico Fronteirico das Portas do Cerco, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 104332,
-  "latitude": 22.197299309892536,
-  "longitude": 113.55891466140747,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Local de Saida (Atio de immigracao) Terminal Maritimo de Macau, Avenida da Amizade, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {
@@ -36152,30 +36015,6 @@
   ]
 }
 {
-  "id": 193399,
-  "latitude": 22.2098129,
-  "longitude": 113.53424900000005,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Avenida de Parque Industrial, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 193402,
   "latitude": 22.157725200000016,
   "longitude": 113.55813670552254,
@@ -44087,29 +43926,6 @@
   ]
 }
 {
-  "id": 268203,
-  "latitude": 22.16225,
-  "longitude": 113.57754999999997,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Taipa Ferry Terminal, Estrada de Pac On, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 271487,
   "latitude": 22.202637750136848,
   "longitude": 113.54596976382368,
@@ -49007,101 +48823,6 @@
   ]
 }
 {
-  "id": 326750,
-  "latitude": 22.2016,
-  "longitude": 113.5762,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 326751,
-  "latitude": 22.2016,
-  "longitude": 113.5762,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 326752,
-  "latitude": 22.2016,
-  "longitude": 113.5762,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": " Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 326753,
-  "latitude": 22.2016,
-  "longitude": 113.5762,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 326756,
   "latitude": 22.2016,
   "longitude": 113.5762,
@@ -53061,53 +52782,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 372057,
-  "latitude": 22.1390653,
-  "longitude": 113.5589891,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Posto Fronteirico de Hengqin",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 372058,
-  "latitude": 22.1390653,
-  "longitude": 113.5589891,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "Posto Fronteirico de Hengqin",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
   ]
 }
 {
@@ -58308,53 +57982,6 @@
 }
 {
   "id": 442481,
-  "latitude": 22.2127984,
-  "longitude": 113.5418243,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "QingMao Port-Macau Frontier Port Building, Avenida do Comendador Ho Yin, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 442482,
-  "latitude": 22.2127984,
-  "longitude": 113.5418243,
-  "bank": "BANK OF CHINA (MACAU) LIMITED",
-  "address": "QingMao Port-Macau Frontier Port Building, Avenida do Comendador Ho Yin, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 442483,
   "latitude": 22.2127984,
   "longitude": 113.5418243,
   "bank": "BANK OF CHINA (MACAU) LIMITED",

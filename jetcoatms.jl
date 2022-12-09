@@ -31522,7 +31522,8 @@
   ],
   "currencies": [
     "HKD",
-    "MOP"
+    "MOP",
+    "RMB"
   ]
 }
 {
@@ -31594,7 +31595,8 @@
   ],
   "currencies": [
     "HKD",
-    "MOP"
+    "MOP",
+    "RMB"
   ]
 }
 {

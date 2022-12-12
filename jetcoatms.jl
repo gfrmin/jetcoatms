@@ -4760,24 +4760,6 @@
   ]
 }
 {
-  "id": 815,
-  "latitude": 22.33762702048411,
-  "longitude": 114.1487592458725,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "828 Cheung Sha Wan Road",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 819,
   "latitude": 22.335002164518624,
   "longitude": 114.20891046524048,
@@ -20246,25 +20228,6 @@
   ]
 }
 {
-  "id": 2371,
-  "latitude": 22.2125921,
-  "longitude": 113.5503362,
-  "bank": "Tai Fung Bank Limited",
-  "address": "121, Rua Oito do Bairro Iao Hon, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 2372,
   "latitude": 22.1920668,
   "longitude": 113.5498095,
@@ -20449,44 +20412,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 2390,
-  "latitude": 22.1574407,
-  "longitude": 113.5493252,
-  "bank": "Tai Fung Bank Limited",
-  "address": "390-400, Estrada Governador Albano de Olveira, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 2391,
-  "latitude": 22.15740982363488,
-  "longitude": 113.54914605617523,
-  "bank": "Tai Fung Bank Limited",
-  "address": "Est. Gove. Albano de Olveira, No.390-400 Blo-1, Edf. Nam San Fa Un, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
   ]
 }
 {
@@ -23844,44 +23769,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 46941,
-  "latitude": 22.2092603,
-  "longitude": 113.5493514,
-  "bank": "Tai Fung Bank Limited",
-  "address": "42-D, Estrada da Areia Preta, Macau ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 46942,
-  "latitude": 22.2092603,
-  "longitude": 113.5493514,
-  "bank": "Tai Fung Bank Limited",
-  "address": "42-D, Estrada da Areia Preta, Macau ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
   ]
 }
 {

@@ -32607,10 +32607,10 @@
 }
 {
   "id": 189997,
-  "latitude": 22.131393794491665,
-  "longitude": 113.55661910216065,
+  "latitude": 22.18984161701832,
+  "longitude": 113.54553573587043,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Broadway Macau, G/F, Gaming Area, Avenida Marginal Flor de Lotus, Taipa, Macau",
+  "address": "Avenida da Amizade 197-223, Edificio Comercial San Kin Yip,3/F",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -32618,12 +32618,11 @@
     "Interbank Transfer",
     "Discover",
     "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
+    "JCB"
   ],
   "currencies": [
-    "HKD"
+    "HKD",
+    "MOP"
   ]
 }
 {
@@ -59721,6 +59720,106 @@
     "HKD",
     "MOP",
     "RMB"
+  ]
+}
+{
+  "id": 566009,
+  "latitude": 22.197218,
+  "longitude": 113.555792,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Dr. Rodrigo Rodrigues Jai Alai Oceanus 1/F, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 566012,
+  "latitude": 22.197218,
+  "longitude": 113.555792,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Dr. Rodrigo Rodrigues Jai Alai Oceanus R/C, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 566015,
+  "latitude": 22.197218,
+  "longitude": 113.555792,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Dr. Rodrigo Rodrigues Jai Alai Oceanus R/C, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 566018,
+  "latitude": 22.189746,
+  "longitude": 113.5456561,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida da Amizade 197-223, Edificio Comercial San Kin Yip,1/F",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 566021,
+  "latitude": 22.189746,
+  "longitude": 113.5456561,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida da Amizade 197-223, Edificio Comercial San Kin Yip,2/F",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }
 {

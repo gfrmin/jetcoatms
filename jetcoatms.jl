@@ -35038,7 +35038,7 @@
   "latitude": 22.197180301647915,
   "longitude": 113.53628769577028,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Ponte 16 2/F, Rua das Lorchas E Rua do Visconde Paco de Arcos, No. 12A-20, Porto Interior, Ponte Macau",
+  "address": "Ponte 16 G/F, Rua das Lorchas E Rua do Visconde Paco de Arcos, No. 12A-20, Porto Interior, Ponte Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

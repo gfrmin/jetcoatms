@@ -35679,50 +35679,6 @@
   ]
 }
 {
-  "id": 193385,
-  "latitude": 22.192379411966865,
-  "longitude": 113.55314347056958,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Grand Lapa Hotel 2/F Casino, 956-1110 Avenida da Amizade, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 193386,
-  "latitude": 22.1922155,
-  "longitude": 113.55303349999997,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Grand Lapa Hotel 2/F Casino, 956-1110 Avenida da Amizade, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 193388,
   "latitude": 22.195507803756154,
   "longitude": 113.5540771207626,

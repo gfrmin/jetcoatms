@@ -47848,7 +47848,7 @@
   "latitude": 22.2034796,
   "longitude": 113.54652609999994,
   "bank": "Tai Fung Bank Limited",
-  "address": "68-C, Avenida de Horta e Costa, Macau ",
+  "address": "NO.68-C AVENIDA DE HORTA E COSTA, MACAU ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

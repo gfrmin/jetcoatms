@@ -59702,6 +59702,24 @@
   ]
 }
 {
+  "id": 575009,
+  "latitude": 22.3830228628777,
+  "longitude": 114.1891919183506,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop 7, 16B and 17, Level 1, Shatin Plaza",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 578008,
   "latitude": 22.202751366588615,
   "longitude": 113.54614719507178,

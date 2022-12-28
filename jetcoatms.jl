@@ -8874,27 +8874,6 @@
   ]
 }
 {
-  "id": 1207,
-  "latitude": 22.32308549117527,
-  "longitude": 114.18941617012024,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "12-14 Mok Cheong Street, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1209,
   "latitude": 22.31726944758138,
   "longitude": 114.19079214334488,
@@ -53019,27 +52998,6 @@
     "Interbank Transfer",
     "CIRRUS",
     "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 378880,
-  "latitude": 22.4140914,
-  "longitude": 114.2238443,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "2/F, We Go Mall, 16 Po Tai Street, Ma On Shan, N.T.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
   ],
   "currencies": [
     "HKD",

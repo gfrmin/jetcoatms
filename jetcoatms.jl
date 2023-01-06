@@ -6036,29 +6036,6 @@
   ]
 }
 {
-  "id": 940,
-  "latitude": 22.309678947685207,
-  "longitude": 114.22383159399033,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Unit 1, G/F, Hewlett Centre, 54 Hoi Yuen Road",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 941,
   "latitude": 22.306904677050486,
   "longitude": 114.22813653945923,
@@ -24364,29 +24341,6 @@
   ]
 }
 {
-  "id": 71762,
-  "latitude": 22.493635079469108,
-  "longitude": 114.13543939590454,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "ATM no.4, G/F, Ka Fuk Shopping Centre, Fanling, NT",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 71763,
   "latitude": 22.374771619099683,
   "longitude": 113.96340250968933,
@@ -29141,29 +29095,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 134762,
-  "latitude": 22.3095383,
-  "longitude": 114.22409659999994,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Unit 1, G/F, Hewlett Centre, 54 Hoi Yuen Road, Kwun Tong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {

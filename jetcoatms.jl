@@ -46207,7 +46207,8 @@
   ],
   "currencies": [
     "HKD",
-    "MOP"
+    "MOP",
+    "RMB"
   ]
 }
 {

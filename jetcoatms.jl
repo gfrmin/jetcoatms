@@ -19605,30 +19605,6 @@
   ]
 }
 {
-  "id": 2327,
-  "latitude": 22.153216547892875,
-  "longitude": 113.56735825538635,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Wai Long, Macau University Of Science Techology, Mult-Function Building, Block N, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 2328,
   "latitude": 22.1901137,
   "longitude": 113.5405788,
@@ -20054,25 +20030,6 @@
   "longitude": 113.5445732,
   "bank": "Tai Fung Bank Limited",
   "address": "Rua da Barca, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 2366,
-  "latitude": 22.2034907,
-  "longitude": 113.546489,
-  "bank": "Tai Fung Bank Limited",
-  "address": "68-C, Avenida de Horta e Costa, Macau.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -23543,25 +23500,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 44182,
-  "latitude": 22.2034902,
-  "longitude": 113.5464885,
-  "bank": "Tai Fung Bank Limited",
-  "address": "68-C, Avenida de Horta e Costa, Macau.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
   ]
 }
 {
@@ -44906,29 +44844,6 @@
   "longitude": 113.54653029999997,
   "bank": "Bank of China (Macau) Limited",
   "address": "Nam Kwong Building, Avenida do Dr. Rodrigo Rodrigues, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 281601,
-  "latitude": 22.1651151,
-  "longitude": 113.57234879999999,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "Taipa Ferry Terminal, Estrada de Pac On, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

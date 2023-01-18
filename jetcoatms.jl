@@ -54696,24 +54696,6 @@
   ]
 }
 {
-  "id": 406149,
-  "latitude": 22.52889360648736,
-  "longitude": 114.11317019751857,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "ATM Site LOW ATM 3, Concourse Level, MTR Lo Wu Station, Lo Wu, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 406150,
   "latitude": 22.395061,
   "longitude": 113.976031,

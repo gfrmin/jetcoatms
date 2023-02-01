@@ -59297,6 +59297,42 @@
   ]
 }
 {
+  "id": 602045,
+  "latitude": 22.2863614,
+  "longitude": 114.1523337,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "G/F - 2/F, 238 Des Voeux",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 602048,
+  "latitude": 22.2863614,
+  "longitude": 114.1523337,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "G/F - 2/F, 238 Des Voeux",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 623010,
   "latitude": 22.208644074326614,
   "longitude": 113.54973170304108,

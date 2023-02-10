@@ -51347,53 +51347,6 @@
   ]
 }
 {
-  "id": 361795,
-  "latitude": 22.318474820319395,
-  "longitude": 114.1697902079693,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, 638-640 Nathan Road, Mongkok",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 361796,
-  "latitude": 22.3184742,
-  "longitude": 114.16982910000002,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "G/F, 638-640 Nathan Road, Mongkok",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 361797,
   "latitude": 22.3184742,
   "longitude": 114.16982910000002,

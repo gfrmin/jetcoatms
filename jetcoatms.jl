@@ -26917,28 +26917,6 @@
   ]
 }
 {
-  "id": 107389,
-  "latitude": 22.307545,
-  "longitude": 114.167639,
-  "bank": "Nanyang Commercial Bank Limited",
-  "address": "Offices B,C,D,10/F And Shops D,E,F,G/F Best-0-Best Commercial Centre, 32-36 Ferry Street, Kowloon.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 107410,
   "latitude": 22.315520120848426,
   "longitude": 113.93529295921326,

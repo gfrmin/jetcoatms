@@ -59264,6 +59264,73 @@
   ]
 }
 {
+  "id": 605009,
+  "latitude": 22.203711337515426,
+  "longitude": 113.54761683313524,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua de Francisco Xavier Pereira No. 129A, Veng Lei Kok , R/C 'A' e 'C',Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Discover",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 605012,
+  "latitude": 22.203711337515426,
+  "longitude": 113.54761683313524,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua de Francisco Xavier Pereira No. 129A, Veng Lei Kok , R/C 'A' e 'C',Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 605015,
+  "latitude": 22.188637434567198,
+  "longitude": 113.5482164956661,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "G/F, Avenida 24 de Junho No.278, L'Arc Macau, Nape, Macau - Hotel Main Lobby",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
   "id": 623010,
   "latitude": 22.208644074326614,
   "longitude": 113.54973170304108,

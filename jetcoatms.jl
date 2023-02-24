@@ -58746,6 +58746,71 @@
   ]
 }
 {
+  "id": 611009,
+  "latitude": 22.3289379,
+  "longitude": 114.1516078,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "Site at Open Space near Shop No. 1-04, P1/F, Hoi Tat Estate (Phase 3)",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 611012,
+  "latitude": 22.318477301596907,
+  "longitude": 114.16971309446009,
+  "bank": "The Bank of East Asia, Limited",
+  "address": "G/F, 638-640 Nathan Road, Mongkok ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 611015,
+  "latitude": 22.318477301596907,
+  "longitude": 114.16971309446009,
+  "bank": "The Bank of East Asia, Limited",
+  "address": "G/F, 638-640 Nathan Road, Mongkok ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
   "id": 623010,
   "latitude": 22.208644074326614,
   "longitude": 113.54973170304108,

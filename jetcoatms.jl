@@ -42144,27 +42144,6 @@
   ]
 }
 {
-  "id": 258325,
-  "latitude": 22.309479,
-  "longitude": 114.262969,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "1/F,Tseung Kwan O Plaza, No.1 Tong Tak ST.,Tseung Kwan O,New Territories ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 258326,
   "latitude": 22.464734,
   "longitude": 114.0031,
@@ -58808,6 +58787,24 @@
   ],
   "currencies": [
     "HKD"
+  ]
+}
+{
+  "id": 614009,
+  "latitude": 22.280725514998256,
+  "longitude": 114.15877301104508,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "6 Des Voeux Road Central",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }
 {

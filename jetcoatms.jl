@@ -27471,6 +27471,23 @@
   ]
 }
 {
+  "id": 119583,
+  "latitude": 22.2865546,
+  "longitude": 114.2122068,
+  "bank": "China CITIC Bank International Limited",
+  "address": "Area A, 1/F, Two Taikoo Place, Taikoo Place, 979 King's Road, Quarry Bay, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 119586,
   "latitude": 22.207957770528306,
   "longitude": 113.55631828308105,

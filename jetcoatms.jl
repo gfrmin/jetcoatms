@@ -58729,7 +58729,7 @@
   "latitude": 22.2491289,
   "longitude": 114.1576455,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shek Pai Wan Estate, Hing Wah (II) Estate, Kai Ching Estate, Kwai Chung Estate, Wo Tin Estate",
+  "address": "Central Plaza, Shek Pai Wan Estate , Aberdeen",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

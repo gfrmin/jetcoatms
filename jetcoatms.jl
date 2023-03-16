@@ -58799,6 +58799,25 @@
   ]
 }
 {
+  "id": 626009,
+  "latitude": 22.21303524403135,
+  "longitude": 113.54767964785042,
+  "bank": "Tai Fung Bank Limited",
+  "address": "RUA MARGINAL DO CANAL DAS HORTAS, NO.61-69, EDF. TAI FUNG SAN CHUEN, R/C, A ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
   "id": 626010,
   "latitude": 22.3709609,
   "longitude": 114.1416403,
@@ -58814,6 +58833,42 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 626012,
+  "latitude": 22.21303524403135,
+  "longitude": 113.54767964785042,
+  "bank": "Tai Fung Bank Limited",
+  "address": "RUA MARGINAL DO CANAL DAS HORTAS, NO.61-69, EDF. TAI FUNG SAN CHUEN, R/C, A ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 626015,
+  "latitude": 22.21303524403135,
+  "longitude": 113.54767964785042,
+  "bank": "Tai Fung Bank Limited",
+  "address": "RUA MARGINAL DO CANAL DAS HORTAS, NO.61-69, EDF. TAI FUNG SAN CHUEN, R/C, A ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }
 {

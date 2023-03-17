@@ -10014,7 +10014,7 @@
   "latitude": 22.39708238874315,
   "longitude": 114.19327586889267,
   "bank": "Bank of China (Hong Kong) Limited",
-  "address": "No 2, 1/F Shatin Galleria, 18-24 Shan Mei Street, Fo Tan, New Territories",
+  "address": "Shop B1-1A, B2A-C, 1/F Shatin Galleria, 18-24 Shan Mei Street, Shatin, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -10202,7 +10202,7 @@
   "latitude": 22.377899,
   "longitude": 114.136718,
   "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop 22, Lei Muk Shue Shopping Centre, Kwai Chung, New Territories",
+  "address": "Shop 22, Lei Muk Shue Shopping Centre, Tsuen Wan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -45504,7 +45504,7 @@
   "latitude": 22.385189,
   "longitude": 114.19166700000005,
   "bank": "Bank of China (Hong Kong) Limited",
-  "address": "No 1, Fook Hoi House, Lek Yuen Estate, Sha Tin, New Territories",
+  "address": "Shop 2-3 on G/F & F2/F, Fook Hoi House, Lek Yuen Estate, 6 Lek Yuen Street, Sha Tin, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47526,11 +47526,29 @@
   ]
 }
 {
+  "id": 330251,
+  "latitude": 22.350027,
+  "longitude": 114.10561099999995,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 102, G/F, Commercial Centre, No.1, Cheung Hong Estate, 12 Ching Hong Road, Tsing Yi, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
   "id": 330252,
   "latitude": 22.3849559,
   "longitude": 114.19141579999996,
   "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Level F2 & 2-3 G/F., Fook Hoi House, No.6 Lek Yuen Estate, Sha Tin, New Territories ",
+  "address": "Shop 2-3 on G/F & F2/F, Fook Hoi House, Lek Yuen Estate, 6 Lek Yuen Street, Sha Tin, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47571,7 +47589,7 @@
   "latitude": 22.416669691335294,
   "longitude": 114.22878958542367,
   "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop 203, Commercial Centre, Heng On Estate, Ma On Shan, New Territories",
+  "address": "Shop 203, 2/F, Heng On Shopping Centre, Heng On Estate, Shatin, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47589,7 +47607,7 @@
   "latitude": 22.4167292,
   "longitude": 114.22878958542367,
   "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop 203, Commercial Centre, Heng On Estate, Ma On Shan, New Territories",
+  "address": "Shop 203, 2/F, Heng On Shopping Centre, Heng On Estate, Shatin, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -56723,6 +56741,27 @@
   ]
 }
 {
+  "id": 449005,
+  "latitude": 22.3319377,
+  "longitude": 114.2214252,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Portion of the Ground Floor of Shun Lee Disciplined Services Quarters, No.32, Lee On Road, Kwun Tong, Kolwoon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 449006,
   "latitude": 22.2058739,
   "longitude": 113.5382355,
@@ -56887,6 +56926,48 @@
   ]
 }
 {
+  "id": 455013,
+  "latitude": 22.28167780574488,
+  "longitude": 114.1757677677063,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "ATM Site EXC 9a at MTR Exhibition Centre Station",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 455019,
+  "latitude": 22.3360087,
+  "longitude": 114.1732325,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Level 3, Yeung Kin Man Academic Building, CityU HK, 83 Tat Chee Avenue, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 458009,
   "latitude": 22.2066583,
   "longitude": 113.5429202,
@@ -56991,6 +57072,27 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 461014,
+  "latitude": 22.289733,
+  "longitude": 113.9412938,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Unit 264 & 273, L2, Citygate, Tung Chung, Lantau, Hong Kong ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }
 {
@@ -57395,6 +57497,27 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 479008,
+  "latitude": 22.5028451,
+  "longitude": 114.1562584,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No.108, P1/F, Queens Hill Shopping Centre, Queens Hill Estate, Wong Hau Shan Dr, Kwan Tei, Fanling, N.T.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }
 {
@@ -58587,6 +58710,27 @@
     "Interbank Transfer",
     "CIRRUS",
     "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 605008,
+  "latitude": 22.412374965555582,
+  "longitude": 113.97146827969283,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop No.G16, G/F, Ching Tin Shopping Centre, Ching Tin Estate, Tuen Mun",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
   ],
   "currencies": [
     "HKD",

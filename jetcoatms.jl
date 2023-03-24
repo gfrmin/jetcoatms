@@ -59034,3 +59034,26 @@
     "RMB"
   ]
 }
+{
+  "id": 642803,
+  "latitude": 22.20258303602686,
+  "longitude": 113.57528225529482,
+  "bank": "Bank of China (Macau) Limited",
+  "address": "A entrada e saida no Auto Silo Este efectua se pela rua junto do Iado este do Posto Fronteirico de Macau da Ponte HKZM",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}

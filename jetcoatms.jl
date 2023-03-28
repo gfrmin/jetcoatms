@@ -8389,10 +8389,10 @@
 }
 {
   "id": 1172,
-  "latitude": 22.327699198047334,
-  "longitude": 114.1545407474041,
+  "latitude": 22.3277122238927,
+  "longitude": 114.15450889617205,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "ATM No.3, First Floor, Fu Cheong Shopping Centre, Fu Cheong Estate, Shamshuipo, Kowloon",
+  "address": "ATM No.3, First Floor, Nam Cheong Place, Sham Shui Po, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

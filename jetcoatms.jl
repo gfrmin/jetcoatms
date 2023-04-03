@@ -57859,23 +57859,6 @@
   ]
 }
 {
-  "id": 524008,
-  "latitude": 22.1414877,
-  "longitude": 113.572905,
-  "bank": "Luso International Banking Limited",
-  "address": "Cotal, R. da Patinagem, no.128, piso L01 do Hotel do Lisboeta, Macau.Unit No.RA-05",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 524009,
   "latitude": 22.1458478,
   "longitude": 113.5653752,

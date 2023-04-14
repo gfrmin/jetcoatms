@@ -58461,6 +58461,27 @@
   ]
 }
 {
+  "id": 569009,
+  "latitude": 22.2478487,
+  "longitude": 114.1545485,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 2, 2/F, Site 2 Aberdeen Centre, Aberdeen, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 572008,
   "latitude": 22.2848888,
   "longitude": 114.1453022,

@@ -2086,42 +2086,6 @@
   ]
 }
 {
-  "id": 562,
-  "latitude": 22.264072677385066,
-  "longitude": 114.23704415559769,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop No 101, Level 1, New Jade Shopping Arcade, New Jade Gardens, Chai Wan, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 563,
-  "latitude": 22.26413969794511,
-  "longitude": 114.23709511756897,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop No 101, Level 1, New Jade Shopping Arcade, New Jade Gardens, Chai Wan, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 564,
   "latitude": 22.269739524688028,
   "longitude": 114.1849958896637,
@@ -48347,25 +48311,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 333807,
-  "latitude": 22.1458939,
-  "longitude": 113.56169610000006,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Four Seasons Hotel, Estrada da Baia de Nossa Senhora de Esperance, Four Seasons Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {

@@ -2010,25 +2010,6 @@
   ]
 }
 {
-  "id": 557,
-  "latitude": 22.266083280224624,
-  "longitude": 114.2338764667511,
-  "bank": "Fubon Bank (Hong Kong) Limited",
-  "address": "Shop 82, 83, 85 & 86 Lower G/F., Koway Plaza, 111 Chaiwan Road, Hong Kong.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 558,
   "latitude": 22.264762739393166,
   "longitude": 114.24822628498077,

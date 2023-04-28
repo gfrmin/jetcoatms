@@ -43193,10 +43193,10 @@
 }
 {
   "id": 278200,
-  "latitude": 22.4647433,
-  "longitude": 114.00303650000001,
+  "latitude": 22.4683451,
+  "longitude": 113.9986694,
   "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop 1002, 1/F One Sky Mall, No.8 Tin Sau Road, Tin Shui Wai, New Territories, Hong Kong",
+  "address": "Shop 105F, 1/F, Tin Chak Shopping Centre, 77 Tin Shui Road, Tin Shui Wai, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

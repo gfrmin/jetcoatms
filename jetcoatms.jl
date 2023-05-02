@@ -11440,27 +11440,6 @@
   ]
 }
 {
-  "id": 1492,
-  "latitude": 22.382440419706427,
-  "longitude": 114.19034957885742,
-  "bank": "Shanghai Commercial Bank Limited",
-  "address": "Shop 70B, Level 3, Shatin Centre, Wang Pok Street, Shatin, NT.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1493,
   "latitude": 22.382916605548477,
   "longitude": 114.18914794921875,
@@ -43174,24 +43153,6 @@
   ]
 }
 {
-  "id": 278199,
-  "latitude": 22.4647433,
-  "longitude": 114.00303650000001,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop 1002, 1/F One Sky Mall, No.8 Tin Sau Road, Tin Shui Wai, New Territories, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 278200,
   "latitude": 22.4683451,
   "longitude": 113.9986694,
@@ -58918,5 +58879,26 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 672803,
+  "latitude": 22.3196086,
+  "longitude": 114.1695511,
+  "bank": "Shanghai Commercial Bank Limited",
+  "address": "666 Nathan Road, Mongkok, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }

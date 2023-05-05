@@ -58462,6 +58462,47 @@
   ]
 }
 {
+  "id": 590015,
+  "latitude": 22.315339636632956,
+  "longitude": 114.22405657731554,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "26-32 Fu Yan Street, Kwun Tong, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 590018,
+  "latitude": 22.315339636632956,
+  "longitude": 114.22405657731554,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "26-32 Fu Yan Street, Kwun Tong, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
   "id": 593010,
   "latitude": 22.411126716599394,
   "longitude": 113.98368212156527,

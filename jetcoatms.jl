@@ -28181,27 +28181,6 @@
   ]
 }
 {
-  "id": 128633,
-  "latitude": 22.192131204881,
-  "longitude": 113.54030817747116,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Av. Da Praia Grande No. 754 China Plaza R/C, D-E, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 128634,
   "latitude": 22.203669153589377,
   "longitude": 113.55007410049438,
@@ -33199,28 +33178,6 @@
   ]
 }
 {
-  "id": 193258,
-  "latitude": 22.188152405873563,
-  "longitude": 113.54846044232795,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "G/F, Avenida 24 de Junho No.278, L'Arc Macau, Nape, Macau - Hotel Main Lobby",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 193259,
   "latitude": 22.188053062320975,
   "longitude": 113.54852481534431,
@@ -35061,28 +35018,6 @@
     "Interbank Transfer",
     "Discover",
     "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 196735,
-  "latitude": 22.189857422447787,
-  "longitude": 113.55706271244208,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "G/F, Babylon Casino, Macau Fisherman's Wharf, Avenida da Amizade e Avenida Dr. Sun Yat-Sen, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
     "CIRRUS",
     "CUP",
     "JCB",
@@ -51130,27 +51065,6 @@
   ]
 }
 {
-  "id": 372054,
-  "latitude": 22.1925633,
-  "longitude": 113.54287599999998,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Av. Da Praia Grande No. 754 China Plaza R/C, D-E, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 372055,
   "latitude": 22.1908413,
   "longitude": 113.535079,
@@ -54012,27 +53926,6 @@
     "CUP",
     "JCB",
     "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 409486,
-  "latitude": 22.2011475,
-  "longitude": 113.5461985,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua de Pedro Coutinho, No. 8-C, Edf. Mei On, R/C(B), Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
   ],
   "currencies": [
     "HKD",

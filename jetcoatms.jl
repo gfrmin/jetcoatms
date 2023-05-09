@@ -43247,42 +43247,6 @@
   ]
 }
 {
-  "id": 278213,
-  "latitude": 22.3063085,
-  "longitude": 114.26085139999998,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop No. 103, 1/F , Popwalk 2, No. 19 Tong Yin Street, Tseung Kwan O, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 278214,
-  "latitude": 22.3063085,
-  "longitude": 114.26085139999998,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "Shop No. 103, 1/F , Popwalk 2, No. 19 Tong Yin Street, Tseung Kwan O, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 278215,
   "latitude": 22.1921715,
   "longitude": 113.54744660000006,
@@ -49133,45 +49097,6 @@
   ]
 }
 {
-  "id": 354811,
-  "latitude": 22.305682332919,
-  "longitude": 114.19004040856362,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop G5, Site 11 Whampoa Garden, Hung Hom, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 354812,
-  "latitude": 22.30567861066161,
-  "longitude": 114.19010209937096,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop G5, Site 11 Whampoa Garden, Hung Hom, Kowloon ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 354813,
   "latitude": 22.2851153,
   "longitude": 114.21425139999997,
@@ -53926,69 +53851,6 @@
     "CUP",
     "JCB",
     "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 409487,
-  "latitude": 22.2011475,
-  "longitude": 113.5461985,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua de Pedro Coutinho, No. 8-C, Edf. Mei On, R/C(B), Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 409488,
-  "latitude": 22.2011475,
-  "longitude": 113.5461985,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua de Pedro Coutinho, No. 8-C, Edf. Mei On, R/C(B), Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 409489,
-  "latitude": 22.2011475,
-  "longitude": 113.5461985,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua de Pedro Coutinho, No. 8-C, Edf. Mei On, R/C(B), Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
   ],
   "currencies": [
     "HKD",

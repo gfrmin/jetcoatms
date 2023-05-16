@@ -8450,29 +8450,6 @@
   ]
 }
 {
-  "id": 1182,
-  "latitude": 22.315615,
-  "longitude": 114.161943,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop UG46 & 47, Upper Ground Floor, Olympian City 2, 18 Hoi Ting Road West",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1183,
   "latitude": 22.321316387524252,
   "longitude": 114.1642838716507,
@@ -21178,30 +21155,6 @@
   ]
 }
 {
-  "id": 17475,
-  "latitude": 22.316143,
-  "longitude": 114.1623655,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Shop UG46 & 47, Upper Ground Floor, Olympian City 2, 18 Hoi Ting Road West",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 17476,
   "latitude": 22.285708,
   "longitude": 114.2241535,
@@ -29850,27 +29803,6 @@
   ],
   "currencies": [
     "HKD"
-  ]
-}
-{
-  "id": 162122,
-  "latitude": 22.382724,
-  "longitude": 114.19126800000004,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop No.185, Level 3, Shatin Lucky Plaza, Shatin, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
   ]
 }
 {

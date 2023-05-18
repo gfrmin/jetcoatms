@@ -58630,3 +58630,96 @@
     "RMB"
   ]
 }
+{
+  "id": 678803,
+  "latitude": 22.1966432,
+  "longitude": 113.5456513,
+  "bank": "Bank of China (Macau) Limited",
+  "address": "No. 22-24, Avenida do Conselheiro Ferreira de Almeida, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 678806,
+  "latitude": 22.1583813,
+  "longitude": 113.5578388,
+  "bank": "Luso International Banking Limited",
+  "address": "Macau, Na Taipa, Rua de Nam Keng No.222, Vai Chui R/C H",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 678809,
+  "latitude": 22.2826295,
+  "longitude": 114.157823,
+  "bank": "Dah Sing Bank, Limited",
+  "address": "Shop A, G/F., Worldwide House, 19 Des Voeux Road Central, HK",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "MPF",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 678812,
+  "latitude": 22.2826295,
+  "longitude": 114.157823,
+  "bank": "Dah Sing Bank, Limited",
+  "address": "Shop A, G/F., Worldwide House, 19 Des Voeux Road Central, HK",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "MPF",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 678815,
+  "latitude": 22.1581900230977,
+  "longitude": 113.5576892668474,
+  "bank": "Luso International Banking Limited",
+  "address": "Macau, Na Taipa, Rua de Nam Keng No.222, Vai Chui R/C H",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}

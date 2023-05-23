@@ -1724,24 +1724,6 @@
   ]
 }
 {
-  "id": 526,
-  "latitude": 22.287835658896636,
-  "longitude": 114.15745496749878,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "No.3 Pier, 11 Man Kwan Street,",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 527,
   "latitude": 22.285295,
   "longitude": 114.159468,
@@ -10734,23 +10716,6 @@
   ]
 }
 {
-  "id": 1428,
-  "latitude": 22.41676626438762,
-  "longitude": 114.22778248786926,
-  "bank": "Chong Hing Bank Limited",
-  "address": "Level 3, Commercial Centre, Heng On Estate Ma On Shan",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 1429,
   "latitude": 22.425164166735165,
   "longitude": 114.2317521572113,
@@ -16687,26 +16652,6 @@
   ],
   "currencies": [
     "RMB"
-  ]
-}
-{
-  "id": 2005,
-  "latitude": 22.2040544,
-  "longitude": 113.5476887,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Vang Kei Supermarket - Fortuna Tower Av. Ourvidor Arriaga, No.68-70B",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {
@@ -26793,26 +26738,6 @@
   ]
 }
 {
-  "id": 110487,
-  "latitude": 22.2137477,
-  "longitude": 113.5506321,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Av. do Hipodromo, No. 143, Sun Star Square Bl. III, r/c A, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 110498,
   "latitude": 22.31215539673492,
   "longitude": 114.04171228408813,
@@ -32932,52 +32857,6 @@
   ]
 }
 {
-  "id": 193235,
-  "latitude": 22.163796840185153,
-  "longitude": 113.55681717063908,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "University of Macau, Hengqin Campus, Faculty of Law Building (E32) G/F",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 193237,
-  "latitude": 22.163990593478715,
-  "longitude": 113.55679571296696,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "University of Macau, Hengqin Campus, Research Building (N22) G/F",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 193239,
   "latitude": 22.19349441746796,
   "longitude": 113.55189576686485,
@@ -36555,23 +36434,6 @@
     "HKD",
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 206117,
-  "latitude": 22.367494442787457,
-  "longitude": 114.12787043551248,
-  "bank": "Chong Hing Bank Limited",
-  "address": "Automatic Teller Machine No.5, Podium Level 2, Kwai Chung Shopping Centre, Kwai Chung Estate",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {

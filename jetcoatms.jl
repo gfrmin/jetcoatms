@@ -5194,24 +5194,6 @@
   ]
 }
 {
-  "id": 872,
-  "latitude": 22.3081189,
-  "longitude": 114.1924191,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "UG/F The Laguna Mall, 8 Laguna Verde Avenue, Hung Hom, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 874,
   "latitude": 22.30998664514714,
   "longitude": 114.1877692937851,

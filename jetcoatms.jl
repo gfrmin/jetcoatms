@@ -9014,10 +9014,10 @@
 }
 {
   "id": 1258,
-  "latitude": 22.297479685961722,
-  "longitude": 114.17100548744202,
+  "latitude": 22.297105636685576,
+  "longitude": 114.17127345889551,
   "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "Shop 1 & 2, G/F, 35-37 Hankow Road, Tsim Sha Tsui",
+  "address": "Shop 03-05, Hong Kong Pacific Centre, 28 Hankow Road, Tsim Sha Tsui",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

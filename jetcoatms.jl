@@ -1707,23 +1707,6 @@
   ]
 }
 {
-  "id": 513,
-  "latitude": 22.28378030313346,
-  "longitude": 114.15655374526978,
-  "bank": "Public Bank (Hong Kong) Limited",
-  "address": "Unit A, G/F, Wing On House,71 Des Voeux Road Central, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 527,
   "latitude": 22.285295,
   "longitude": 114.159468,
@@ -6756,24 +6739,6 @@
   ]
 }
 {
-  "id": 1016,
-  "latitude": 22.308285949041892,
-  "longitude": 114.23538017675594,
-  "bank": "Standard Chartered Bank (Hong Kong) Limited",
-  "address": "G/F, New Wing, Kai Tin Shopping Centre, Kai Tin Road, Lam Ting, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1017,
   "latitude": 22.31029434193103,
   "longitude": 114.2379480600357,
@@ -10808,23 +10773,6 @@
     "CUP",
     "JCB",
     "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1444,
-  "latitude": 22.38151284468893,
-  "longitude": 114.27130937576294,
-  "bank": "Public Bank (Hong Kong) Limited",
-  "address": "G/F, 16 Yi Chun Street, Sai Kung, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "JCB"
   ],
   "currencies": [
     "HKD",

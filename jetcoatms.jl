@@ -20569,10 +20569,10 @@
 }
 {
   "id": 9812,
-  "latitude": 22.1955572,
-  "longitude": 113.5541567,
+  "latitude": 22.195351072917237,
+  "longitude": 113.55441821537896,
   "bank": "Tai Fung Bank Limited",
-  "address": "Rua de Malaca, Golden Dragon Hotel",
+  "address": "Rua de Malaca, Golden Dragon Hotel Lobby",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

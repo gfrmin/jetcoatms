@@ -19618,43 +19618,6 @@
   ]
 }
 {
-  "id": 2363,
-  "latitude": 22.2131484,
-  "longitude": 113.5475965,
-  "bank": "Tai Fung Bank Limited",
-  "address": "Avenida de Artur Tamagnini Barbosa, Nos. 304-338, Edificio TAI FUNG SAN CHUN, R/C, H & I",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 2364,
-  "latitude": 22.2131484,
-  "longitude": 113.5475965,
-  "bank": "Tai Fung Bank Limited",
-  "address": "Avenida de Artur Tamagnini Barbosa, Nos. 304-338, Edificio TAI FUNG SAN CHUN, R/C, H & I",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 2365,
   "latitude": 22.2020936,
   "longitude": 113.5445732,
@@ -23482,23 +23445,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 68948,
-  "latitude": 22.19296318080921,
-  "longitude": 113.55271339416504,
-  "bank": "Tai Fung Bank Limited",
-  "address": "Rua de Malaca, Golden Dragon Hotel ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -45091,24 +45037,6 @@
     "HKD",
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 295312,
-  "latitude": 22.213028,
-  "longitude": 113.54768100000001,
-  "bank": "Tai Fung Bank Limited",
-  "address": "Avenida de Artur Tamagnini Barbosa, Nos. 304-338, Edificio TAI FUNG SAN CHUN, R/C, H & I ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {

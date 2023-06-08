@@ -4838,29 +4838,6 @@
   ]
 }
 {
-  "id": 841,
-  "latitude": 22.3045733,
-  "longitude": 114.179327,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Room VA210, Shaw Amenities Building, The Hong Kong Polytechnic University, Hung Hom ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 843,
   "latitude": 22.30286972711879,
   "longitude": 114.18321222066879,
@@ -43543,29 +43520,6 @@
   ]
 }
 {
-  "id": 281617,
-  "latitude": 22.3045733,
-  "longitude": 114.17932700000006,
-  "bank": "The Bank of East Asia, Limited",
-  "address": "Room VA210, Shaw Amenities Building, The Hong Kong Polytechnic University, Hung Hom",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 285003,
   "latitude": 22.1294181,
   "longitude": 113.54491129999997,
@@ -58432,6 +58386,23 @@
   "longitude": 113.5576892668474,
   "bank": "Luso International Banking Limited",
   "address": "Macau, Na Taipa, Rua de Nam Keng No.222, Vai Chui R/C H",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 690803,
+  "latitude": 22.2016791,
+  "longitude": 113.574778,
+  "bank": "Luso International Banking Limited",
+  "address": "Edificio do Posto Fronteirico de Macau da ponte Hong Kong Zhuhai Macau (Macao Border Checkpoint at the Hong KOng Zhuhai Macao Bridge (G/F), UNit No. CV115",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

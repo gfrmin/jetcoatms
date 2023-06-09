@@ -58414,3 +58414,96 @@
     "MOP"
   ]
 }
+{
+  "id": 693803,
+  "latitude": 22.1606256,
+  "longitude": 113.5531589,
+  "bank": "Banco Comercial de Macau S.A.",
+  "address": "Nova Mall, Avenida de Kwong Tung, Lote BT2/3, 2/F, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 693806,
+  "latitude": 22.1606256,
+  "longitude": 113.5531589,
+  "bank": "Banco Comercial de Macau S.A.",
+  "address": "Nova Mall, Avenida de Kwong Tung, Lote BT2/3, 1/F, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 693827,
+  "latitude": 22.2989937,
+  "longitude": 114.1724068,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop A1,A2,B,C G/F & 1/F, Comfort Building, 86-88A Nathan Road",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 693830,
+  "latitude": 22.2989937,
+  "longitude": 114.1724068,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop A1,A2,B,C G/F & 1/F, Comfort Building, 86-88A Nathan Road",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 693833,
+  "latitude": 22.2989937,
+  "longitude": 114.1724068,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop A1,A2,B,C G/F & 1/F, Comfort Building, 86-88A Nathan Road",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

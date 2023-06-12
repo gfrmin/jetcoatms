@@ -43,27 +43,6 @@
   ]
 }
 {
-  "id": 361,
-  "latitude": 22.248148179237024,
-  "longitude": 114.15487468242645,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "25 Wu Pak Street, Aberdeen, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 363,
   "latitude": 22.24973450430827,
   "longitude": 114.15733695030212,
@@ -82,26 +61,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 364,
-  "latitude": 22.2481655569173,
-  "longitude": 114.15490686893463,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "25 Wu Pak Street, Aberdeen, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -2223,27 +2182,6 @@
   "longitude": 114.1525411605835,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "57 Caine Road, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 583,
-  "latitude": 22.284306463643517,
-  "longitude": 114.14072871208191,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "563 Bonham Road, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -9159,47 +9097,6 @@
   "longitude": 114.2005044221878,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "ATM No.2, G/F, Tsz Ching Shopping Centre II, Tsz Ching Estate, Wong Tai Sin",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1291,
-  "latitude": 22.341404,
-  "longitude": 114.194285,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop G13, Wong Tai Sin Shopping Centre, Wong Tai Sin, Kowloon",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 1292,
-  "latitude": 22.341404,
-  "longitude": 114.194285,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop G13, Wong Tai Sin Shopping Centre, Wong Tai Sin, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -46159,25 +46056,6 @@
   ]
 }
 {
-  "id": 316259,
-  "latitude": 22.318835,
-  "longitude": 113.93428300000005,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop G03A, G/F, Regal Airport Hotel, 9 Cheong Tat Road, Chek Lap Kok, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 319753,
   "latitude": 22.1913,
   "longitude": 113.534088,
@@ -58491,6 +58369,60 @@
 }
 {
   "id": 693833,
+  "latitude": 22.2989937,
+  "longitude": 114.1724068,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop A1,A2,B,C G/F & 1/F, Comfort Building, 86-88A Nathan Road",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 696803,
+  "latitude": 22.2989937,
+  "longitude": 114.1724068,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop A1,A2,B,C G/F & 1/F, Comfort Building, 86-88A Nathan Road",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 696806,
+  "latitude": 22.2989937,
+  "longitude": 114.1724068,
+  "bank": "China Construction Bank (Asia) Corporation Limited",
+  "address": "Shop A1,A2,B,C G/F & 1/F, Comfort Building, 86-88A Nathan Road",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 696809,
   "latitude": 22.2989937,
   "longitude": 114.1724068,
   "bank": "China Construction Bank (Asia) Corporation Limited",

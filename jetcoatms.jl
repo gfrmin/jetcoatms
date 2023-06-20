@@ -58439,3 +58439,22 @@
     "RMB"
   ]
 }
+{
+  "id": 699803,
+  "latitude": 22.1918004,
+  "longitude": 113.5396247,
+  "bank": "Tai Fung Bank Limited",
+  "address": "421, Avenida da Praia Grande, Edificio Centro Comercial da Praia Grande R/C,Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}

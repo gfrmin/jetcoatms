@@ -19625,24 +19625,6 @@
   ]
 }
 {
-  "id": 2374,
-  "latitude": 22.1918186,
-  "longitude": 113.5399705,
-  "bank": "Tai Fung Bank Limited",
-  "address": "421, Avenida da Praia Grande, Edificio Centro Comercial da Praia Grande R/C,Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 2377,
   "latitude": 22.1943085,
   "longitude": 113.5388104,
@@ -19775,25 +19757,6 @@
 }
 {
   "id": 2392,
-  "latitude": 22.1579622,
-  "longitude": 113.5555464,
-  "bank": "Tai Fung Bank Limited",
-  "address": "Avenida de Guimaraes, nos.172 e 180, R/C, Taipa, Macau.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 2393,
   "latitude": 22.1579622,
   "longitude": 113.5555464,
   "bank": "Tai Fung Bank Limited",
@@ -57990,25 +57953,6 @@
 }
 {
   "id": 623010,
-  "latitude": 22.208644074326614,
-  "longitude": 113.54973170304108,
-  "bank": "Tai Fung Bank Limited",
-  "address": "ESTRADA DA AREIA PRETA 42D-E, MACAU",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 623013,
   "latitude": 22.208644074326614,
   "longitude": 113.54973170304108,
   "bank": "Tai Fung Bank Limited",

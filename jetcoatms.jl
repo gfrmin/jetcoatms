@@ -58402,3 +58402,85 @@
     "RMB"
   ]
 }
+{
+  "id": 702803,
+  "latitude": 22.2099801,
+  "longitude": 113.5424846,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida do General Castelo Branco No.119, Edificio Mayfair Garden, Fase 3, Torre 5, R/C Loja C - Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 702806,
+  "latitude": 22.2099801,
+  "longitude": 113.5424846,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida do General Castelo Branco No.119, Edificio Mayfair Garden, Fase 3, Torre 5, R/C Loja C - Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 702809,
+  "latitude": 22.1445283,
+  "longitude": 113.5562002,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Galaxy Macau, Phase 3 (P3A) - Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 702812,
+  "latitude": 22.1445283,
+  "longitude": 113.5562002,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Galaxy Macau, Phase 3 (P3A) - Cotai, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}

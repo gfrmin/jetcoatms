@@ -17303,7 +17303,7 @@
   "id": 2080,
   "latitude": 22.2150823,
   "longitude": 113.5492207,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "Praca Das Portas Cerco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17323,7 +17323,7 @@
   "id": 2086,
   "latitude": 22.1940031,
   "longitude": 113.5390578,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "241 Avenida de Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17344,7 +17344,7 @@
   "id": 2087,
   "latitude": 22.1940012,
   "longitude": 113.5391257,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "241 Avenida de Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17364,7 +17364,7 @@
   "id": 2095,
   "latitude": 22.2044591,
   "longitude": 113.5451675,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "85 Avenida Horta e Costa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17385,7 +17385,7 @@
   "id": 2096,
   "latitude": 22.2022031,
   "longitude": 113.5453479,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "19-21 Estrada de Adolfo Loureiro",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17405,7 +17405,7 @@
   "id": 2097,
   "latitude": 22.2101376,
   "longitude": 113.5501943,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "32C-F Estrada de Marginal do Hipodromo",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17426,7 +17426,7 @@
   "id": 2098,
   "latitude": 22.2135359,
   "longitude": 113.5476187,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "338 Avenida de A.T. Barbosa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17447,7 +17447,7 @@
   "id": 2099,
   "latitude": 22.2031072,
   "longitude": 113.5483142,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "29A Rua Pedro Coutinho R/C",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17467,7 +17467,7 @@
   "id": 2100,
   "latitude": 22.2125025,
   "longitude": 113.5510105,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "195 Rua Oito do Bairro Iao Hon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17488,7 +17488,7 @@
   "id": 2101,
   "latitude": 22.1917943,
   "longitude": 113.53429,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "75-79 Rua Almirante Sergio",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17509,7 +17509,7 @@
   "id": 2102,
   "latitude": 22.1575974,
   "longitude": 113.5579943,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "356-366 r/c, Rua de Evora, Edif. Lei Fung, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17530,7 +17530,7 @@
   "id": 2103,
   "latitude": 22.1894957,
   "longitude": 113.5509274,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "286 Alameda Dr. Carlos D",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17550,7 +17550,7 @@
   "id": 2104,
   "latitude": 22.189474,
   "longitude": 113.547861,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "Star World Hotel, Avenida de Amizade, Macau.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -28322,7 +28322,7 @@
   "id": 140845,
   "latitude": 22.2105829,
   "longitude": 113.54441750000001,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "AVENIDA DO CONSELHEIRO BORJA NOS. 309-315, MAYFAIR GARDEN BLOCO 5 D R/C MACAU",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46526,7 +46526,7 @@
   "id": 323264,
   "latitude": 22.2099941,
   "longitude": 113.55014370000004,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "32C-F Estrada de Marginal do Hipodromo",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -46546,7 +46546,7 @@
   "id": 323265,
   "latitude": 22.1939204,
   "longitude": 113.53906440000003,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "241 Avenida de Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -49593,7 +49593,7 @@
   "id": 358366,
   "latitude": 22.1574816,
   "longitude": 113.55800099999999,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Macau) Limited",
   "address": "356-366 r/c, Rua de Evora, Edif. Lei Fung, Taipa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52528,7 +52528,7 @@
   "id": 399417,
   "latitude": 22.2788302,
   "longitude": 114.2256291,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Eastern Central Plaza, 3 Yiu Hing Road, Shaukeiwan",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52767,7 +52767,7 @@
   "id": 399429,
   "latitude": 22.2802594,
   "longitude": 114.1590306,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "G/F, Henley Building, 5 Queen's Road, Central",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52784,7 +52784,7 @@
   "id": 399430,
   "latitude": 22.2688584,
   "longitude": 114.1850628,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Shop 2, 15-17 King Kwong Street, Happy Valley, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52955,7 +52955,7 @@
   "id": 402801,
   "latitude": 22.335625,
   "longitude": 114.196713,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "G/F, 66-70 Tseuk Luk Street, San Po Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52972,7 +52972,7 @@
   "id": 402803,
   "latitude": 22.3211051,
   "longitude": 114.1694576,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "16 Mongkok Road, Mongkok",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -52989,7 +52989,7 @@
   "id": 402804,
   "latitude": 22.3063252,
   "longitude": 114.1872708,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "8-10 Tak Man Street, Whampoa Estate, Hung Hom",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53068,7 +53068,7 @@
   "id": 406148,
   "latitude": 22.312221601387346,
   "longitude": 114.1706393622771,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "507 Nathan Road, Yaumati",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53203,7 +53203,7 @@
   "id": 406158,
   "latitude": 22.3003823,
   "longitude": 114.1777233,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Shop G3-5, G/F., East Ocean Centre, 98 Granville Road, Tsimshatsui, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53220,7 +53220,7 @@
   "id": 406159,
   "latitude": 22.315652688435367,
   "longitude": 114.18934422271916,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "237A Tokwawan Road, Tokwawan ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53309,7 +53309,7 @@
   "id": 409490,
   "latitude": 22.36389704962916,
   "longitude": 114.13165305274393,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Kwai Chung Centre, 100 Kwai Hing Road, Kwai Chung",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53326,7 +53326,7 @@
   "id": 409491,
   "latitude": 22.327650026479294,
   "longitude": 114.1659868085983,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "57 Cheung Sha Wan Road, Shamshuipo",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53508,7 +53508,7 @@
   "id": 409502,
   "latitude": 22.2915062,
   "longitude": 114.2008326,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "441-443 King's Road, North Point",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53544,7 +53544,7 @@
   "id": 409506,
   "latitude": 22.288044,
   "longitude": 114.14408,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "139-141 Des Voeux Road West, Western",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53597,7 +53597,7 @@
   "id": 412833,
   "latitude": 22.2785539060717,
   "longitude": 114.22946983205071,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Perfect Mount Gardens, 1 Po Man Street, Shaukeiwan",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53655,7 +53655,7 @@
   "id": 412836,
   "latitude": 22.447453780817,
   "longitude": 114.16648015459633,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Shop F, 12-26 Tai Wing Lane, Tai Po ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53673,7 +53673,7 @@
   "id": 412838,
   "latitude": 22.444243,
   "longitude": 114.0309,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Shop 1-3, G/F, 40-54 Castle Peak Road, Yuen Long",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53786,7 +53786,7 @@
   "id": 412844,
   "latitude": 22.2848135,
   "longitude": 114.153652,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "161 Queen's Road Central",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53821,7 +53821,7 @@
   "id": 416169,
   "latitude": 22.29930815013522,
   "longitude": 114.17517512576028,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "54 Cameron Road, Tsimshatsui",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53838,7 +53838,7 @@
   "id": 416170,
   "latitude": 22.305505234679146,
   "longitude": 114.17173764966815,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "298 Nathan Road, Jordan",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53873,7 +53873,7 @@
   "id": 416172,
   "latitude": 22.33819290463481,
   "longitude": 114.13845051838533,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Shop N52, G/F Mount Sterling Mall, Mei Foo Sun Chuen",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -53890,7 +53890,7 @@
   "id": 416173,
   "latitude": 22.3706908,
   "longitude": 114.1172415,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "35 Chung On Street, Tsuen Wan",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54003,7 +54003,7 @@
   "id": 419478,
   "latitude": 22.37540627180108,
   "longitude": 114.17785243128279,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "32-34 Tai Wai Road, Shatin",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54268,7 +54268,7 @@
   "id": 422780,
   "latitude": 22.27673506341679,
   "longitude": 114.17358407427447,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "131-133 Johnston Road, Wan Chai",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54285,7 +54285,7 @@
   "id": 422781,
   "latitude": 22.2797531,
   "longitude": 114.1815852,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "443-445 Hennessy Road, Causeway Bay, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54319,7 +54319,7 @@
   "id": 422783,
   "latitude": 22.396348085958692,
   "longitude": 113.97478658280335,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Shops Nos. 1 & 2, G/F., Man Cheung Mansion, 52-62 Tuen Mun Heung Sze Wui Road, Tuen Mun, N. T.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -54336,7 +54336,7 @@
   "id": 422784,
   "latitude": 22.3233143,
   "longitude": 114.2581878,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Shop 1022-23, Level 1, Metro City Phase II, Tseung Kwan O",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -56651,7 +56651,7 @@
   "id": 488010,
   "latitude": 22.300266479407306,
   "longitude": 114.17778833651685,
-  "bank": "OCBC Wing Hang Bank Limited",
+  "bank": "OCBC Bank (Hong Kong) Limited",
   "address": "Shop G3-5, G/F., East Ocean Centre, 98 Granville Road, Tsimshatsui, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",

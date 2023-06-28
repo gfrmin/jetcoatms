@@ -1508,44 +1508,6 @@
   ]
 }
 {
-  "id": 498,
-  "latitude": 22.28229115888223,
-  "longitude": 114.15768563747406,
-  "bank": "Dah Sing Bank, Limited",
-  "address": "Worldwide House, 19 Des Voeux Road Central",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 499,
-  "latitude": 22.28229,
-  "longitude": 114.1576322,
-  "bank": "Dah Sing Bank, Limited",
-  "address": "Worldwide House, 19 Des Voeux Road Central",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "MPF",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 502,
   "latitude": 22.2837971,
   "longitude": 114.15449050000007,
@@ -58482,5 +58444,49 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 705803,
+  "latitude": 22.1635361,
+  "longitude": 113.5607537,
+  "bank": "Bank of China (Macau) Limited",
+  "address": "Auto-silo integrado no Edificio lat Seng da Habitacao Social,sito na Estrada Nordeste da Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 705806,
+  "latitude": 22.2821622,
+  "longitude": 114.2321305,
+  "bank": "CMB Wing Lung Bank Limited",
+  "address": "No.3 A Kung Ngam Village Road, Shau Kei Wan, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
   ]
 }

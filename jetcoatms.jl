@@ -58490,3 +58490,45 @@
     "HKD"
   ]
 }
+{
+  "id": 708803,
+  "latitude": 22.276444,
+  "longitude": 114.173349,
+  "bank": "CMB Wing Lung Bank Limited",
+  "address": "118 Johnston Road, Wanchai",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 708806,
+  "latitude": 22.276444,
+  "longitude": 114.173349,
+  "bank": "CMB Wing Lung Bank Limited",
+  "address": "118 Johnston Road Wanchai",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "MPF",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

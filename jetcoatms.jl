@@ -25773,27 +25773,6 @@
   ]
 }
 {
-  "id": 101256,
-  "latitude": 22.407026342841863,
-  "longitude": 113.96950721740723,
-  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
-  "address": "ATM No.3 1/F, Kin Sang Shopping Center, Kin Sang Estate, Tuen Mun",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 101257,
   "latitude": 22.420773121417238,
   "longitude": 114.20929670333862,
@@ -58529,6 +58508,46 @@
   ],
   "currencies": [
     "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 720803,
+  "latitude": 22.2776878,
+  "longitude": 114.1653875,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "Suite 901-904, Level 9, One Pacific Place, 88 Queensway, Admiralty, Hong Kong ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 720806,
+  "latitude": 22.1970965,
+  "longitude": 113.5590498,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Terminal Maritimo do Porto Exterior 1o.andar (A-118)  ",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "CUP",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
     "RMB"
   ]
 }

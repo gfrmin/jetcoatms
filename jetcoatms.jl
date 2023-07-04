@@ -58551,3 +58551,25 @@
     "RMB"
   ]
 }
+{
+  "id": 723803,
+  "latitude": 22.1599764,
+  "longitude": 113.5562637,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua de Nam Keng, CTM Telecentro Building, R/C, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "CUP",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}

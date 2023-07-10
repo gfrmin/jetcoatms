@@ -32255,72 +32255,6 @@
   ]
 }
 {
-  "id": 190088,
-  "latitude": 22.210470136144973,
-  "longitude": 113.54430322513122,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Self-service Banking Center, Avenida do General Castelo Branco No.119, Edif. Mayfair Garden, Fase 3, Torre 5, R/C Loja C, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
-  "id": 190089,
-  "latitude": 22.210465169758503,
-  "longitude": 113.54423885211486,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Self-service Banking Center, Avenida do General Castelo Branco No.119, Edif. Mayfair Garden, Fase 3, Torre 5, R/C Loja C, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "MOP"
-  ]
-}
-{
-  "id": 190090,
-  "latitude": 22.210460203371845,
-  "longitude": 113.5442817674591,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Self-service Banking Center, Avenida do General Castelo Branco No.119, Edif. Mayfair Garden, Fase 3, Torre 5, R/C Loja C, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 190091,
   "latitude": 22.207339601532574,
   "longitude": 113.55595121719671,
@@ -33037,28 +32971,6 @@
   ]
 }
 {
-  "id": 193309,
-  "latitude": 22.16020908220072,
-  "longitude": 113.55596857102512,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua de Nam Keng, CTM Telecentro Building, R/C, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 193310,
   "latitude": 22.15776075075803,
   "longitude": 113.5546157465576,
@@ -33351,28 +33263,6 @@
   "longitude": 113.55921523556526,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "1/F Departure Level, Terminal Maritimo do Porto Exterior, Largo do Terminal Maritimo, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 193339,
-  "latitude": 22.196658927977268,
-  "longitude": 113.55934398159798,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "R/C Arrival Level, Terminal Maritimo do Porto Exterior, Largo do Terminal Maritimo, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

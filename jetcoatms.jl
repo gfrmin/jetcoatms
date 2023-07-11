@@ -58463,3 +58463,24 @@
     "RMB"
   ]
 }
+{
+  "id": 726803,
+  "latitude": 22.382529537002164,
+  "longitude": 114.18994805082208,
+  "bank": "Industrial and Commercial Bank of China (Asia) Limited",
+  "address": "Shop 22J, Level 3, Shatin Centre, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "CUP",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

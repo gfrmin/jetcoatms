@@ -42136,27 +42136,6 @@
   ]
 }
 {
-  "id": 274846,
-  "latitude": 22.1564993,
-  "longitude": 113.54322360000003,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "The Macau Roosevelt(Gaming Area), Avenida dos Jogos da Asia Oriental Macau, Taipa",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 274847,
   "latitude": 22.1487825,
   "longitude": 113.5526691,

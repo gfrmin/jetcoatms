@@ -44058,27 +44058,6 @@
   ]
 }
 {
-  "id": 291837,
-  "latitude": 22.192507,
-  "longitude": 113.550184,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Rua de Luis Gonzaga Gomes Nos. 68C-68D, Edificio Nam Un, R/C, Loja D, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 291838,
   "latitude": 22.1470331,
   "longitude": 113.55983900000001,
@@ -58460,6 +58439,25 @@
   ],
   "currencies": [
     "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 729803,
+  "latitude": 22.1661254,
+  "longitude": 113.5772891,
+  "bank": "Tai Fung Bank Limited",
+  "address": "G/F, TAIPA FERRY TERMINAL, ESTRADA DE PAC ON, TAIPA MACAU",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
     "RMB"
   ]
 }

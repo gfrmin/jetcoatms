@@ -58461,3 +58461,21 @@
     "RMB"
   ]
 }
+{
+  "id": 732803,
+  "latitude": 22.3727186,
+  "longitude": 114.1794464,
+  "bank": "Standard Chartered Bank (Hong Kong) Limited",
+  "address": "Shop 321B, 3/F, The Wai, 18 Che Kung Miu Road, Tai Wai, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}

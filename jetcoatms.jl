@@ -57588,6 +57588,27 @@
   ]
 }
 {
+  "id": 608011,
+  "latitude": 22.425704859844284,
+  "longitude": 114.23219654924735,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop 2128-2133, Level 2, Ma On Shan Plaza, Sai Sha Road, Ma On Shan, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 611009,
   "latitude": 22.3289379,
   "longitude": 114.1516078,
@@ -57763,6 +57784,29 @@
   ]
 }
 {
+  "id": 629009,
+  "latitude": 22.341411258858276,
+  "longitude": 114.19449290306498,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop LG2, LG/F, Temple Mall South,Wong Tai Sin, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "USD",
+    "JPY",
+    "EUR",
+    "GBP"
+  ]
+}
+{
   "id": 629010,
   "latitude": 22.212666128674584,
   "longitude": 113.55022998710248,
@@ -57778,6 +57822,47 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 629012,
+  "latitude": 22.341411258858276,
+  "longitude": 114.19449290306498,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop LG2, LG/F, Temple Mall South,Wong Tai Sin, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}
+{
+  "id": 629015,
+  "latitude": 22.341411258858276,
+  "longitude": 114.19449290306498,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Shop LG2, LG/F, Temple Mall South,Wong Tai Sin, Kowloon",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }
@@ -57802,6 +57887,27 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 657803,
+  "latitude": 22.2414074,
+  "longitude": 114.1560313,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "ATM No.1, Level 3, Lei Tung Commercial Centre (Phase 3), Lei Tung Estate,No.5 Lei Tung Estate Road,Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
   ]
 }
 {
@@ -58407,5 +58513,44 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 735803,
+  "latitude": 22.283134,
+  "longitude": 114.156725,
+  "bank": "Fubon Bank (Hong Kong) Limited",
+  "address": "38 Des Voeux Road, Central, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 735806,
+  "latitude": 22.1896979,
+  "longitude": 113.5438554,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida de Lisboa, Hotel Grand Lisboa, LG1/F andar, em Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }

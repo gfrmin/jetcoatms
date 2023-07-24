@@ -45067,27 +45067,6 @@
   ]
 }
 {
-  "id": 305725,
-  "latitude": 22.448971,
-  "longitude": 114.166033,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "40-50 Kwong Fuk Road, Tai Po Market, New Territories",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 305734,
   "latitude": 22.281615,
   "longitude": 113.934855,
@@ -51795,8 +51774,7 @@
     "CUP"
   ],
   "currencies": [
-    "HKD",
-    "RMB"
+    "MOP"
   ]
 }
 {
@@ -58552,5 +58530,23 @@
   "currencies": [
     "HKD",
     "MOP"
+  ]
+}
+{
+  "id": 738803,
+  "latitude": 22.1595347,
+  "longitude": 113.5531854,
+  "bank": "Banco Well Link, S.A.",
+  "address": "NA TAIPA,RUA DE SENG TOU N.S 545-559,URBANIZACAO DA  NOVA TAIPA-FASEI BLOCO29,3I RES-DO-CHAO A",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CUP"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
   ]
 }

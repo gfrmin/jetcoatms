@@ -54127,26 +54127,6 @@
   ]
 }
 {
-  "id": 429345,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 429346,
   "latitude": 22.144177,
   "longitude": 113.573961,
@@ -54165,26 +54145,6 @@
     "HKD",
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 429347,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
   ]
 }
 {

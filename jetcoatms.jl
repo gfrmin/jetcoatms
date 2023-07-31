@@ -58510,3 +58510,19 @@
     "RMB"
   ]
 }
+{
+  "id": 741803,
+  "latitude": 22.3829839,
+  "longitude": 114.2718798,
+  "bank": "Public Bank (Hong Kong) Limited",
+  "address": "Shop 70C on G/F, Sai Kung Town Centre, Nos. 22-40 Fuk Man Road, Sai Kung, New Territories",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD"
+  ]
+}

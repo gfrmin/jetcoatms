@@ -58526,3 +58526,105 @@
     "HKD"
   ]
 }
+{
+  "id": 753803,
+  "latitude": 22.190466,
+  "longitude": 113.5460391,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Hotel Fortuna - Rua de Cantao No.63, G/F (Gaming Area) Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 753806,
+  "latitude": 22.1253114,
+  "longitude": 113.5767552,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Grand Coloane ResortEstrada de Hac Sa No.1918, Coloane - Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 753809,
+  "latitude": 22.211079866364916,
+  "longitude": 113.55795733058433,
+  "bank": "Banco Nacional Ultramarino, S.A.",
+  "address": "AGVMR-Rua Central da Areia Preta S/N r/c w.x",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 753812,
+  "latitude": 22.13073,
+  "longitude": 113.55108,
+  "bank": "Banco Nacional Ultramarino, S.A.",
+  "address": "Guest House Of The University Of Macau, University of Macau, N1-RC, Avenida da Universidade",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 753815,
+  "latitude": 22.13073,
+  "longitude": 113.55108,
+  "bank": "Banco Nacional Ultramarino, S.A.",
+  "address": "Guest House Of The University Of Macau, University of Macau, N1-RC, Avenida da Universidade",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}

@@ -36157,25 +36157,6 @@
   ]
 }
 {
-  "id": 209273,
-  "latitude": 22.28308537112325,
-  "longitude": 114.15674418210983,
-  "bank": "Fubon Bank (Hong Kong) Limited",
-  "address": "38 Des Voeux Road, Central, Hong Kong  ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 209274,
   "latitude": 22.203794767300785,
   "longitude": 113.54618601349182,

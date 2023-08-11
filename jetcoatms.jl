@@ -42499,10 +42499,10 @@
 }
 {
   "id": 278215,
-  "latitude": 22.1921715,
-  "longitude": 113.54744660000006,
+  "latitude": 22.1923323,
+  "longitude": 113.5486229,
   "bank": "Luso International Banking Limited",
-  "address": "Em Macau, Rua de Xangai N 185, Edificio da Associacao Comercial De Macau Res-do-Chao D",
+  "address": "Rua De Pequim No.227,235, Fu Chat Yuen Res-Do-Chao E, F Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -42516,10 +42516,10 @@
 }
 {
   "id": 278216,
-  "latitude": 22.1921715,
-  "longitude": 113.54744660000006,
+  "latitude": 22.1923323,
+  "longitude": 113.5486229,
   "bank": "Luso International Banking Limited",
-  "address": "Em Macau , Rua de Xangai N 185, Edificio da Associacao Comercial de Macau Res-do-Chao D",
+  "address": "Rua De Pequim No.227,235, Fu Chat Yuen Res-Do-Chao E, F Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

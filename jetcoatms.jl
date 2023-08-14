@@ -54130,10 +54130,10 @@
 }
 {
   "id": 429348,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.18969528629226,
+  "longitude": 113.54385823677065,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Grand Lisboa Palace Rua do Tiro, S/N, Macau",
+  "address": "Hotel Lisboa, Avenida de Lisboa, G/F (Gaming), Macau  ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -58607,5 +58607,45 @@
     "HKD",
     "MOP",
     "RMB"
+  ]
+}
+{
+  "id": 756803,
+  "latitude": 22.1953134,
+  "longitude": 113.5551398,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Dr. Rodrigo Rodrigues Jai Alai Oceanus 2/F (Non Gaming), Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
+  ]
+}
+{
+  "id": 756806,
+  "latitude": 22.1972231,
+  "longitude": 113.5558079,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Avenida Dr. Rodrigo Rodrigues Jai Alai Oceanus 1/F (Gaming), Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP"
   ]
 }

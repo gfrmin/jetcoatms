@@ -31574,28 +31574,6 @@
   ]
 }
 {
-  "id": 190031,
-  "latitude": 22.19048840513192,
-  "longitude": 113.54626966812293,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Fortuna Casino (G/F) Rua de Cantao, No.63, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 190037,
   "latitude": 22.1916708,
   "longitude": 113.54816110000002,
@@ -58513,26 +58491,6 @@
   "longitude": 113.5460391,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Hotel Fortuna - Rua de Cantao No.63, G/F (Gaming Area) Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 753806,
-  "latitude": 22.1253114,
-  "longitude": 113.5767552,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Grand Coloane ResortEstrada de Hac Sa No.1918, Coloane - Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",

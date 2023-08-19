@@ -57210,6 +57210,27 @@
   ]
 }
 {
+  "id": 569012,
+  "latitude": 22.2482324,
+  "longitude": 114.1548892,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "25 Wu Pak Street, Aberdeen, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
   "id": 572008,
   "latitude": 22.2848888,
   "longitude": 114.1453022,
@@ -57228,6 +57249,29 @@
   "currencies": [
     "HKD",
     "RMB"
+  ]
+}
+{
+  "id": 572009,
+  "latitude": 22.2482324,
+  "longitude": 114.1548892,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "25 Wu Pak Street, Aberdeen, Hong Kong",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "USD",
+    "JPY",
+    "EUR",
+    "GBP"
   ]
 }
 {
@@ -57838,6 +57882,26 @@
     "Bill Payment, Credit Card Payment and Charity Donation",
     "Interbank Transfer",
     "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "RMB"
+  ]
+}
+{
+  "id": 675803,
+  "latitude": 22.3877311,
+  "longitude": 113.9797834,
+  "bank": "Bank of China (Hong Kong) Limited",
+  "address": "Common Area, Chi Lok Fa Yuen, No. 18  Tsing Hoi Circuit, Tuen Mun, N.T.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "MPF",
     "CIRRUS",
     "CUP",
     "JCB",

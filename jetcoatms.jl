@@ -1214,27 +1214,6 @@
   ]
 }
 {
-  "id": 466,
-  "latitude": 22.287815804320218,
-  "longitude": 114.15193498134613,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop 225, 2/F, Shun Tak Centre, 200 Connaught Road Central. Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 467,
   "latitude": 22.279332678585508,
   "longitude": 114.16155874729156,
@@ -10308,27 +10287,6 @@
   ]
 }
 {
-  "id": 1418,
-  "latitude": 22.425151769851812,
-  "longitude": 114.23170924186707,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop 2103, Level 2, Ma On Shan Plaza, Sai Sha Road, Ma On Shan",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 1419,
   "latitude": 22.40780992594101,
   "longitude": 114.22269701957703,
@@ -10439,27 +10397,6 @@
   "longitude": 114.2083739,
   "bank": "Bank of China (Hong Kong) Limited",
   "address": "Shop No. SHM 3 at Shek Mun Station (Mos Rail Line), Ma On Shan",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
-  "id": 1426,
-  "latitude": 22.42514681109817,
-  "longitude": 114.23182189464569,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop 2103, Level 2, Ma On Shan Plaza, Sai Sha Road, Ma On Shan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -20481,26 +20418,6 @@
   "currencies": [
     "HKD",
     "RMB"
-  ]
-}
-{
-  "id": 14884,
-  "latitude": 22.287513021680645,
-  "longitude": 114.15254652500153,
-  "bank": "Bank of China (Hong Kong) Limited",
-  "address": "Shop 225,  2/F, Shun Tak Centre, 200 Connaught Road Central, Hong Kong",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "MPF",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {

@@ -40045,27 +40045,6 @@
   ]
 }
 {
-  "id": 241805,
-  "latitude": 22.280366,
-  "longitude": 114.157301,
-  "bank": "Shanghai Commercial Bank Limited",
-  "address": "G/F, Shanghai Commercial Bank Tower, 12 Queen's Road Central,Hong Kong.",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "RMB"
-  ]
-}
-{
   "id": 241806,
   "latitude": 22.280366,
   "longitude": 114.157301,

@@ -58587,3 +58587,24 @@
     "MOP"
   ]
 }
+{
+  "id": 762803,
+  "latitude": 22.1953393,
+  "longitude": 113.5544119,
+  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
+  "address": "Rua de Malaca No.17-103, Hotel Golden Dragon R/C,hotel lobby, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "CIRRUS",
+    "JCB"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}

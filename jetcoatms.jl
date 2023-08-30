@@ -17669,7 +17669,7 @@
   "latitude": 22.189799162505608,
   "longitude": 113.54297697544098,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17692,7 +17692,7 @@
   "latitude": 22.189709754359544,
   "longitude": 113.54293942451477,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17716,7 +17716,7 @@
   "latitude": 22.18979171182893,
   "longitude": 113.54297161102295,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17738,7 +17738,7 @@
   "latitude": 22.189799162505608,
   "longitude": 113.54299306869507,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17761,7 +17761,7 @@
   "latitude": 22.190762780023405,
   "longitude": 113.54020357131958,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Comerical De Macau, S/N, New Yaohan, 7 Andar, Macau",
+  "address": "Avenida Doutor Mario Soares no.90, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17781,10 +17781,10 @@
 }
 {
   "id": 2235,
-  "latitude": 22.1479797,
-  "longitude": 113.5617373,
+  "latitude": 22.1470331,
+  "longitude": 113.559839,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
+  "address": "The Venetian Macao Resort Hotel, Baia de Nossa Senhora de Esperance, Estrada da Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17807,7 +17807,7 @@
   "latitude": 22.2049907,
   "longitude": 113.5445702,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.103, Avenida Horta E Costa, R/C, Macau",
+  "address": "No. 103, Avenida Horta E Costa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17830,7 +17830,7 @@
   "latitude": 22.2049907,
   "longitude": 113.5445702,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.103, Avenida Horta E Costa, R/C, Macau",
+  "address": "No. 103, Avenida Horta E Costa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17853,7 +17853,7 @@
   "latitude": 22.190939111379468,
   "longitude": 113.53498935699463,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.1, Rua Da Praia Do Manduco, R/C, Macau",
+  "address": "No. 1, Rua da Praia do Manduco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17877,7 +17877,7 @@
   "latitude": 22.15784703002536,
   "longitude": 113.55818510055542,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.388, Rua De Evora, R/C, Taipa, Macau",
+  "address": "No. 388, Rua de Evora R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17900,7 +17900,7 @@
   "latitude": 22.1577408,
   "longitude": 113.5581687,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.388, Rua De Evora, R/C, Taipa, Macau",
+  "address": "No. 388, Rua de Evora R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17921,10 +17921,10 @@
 }
 {
   "id": 2242,
-  "latitude": 22.212253705904576,
-  "longitude": 113.54764938354492,
+  "latitude": 22.2103716,
+  "longitude": 113.5474696,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.4, Avenida Artur Tamagnini Barbosa, Edificio Choi Fai Kok, Bloco A, R/C, Macau",
+  "address": "R/C-A , Edf. Choi Fai Kok, Avenida Artur Tamagnini Barbosa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17944,10 +17944,10 @@
 }
 {
   "id": 2243,
-  "latitude": 22.212241290095896,
-  "longitude": 113.5477003455162,
+  "latitude": 22.2103716,
+  "longitude": 113.5474696,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.4, Avenida Artur Tamagnini Barbosa, Edificio Choi Fai Kok, Bloco A, R/C, Macau",
+  "address": "R/C-A , Edf. Choi Fai Kok, Avenida Artur Tamagnini Barbosa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17970,7 +17970,7 @@
   "latitude": 22.195585,
   "longitude": 113.5447287,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.338-342, Rua Do Campo, R/C, Macau",
+  "address": "No. 338-342 R/C, Rua do Campo, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -17994,7 +17994,7 @@
   "latitude": 22.2110105,
   "longitude": 113.5494064,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.41-43, Rua Um Do Bairro Iao Hon, R/C, Macau",
+  "address": "No. 41-43, Rua da Um do Bairro Iao Hon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18017,7 +18017,7 @@
   "latitude": 22.2078373,
   "longitude": 113.5560366,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
+  "address": "No. 347 Bloco 3 R/C-C,D Edificio Kam Hoi San, Avenida Nordeste, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18041,7 +18041,7 @@
   "latitude": 22.2028034,
   "longitude": 113.5470309,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.33, Avenida Horta E Costa, R/C, Macau",
+  "address": "No. 33, Avenida Horta E Costa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18061,10 +18061,10 @@
 }
 {
   "id": 2258,
-  "latitude": 22.1898706,
-  "longitude": 113.5444791,
+  "latitude": 22.1896893,
+  "longitude": 113.5449722,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The East Wing Of Hotel Lisboa, Macau",
+  "address": "The East Wing of Hotel Lisboa",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18084,10 +18084,10 @@
 }
 {
   "id": 2260,
-  "latitude": 22.1479797,
-  "longitude": 113.5617373,
+  "latitude": 22.148095610703223,
+  "longitude": 113.56028162936094,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Shop No.2656, The Grand Canal Shoppes, The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperance, Cotal Strip, Taipa, Macau",
+  "address": "Shop No.2656, Shoppes at Venetian, The Venetian Macao Resort Hotel, Baia de Nossa Senhora de Esperance, Estrada da Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18107,10 +18107,10 @@
 }
 {
   "id": 2261,
-  "latitude": 22.148198364113533,
-  "longitude": 113.56206893920898,
+  "latitude": 22.148095610703223,
+  "longitude": 113.56028162936094,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Shop No.2656, The Grand Canal Shoppes, The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperance, Cotal Strip, Taipa, Macau",
+  "address": "Shop No.2656, Shoppes at Venetian, The Venetian Macao Resort Hotel, Baia de Nossa Senhora de Esperance, Estrada da Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18131,10 +18131,10 @@
 }
 {
   "id": 2264,
-  "latitude": 22.2078804,
-  "longitude": 113.5510468,
+  "latitude": 22.2078543,
+  "longitude": 113.5508747,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.130, Avenida De Venceslau De Morais, Bloco P, R/C, Macau",
+  "address": "No. 130 P R/C Avenida de Venceslau de Morais, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18155,10 +18155,10 @@
 }
 {
   "id": 2265,
-  "latitude": 22.2078804,
-  "longitude": 113.5510468,
+  "latitude": 22.2078543,
+  "longitude": 113.5508747,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.130, Avenida De Venceslau De Morais, Bloco P, R/C, Macau",
+  "address": "No. 130 P R/C Avenida de Venceslau de Morais, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18180,7 +18180,7 @@
   "latitude": 22.2023116,
   "longitude": 113.5497875,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.20-26, Avenida Do Ouvidor De Arriaga, R/C, Macau",
+  "address": "No. 20-26, Avenida do Ouvidor Arriaga, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18201,10 +18201,10 @@
 }
 {
   "id": 2270,
-  "latitude": 22.1926993,
-  "longitude": 113.5479153,
+  "latitude": 22.1925923,
+  "longitude": 113.5480649,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.382, Avenida Do Dr. Rodrigo Rodrigues, Bloco A, R/C, Macau",
+  "address": "No. 382 A R/C, Avenida do Dr. Rodrigo Rodrigues, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18225,16 +18225,16 @@
 }
 {
   "id": 2271,
-  "latitude": 22.1923928,
-  "longitude": 113.5407535,
+  "latitude": 22.1923546,
+  "longitude": 113.5404385,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.1 L, Avenida Almeida Ribeiro, R/C, Macau",
+  "address": "No. 13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
     "Diners Club",
-    "Discover",
     "Interbank Transfer",
+    "Discover",
     "FISC",
     "CIRRUS",
     "CUP",
@@ -18248,10 +18248,10 @@
 }
 {
   "id": 2272,
-  "latitude": 22.1923928,
-  "longitude": 113.5407535,
+  "latitude": 22.1923546,
+  "longitude": 113.5404385,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.13, Avenida Almeida Ribeiro, R/C, Macau",
+  "address": "No. 13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18272,10 +18272,10 @@
 }
 {
   "id": 2273,
-  "latitude": 22.1923928,
-  "longitude": 113.5407535,
+  "latitude": 22.1923546,
+  "longitude": 113.5404385,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.1 L, Avenida Almeida Ribeiro, R/C, Macau",
+  "address": "No. 13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18298,7 +18298,7 @@
   "latitude": 22.1997893,
   "longitude": 113.5424217,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.67-71, Rua De Coelho Do Amaral, R/C, Macau",
+  "address": "No. 67-71, Rua de Coelho do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18322,7 +18322,7 @@
   "latitude": 22.1610291,
   "longitude": 113.5562526,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.583-601, Avenida Dr. Sun Yat Sen, R/C, Taipa, Macau",
+  "address": "No. 583-601 R/C, Avenida Dr. Sun Yat Sen, Taipa Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18345,7 +18345,7 @@
   "latitude": 22.1610291,
   "longitude": 113.5562526,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.583-601, Avenida Dr. Sun Yat Sen, R/C, Taipa, Macau",
+  "address": "No. 583-601 R/C, Avenida Dr. Sun Yat Sen, Taipa Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18365,10 +18365,10 @@
 }
 {
   "id": 2280,
-  "latitude": 22.189411642662083,
-  "longitude": 113.55229006745913,
+  "latitude": 22.1902589,
+  "longitude": 113.5522054,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-Y,Z,AA, No.322,326,330, Avenida do Governador Jaime Silverio Marques, Jardim Nam Ngon, Macau",
+  "address": "No. 322, Avenida do Governador Jaime Silverio Marques R/C, Shop Y, Ed. Jardim Nam Ngon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18388,10 +18388,10 @@
 }
 {
   "id": 2281,
-  "latitude": 22.189357004206634,
-  "longitude": 113.55234371163942,
+  "latitude": 22.1902589,
+  "longitude": 113.5522054,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-Y,Z,AA, No.322,326,330, Avenida do Governador Jaime Silverio Marques, Jardim Nam Ngon, Macau",
+  "address": "No. 322, Avenida do Governador Jaime Silverio Marques R/C, Shop Y, Ed. Jardim Nam Ngon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18412,10 +18412,10 @@
 }
 {
   "id": 2282,
-  "latitude": 22.1945566,
-  "longitude": 113.5412837,
+  "latitude": 22.1947379,
+  "longitude": 113.5413482,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.9-11, Rua De S.Domigos, Macau",
+  "address": "No. 9-11, Rua De. S Domingos, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18435,10 +18435,10 @@
 }
 {
   "id": 2283,
-  "latitude": 22.1945566,
-  "longitude": 113.5412837,
+  "latitude": 22.1947379,
+  "longitude": 113.5413482,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.9-11, Rua De S.Domigos No, Macau",
+  "address": "No. 9-11, Rua De. S Domingos, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18458,10 +18458,10 @@
 }
 {
   "id": 2284,
-  "latitude": 22.1945566,
-  "longitude": 113.5412837,
+  "latitude": 22.1947379,
+  "longitude": 113.5413482,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.9-11, Rua De S.Domigos, Macau",
+  "address": "No. 9-11, Rua De. S Domingos, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18484,30 +18484,7 @@
   "latitude": 22.19944994050838,
   "longitude": 113.5428911447525,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Estrada Do Repouso, Kiang Wu Hospital, Inpatient Building, Emergency Lobby, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 2287,
-  "latitude": 22.1940798,
-  "longitude": 113.5501027,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "No.678, Avenida Do Dr. Rodrigo Rodigues, Macau",
+  "address": "Estrada do Repouso, Hospital Kiang Wu, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18530,7 +18507,7 @@
   "latitude": 22.197229773941828,
   "longitude": 113.55910778045654,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida da Amizade, Terminal Maritimo De Macau, Departure Hall, Macau",
+  "address": "Avenida da Amizade, Macau Maritime Terminal, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18549,11 +18526,35 @@
   ]
 }
 {
-  "id": 2292,
-  "latitude": 22.216142283128196,
-  "longitude": 113.54893684387207,
+  "id": 2291,
+  "latitude": 22.1575564,
+  "longitude": 113.5737249,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Local De Saida No.2 Piso Do Edifico Fronteirico Das Portas Do Cerco, Macau",
+  "address": "Cam Office Building, Av. Wai Long, Taipa, Macau",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Diners Club",
+    "Interbank Transfer",
+    "Discover",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
+    "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 2292,
+  "latitude": 22.2159295,
+  "longitude": 113.5491143,
+  "bank": "Bank of China (Macau) Limited",
+  "address": "Local De Saida No. 2 Piso Do Edifico Fronteirico Das Portas Do Cerco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18574,10 +18575,10 @@
 }
 {
   "id": 2294,
-  "latitude": 22.1575886,
-  "longitude": 113.5510045,
+  "latitude": 22.1576266,
+  "longitude": 113.5508335,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua De Chaves, Taipa Square, R/C Lobby, Taipa, Macau",
+  "address": "No.36-58, Rua de Chaves, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18597,10 +18598,10 @@
 }
 {
   "id": 2295,
-  "latitude": 22.2157693,
-  "longitude": 113.5490299,
+  "latitude": 22.2159295,
+  "longitude": 113.5491143,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Local De Saida No.2 Piso Do Edifico Fronteirico Das Portas Do Cerco, Macau",
+  "address": "Local De Saida No. 2 Piso Do Edifico Fronteirico Das Portas Do Cerco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18624,7 +18625,7 @@
   "latitude": 22.198471482164575,
   "longitude": 113.53646993637085,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua Das Lorchas E Rua Do Visconde Paco De Arcos, Entre Pontes 12A-20, Ponte 16, Macau",
+  "address": "Rua das Lorchas E Rua do Visconde Paco de Arcos, No 12A-20, Porto Interior, Ponte Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18647,7 +18648,7 @@
   "latitude": 22.20013676832009,
   "longitude": 113.54540825522531,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.31 Rua de Sacadura Cabral Macau",
+  "address": "No.31, Rua de Sacadura Cabral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18668,10 +18669,10 @@
 }
 {
   "id": 2302,
-  "latitude": 22.148635599122425,
-  "longitude": 113.56114625930786,
+  "latitude": 22.1470331,
+  "longitude": 113.559839,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Venetian Macao-Resort-Hotel Staff Corridor Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
+  "address": "The Venetian Macao Resort Hotel, Baia de Nossa Senhora de Esperance, Estrada da Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18691,10 +18692,10 @@
 }
 {
   "id": 2303,
-  "latitude": 22.148595850541387,
-  "longitude": 113.5608458518982,
+  "latitude": 22.1470331,
+  "longitude": 113.559839,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Venetian Macao-Resort-Hotel Staff Corridor Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
+  "address": "The Venetian Macao Resort Hotel, Baia de Nossa Senhora de Esperance, Estrada da Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18715,10 +18716,10 @@
 }
 {
   "id": 2304,
-  "latitude": 22.19184560006787,
-  "longitude": 113.55439782142639,
+  "latitude": 22.1916311,
+  "longitude": 113.5548706,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.203, Largo de Monte Carlo, Sands Macau Hotel, Staff Corridor, Macau",
+  "address": "Sands Macau Hotel, Staff Corridor, Largo de Monte Carlo, No.203, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18738,10 +18739,10 @@
 }
 {
   "id": 2308,
-  "latitude": 22.148814467598253,
-  "longitude": 113.56112480163574,
+  "latitude": 22.1470331,
+  "longitude": 113.559839,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Venetian Macao-Resort-Hotel, Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
+  "address": "The Venetian Macao Resort Hotel, Baia de Nossa Senhora de Esperance, Estrada da Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18761,10 +18762,10 @@
 }
 {
   "id": 2310,
-  "latitude": 22.1937519,
-  "longitude": 113.5516676,
+  "latitude": 22.1935418,
+  "longitude": 113.5518421,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Macao Polytechnic Institute, Rua de Luis Gonzaga Gomes, Macau",
+  "address": "Rua de Luis Gonzaga Gomes, I.P.M., Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18784,10 +18785,10 @@
 }
 {
   "id": 2312,
-  "latitude": 22.149887673679924,
-  "longitude": 113.56479406356812,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18807,10 +18808,10 @@
 }
 {
   "id": 2316,
-  "latitude": 22.149430568386286,
-  "longitude": 113.56462240219116,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18829,10 +18830,10 @@
 }
 {
   "id": 2317,
-  "latitude": 22.149351071661943,
-  "longitude": 113.5646653175354,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18851,10 +18852,10 @@
 }
 {
   "id": 2321,
-  "latitude": 22.149649184146707,
-  "longitude": 113.56481552124023,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18873,10 +18874,10 @@
 }
 {
   "id": 2322,
-  "latitude": 22.14939082002973,
-  "longitude": 113.56470823287964,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18895,10 +18896,10 @@
 }
 {
   "id": 2323,
-  "latitude": 22.149529939228575,
-  "longitude": 113.5646653175354,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18917,10 +18918,10 @@
 }
 {
   "id": 2324,
-  "latitude": 22.149589561700267,
-  "longitude": 113.56468677520752,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18940,10 +18941,10 @@
 }
 {
   "id": 2325,
-  "latitude": 22.149291449089223,
-  "longitude": 113.56479406356812,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18963,10 +18964,10 @@
 }
 {
   "id": 2326,
-  "latitude": 22.14951006506573,
-  "longitude": 113.56464385986328,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -18986,10 +18987,10 @@
 }
 {
   "id": 2328,
-  "latitude": 22.1901137,
-  "longitude": 113.5405788,
+  "latitude": 22.1899554,
+  "longitude": 113.540392,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.251A-301, Avenida Comercial De Macau, A.I.A. Tower, Macau",
+  "address": "G/F Lobby of A.I.A Tower, No. 251A-301, Avenida Comercial de Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19009,10 +19010,10 @@
 }
 {
   "id": 2330,
-  "latitude": 22.1492715748927,
-  "longitude": 113.56485843658447,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19035,7 +19036,7 @@
   "latitude": 22.199395305958273,
   "longitude": 113.54261755943298,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Estrada Do Repouso, Kiang Wu Hospital, Specialist Medical Center, Macau",
+  "address": "No.33, Estrada do Repouso,Kiang Wu Hospital, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19058,7 +19059,7 @@
   "latitude": 22.206860175195885,
   "longitude": 113.54789614677429,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Colina De Mong-Ha, Instituto De Formacao Turistica, Macau",
+  "address": "Colina de Mong-Ha, I.F.T., Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19082,7 +19083,7 @@
   "latitude": 22.191119,
   "longitude": 113.5347977,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua De Joao Lecaros, Mercado De S. Lourenco, Macau",
+  "address": "Rua de Joao Lecaros, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19102,10 +19103,10 @@
 }
 {
   "id": 2340,
-  "latitude": 22.20585693575461,
-  "longitude": 113.55303525924683,
+  "latitude": 22.2054233,
+  "longitude": 113.5536569,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua Do Padre Eugenio Taverna Avenida De Venceslau De Morais, Macao Daily News Building, Macau",
+  "address": "No.218,Avenida de Venceslau de Morais,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19128,7 +19129,7 @@
   "latitude": 22.209273880310597,
   "longitude": 113.55319082736969,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.52, Rua Nova Da Areia Preta, Centro De Servicos Da RAEM, Macau",
+  "address": "No.52,Rua Nova Da Areia Preta, Centro De Serviaos Da RAEM, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19147,10 +19148,10 @@
 }
 {
   "id": 2343,
-  "latitude": 22.1964435,
-  "longitude": 113.5558995,
+  "latitude": 22.1972231,
+  "longitude": 113.5558079,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.1565-1595, Avenida Da Amizada, Casino Oceanus, Macau",
+  "address": "No.1470-1526, Avenida do Dr. Rodrigo Rodrigues, Oceanus, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19170,10 +19171,10 @@
 }
 {
   "id": 2344,
-  "latitude": 22.1964435,
-  "longitude": 113.5558995,
+  "latitude": 22.1972231,
+  "longitude": 113.5558079,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.1565-1595, Avenida Da Amizada, Casino Oceanus, Macau",
+  "address": "No.1470-1526, Avenida do Dr. Rodrigo Rodrigues, Oceanus, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -19189,30 +19190,6 @@
   "currencies": [
     "HKD",
     "MOP"
-  ]
-}
-{
-  "id": 2348,
-  "latitude": 22.195848981504163,
-  "longitude": 113.55230569839478,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "Av do Dr Rodrigo Rodrigues, Gabinete de Ligacao do Governo Central da RPC na RAEM, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
   ]
 }
 {
@@ -20122,7 +20099,7 @@
   "latitude": 22.2047727,
   "longitude": 113.5407048,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Praia R/C-C Avenida Marginal do Lam Mau Macau",
+  "address": "The Praia R/C C-D, Avenida Marginal do Lam Mau, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -20182,7 +20159,7 @@
   "latitude": 22.199454907284604,
   "longitude": 113.54272484779358,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua De Coelho Do Amaral, Kiang Wu Hospital, Outpatient Dept. No. 1, Macau",
+  "address": "No.33, Estrada do Repouso,Kiang Wu Hospital, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -20819,10 +20796,10 @@
 }
 {
   "id": 20062,
-  "latitude": 22.190703175007922,
-  "longitude": 113.54355096817017,
+  "latitude": 22.189663,
+  "longitude": 113.544105,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida de Lisboa Macau",
+  "address": "Avenida de Lisboa, Grand Lisboa Hotel, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -20842,10 +20819,10 @@
 }
 {
   "id": 20063,
-  "latitude": 22.190723043349234,
-  "longitude": 113.5433578491211,
+  "latitude": 22.189663,
+  "longitude": 113.544105,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida de Lisboa Macau",
+  "address": "Avenida de Lisboa, Grand Lisboa Hotel, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -20865,10 +20842,10 @@
 }
 {
   "id": 20064,
-  "latitude": 22.19082238501361,
-  "longitude": 113.54361534118652,
+  "latitude": 22.189663,
+  "longitude": 113.544105,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida de Lisboa Macau",
+  "address": "Avenida de Lisboa, Grand Lisboa Hotel, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -20953,10 +20930,10 @@
 }
 {
   "id": 22681,
-  "latitude": 22.186918204730087,
-  "longitude": 113.55246663093567,
+  "latitude": 22.1860646,
+  "longitude": 113.5568421,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Dr.San Yat Sen, Centro de Ciencia de Macau, Macau",
+  "address": "Avenida Dr.Sun Yat Sen, Macao Science Center",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21077,10 +21054,10 @@
 }
 {
   "id": 27916,
-  "latitude": 22.15909653852635,
-  "longitude": 113.54195773601532,
+  "latitude": 22.1609438,
+  "longitude": 113.5441401,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida dos Jardins do Oceano no.522-550 Taipa Macau",
+  "address": "No. 522-550, Avenida dos Jardins do Oceano, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21167,7 +21144,7 @@
   "latitude": 22.1857611,
   "longitude": 113.5492948,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
+  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21244,10 +21221,10 @@
 }
 {
   "id": 27938,
-  "latitude": 22.14869522197296,
-  "longitude": 113.55648994445801,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida de Cotai Cotai City, Galaxy Macau, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21268,10 +21245,10 @@
 }
 {
   "id": 27939,
-  "latitude": 22.14875484479824,
-  "longitude": 113.55578184127808,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida de Cotai Cotai City, Galaxy Macau, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21291,10 +21268,10 @@
 }
 {
   "id": 27942,
-  "latitude": 22.148317610159744,
-  "longitude": 113.55631828308105,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida de Cotai Cotai City, Galaxy Macau, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21340,7 +21317,7 @@
   "latitude": 22.196345670994948,
   "longitude": 113.53634119033813,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua Das Lorchas E Rua Do Visconde Paco De Arcos, Entre Pontes 12A-20, Ponte 16, Macau",
+  "address": "Rua das Lorchas E Rua do Visconde Paco de Arcos, No 12A-20, Porto Interior, Ponte Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21403,7 +21380,7 @@
   "latitude": 22.21107668235588,
   "longitude": 113.55195164680481,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.206-216, Rua do Mercado de Iao Ho, iSQUARE, Macau",
+  "address": "No. 206-216 Rua do Mercado de Iao Ho, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21423,10 +21400,10 @@
 }
 {
   "id": 30592,
-  "latitude": 22.2113431,
-  "longitude": 113.5512443,
+  "latitude": 22.2109543,
+  "longitude": 113.5528779,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.206-216, Rua do Mercado de Iao Ho, iSQUARE, Macau",
+  "address": "No. 206-216 Rua do Mercado de Iao Ho, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21567,7 +21544,7 @@
   "latitude": 22.1857611,
   "longitude": 113.5492948,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
+  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21589,7 +21566,7 @@
   "latitude": 22.18537835824329,
   "longitude": 113.5490870475769,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
+  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21611,7 +21588,7 @@
   "latitude": 22.185934691824468,
   "longitude": 113.54973077774048,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
+  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -21896,10 +21873,10 @@
 }
 {
   "id": 35981,
-  "latitude": 22.193867172947385,
-  "longitude": 113.5436099767685,
+  "latitude": 22.126219,
+  "longitude": 113.5563595,
   "bank": "Bank of China (Macau) Limited",
-  "address": "G/F Lobby of Club One Oasis, One Oasis, Coloane Terreno junto a Estrada de Seac Pai Van - Aterro da Concordia, Coloane",
+  "address": "One Oasis, Coloane Terreno junto a Estrada de Seac Pai Van - Aterro da Concordia, Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -22046,7 +22023,7 @@
   "latitude": 22.18567639436431,
   "longitude": 113.54844331741333,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
+  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -22068,7 +22045,7 @@
   "latitude": 22.18587011750395,
   "longitude": 113.54845941066742,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau ",
+  "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -22088,10 +22065,10 @@
 }
 {
   "id": 38694,
-  "latitude": 22.156048513218558,
-  "longitude": 113.57558727264404,
+  "latitude": 22.1553751,
+  "longitude": 113.5875333,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Macau International Airport Departure Hall, Taipa, Macau",
+  "address": "Macau International Airport, Immigration Lobby, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -22517,7 +22494,7 @@
   "latitude": 22.192610522957814,
   "longitude": 113.54991316795349,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua de Luis Gonzaga Gomes no.33 Macau",
+  "address": "No.33, Rua de Luis Gonzaga Gomes, Rio Hotel, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -22540,7 +22517,7 @@
   "latitude": 22.1889150127824,
   "longitude": 113.54686081409454,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Wynn Macau Rua Cidadede Sintra NAPE Macau",
+  "address": "Rua Cidadede Sintra, Wynn Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -23363,8 +23340,8 @@
 }
 {
   "id": 74586,
-  "latitude": 22.165378690428756,
-  "longitude": 113.55845332145691,
+  "latitude": 22.16479743548396,
+  "longitude": 113.57235252857208,
   "bank": "Bank of China (Macau) Limited",
   "address": "Edf. do Servico de Migracao Travessa Um do Cais de Pac On, Taipa, Macau",
   "tran": [
@@ -23386,10 +23363,10 @@
 }
 {
   "id": 74597,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -23408,10 +23385,10 @@
 }
 {
   "id": 74598,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -23430,10 +23407,10 @@
 }
 {
   "id": 74599,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -23452,10 +23429,10 @@
 }
 {
   "id": 74601,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -23472,10 +23449,10 @@
 }
 {
   "id": 74602,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -23512,10 +23489,10 @@
 }
 {
   "id": 74604,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -23532,10 +23509,10 @@
 }
 {
   "id": 74605,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -23552,10 +23529,10 @@
 }
 {
   "id": 74606,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -23592,10 +23569,10 @@
 }
 {
   "id": 74608,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -23788,10 +23765,10 @@
 }
 {
   "id": 77458,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -23812,10 +23789,10 @@
 }
 {
   "id": 77459,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -24309,10 +24286,10 @@
 }
 {
   "id": 80414,
-  "latitude": 22.147443136808352,
-  "longitude": 113.56286287307739,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau ",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -24370,10 +24347,10 @@
 }
 {
   "id": 83321,
-  "latitude": 22.20578243749029,
-  "longitude": 113.55345904827118,
+  "latitude": 22.2054233,
+  "longitude": 113.5536569,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua Do Padre Eugenio Taverna Avenida De Venceslau De Morais, Macao Daily News Building, Macau ",
+  "address": "No.218,Avenida de Venceslau de Morais,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -24452,7 +24429,7 @@
   "latitude": 22.200191,
   "longitude": 113.5454692,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.31 Rua de Sacadura Cabral, Macau",
+  "address": "No.31, Rua de Sacadura Cabral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -24592,10 +24569,10 @@
 }
 {
   "id": 89164,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -24612,10 +24589,10 @@
 }
 {
   "id": 89173,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Shop 2145, Shoppes Cotai Central, Sands Cotai Central, Cotai Strip, Taip, Macau",
+  "address": "Shop 3015, Level 3, Shoppes at Londoner, The Cotai Strip, Taipa, Macau.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -24634,10 +24611,10 @@
 }
 {
   "id": 89174,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Shop 2145, Shoppes Cotai Central, Sands Cotai Central, Cotai Strip, Taip, Macau",
+  "address": "Shop 3015, Level 3, Shoppes at Londoner, The Cotai Strip, Taipa, Macau.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -24657,10 +24634,10 @@
 }
 {
   "id": 89175,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Shop 2145, Shoppes Cotai Central, Sands Cotai Central, Cotai Strip, Taip, Macau",
+  "address": "Shop 3015, Level 3, Shoppes at Londoner, The Cotai Strip, Taipa, Macau.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -24680,10 +24657,10 @@
 }
 {
   "id": 89176,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -24722,10 +24699,10 @@
 }
 {
   "id": 89178,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -24742,10 +24719,10 @@
 }
 {
   "id": 89179,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -24802,10 +24779,10 @@
 }
 {
   "id": 89182,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": " The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -24842,10 +24819,10 @@
 }
 {
   "id": 89184,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -24902,10 +24879,10 @@
 }
 {
   "id": 89187,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -24922,10 +24899,10 @@
 }
 {
   "id": 89188,
-  "latitude": 22.14082,
-  "longitude": 113.5631,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -24942,10 +24919,10 @@
 }
 {
   "id": 89189,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -25002,10 +24979,10 @@
 }
 {
   "id": 89193,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25024,10 +25001,10 @@
 }
 {
   "id": 89194,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25046,10 +25023,10 @@
 }
 {
   "id": 89195,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25068,10 +25045,10 @@
 }
 {
   "id": 89196,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25090,10 +25067,10 @@
 }
 {
   "id": 89197,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25112,10 +25089,10 @@
 }
 {
   "id": 89199,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25134,10 +25111,10 @@
 }
 {
   "id": 89200,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": " The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25157,10 +25134,10 @@
 }
 {
   "id": 89204,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25179,10 +25156,10 @@
 }
 {
   "id": 89205,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": " The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25519,7 +25496,7 @@
   "latitude": 22.2095095,
   "longitude": 113.5447777,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.79, Avenida General Castelo Branco, R/C, Macau ",
+  "address": "No. 79, Avenida do General Castelo Branco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25973,7 +25950,7 @@
   "latitude": 22.2107726,
   "longitude": 113.5428984,
   "bank": "Bank of China (Macau) Limited",
-  "address": "AVENIDA DO CONSELHEIRO BORJA, NO.435 ,MAYFAIR GARDEN R/C BK,MACAU",
+  "address": "No.435, R/C BK, Avenida Conselheiro Borja, Mayfair Garden, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -25997,7 +25974,7 @@
   "latitude": 22.2107726,
   "longitude": 113.5428984,
   "bank": "Bank of China (Macau) Limited",
-  "address": "AVENIDA DO CONSELHEIRO BORJA, NO.435 ,MAYFAIR GARDEN R/C BK,MACAU",
+  "address": "No.435, R/C BK, Avenida Conselheiro Borja, Mayfair Garden, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26180,7 +26157,7 @@
   "latitude": 22.2034443,
   "longitude": 113.5485762,
   "bank": "Bank of China (Macau) Limited",
-  "address": "EDF. ORIENTAL GARDEN, AVENIDA DO OUVIDOR ARRIAGA R/C-N,MACAU",
+  "address": "No. 52, Oriental Garden R/C N ,Avenida do Ouvidor Arriaga, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26203,7 +26180,7 @@
   "latitude": 22.2034443,
   "longitude": 113.5485762,
   "bank": "Bank of China (Macau) Limited",
-  "address": "EDF. ORIENTAL GARDEN, AVENIDA DO OUVIDOR ARRIAGA R/C-N,MACAU",
+  "address": "No. 52, Oriental Garden R/C N ,Avenida do Ouvidor Arriaga, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26284,7 +26261,7 @@
   "latitude": 22.2016066,
   "longitude": 113.5459551,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.61-63 Rua Francisco Xavier Pereira, Macau",
+  "address": "No. 61-63, Rua de Francisco Xavier Pereira, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26377,7 +26354,7 @@
   "latitude": 22.20784602478965,
   "longitude": 113.55113089084625,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.130, Avenida De Venceslau De Morais, Bloco P, R/C, Macau",
+  "address": "No. 130 P R/C Avenida de Venceslau de Morais, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26397,10 +26374,10 @@
 }
 {
   "id": 113555,
-  "latitude": 22.19252111660126,
-  "longitude": 113.54041814804077,
+  "latitude": 22.1923546,
+  "longitude": 113.5404385,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
+  "address": "No. 13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26420,10 +26397,10 @@
 }
 {
   "id": 113556,
-  "latitude": 22.19254595170601,
-  "longitude": 113.54040741920471,
+  "latitude": 22.1923546,
+  "longitude": 113.5404385,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
+  "address": "No. 13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26443,10 +26420,10 @@
 }
 {
   "id": 113557,
-  "latitude": 22.192528567133156,
-  "longitude": 113.54039669036865,
+  "latitude": 22.1923546,
+  "longitude": 113.5404385,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
+  "address": "No. 13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26487,7 +26464,7 @@
   "latitude": 22.194536471070062,
   "longitude": 113.54125767946243,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.9-11, Rua De S.Domigos, Macau",
+  "address": "No. 9-11, Rua De. S Domingos, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26507,10 +26484,10 @@
 }
 {
   "id": 113561,
-  "latitude": 22.1946542,
-  "longitude": 113.5413422,
+  "latitude": 22.1947379,
+  "longitude": 113.5413482,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.9-11, Rua De S.Domigos, Macau",
+  "address": "No. 9-11, Rua De. S Domingos, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26532,7 +26509,7 @@
   "latitude": 22.212891,
   "longitude": 113.5514936,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.279, Rua Da Tribuna, Edificio Wai Long, Bloco B, R/C, Macau",
+  "address": "No. 279 Edf. Wai Long R/C-B,Rua da Tribuna, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26555,7 +26532,7 @@
   "latitude": 22.209505,
   "longitude": 113.544761,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.79, Avenida General Castelo Branco, R/C, Macau",
+  "address": "No. 79, Avenida do General Castelo Branco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26579,7 +26556,7 @@
   "latitude": 22.210853195756645,
   "longitude": 113.54940354824066,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.41-43, Rua Um Do Bairro Iao Hon, R/C, Macau",
+  "address": "No. 41-43, Rua da Um do Bairro Iao Hon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26662,7 +26639,7 @@
   "latitude": 22.202308291181826,
   "longitude": 113.54990780353546,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.20-26, Avenida Do Ouvidor De Arriaga, R/C, Macau",
+  "address": "No. 20-26, Avenida do Ouvidor Arriaga, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26709,7 +26686,7 @@
   "latitude": 22.1610386,
   "longitude": 113.556214,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.583-601, Avenida Dr. Sun Yat Sen, R/C, Taipa, Macau",
+  "address": "No. 583-601 R/C, Avenida Dr. Sun Yat Sen, Taipa Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26733,7 +26710,7 @@
   "latitude": 22.20267830799631,
   "longitude": 113.5430520772934,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.49-51, Rua Da Barca, R/C, Macau",
+  "address": "No. 49-51 R/C, Rua da Barca, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26757,7 +26734,7 @@
   "latitude": 22.202638574693843,
   "longitude": 113.54304671287537,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.49-51, Rua Da Barca, R/C, Macau",
+  "address": "No. 49-51 R/C, Rua da Barca, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26818,7 +26795,7 @@
   "latitude": 22.207957770528306,
   "longitude": 113.55631828308105,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
+  "address": "No. 347 Bloco 3 R/C-C,D Edificio Kam Hoi San, Avenida Nordeste, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26842,7 +26819,7 @@
   "latitude": 22.20779387674783,
   "longitude": 113.55624854564667,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
+  "address": "No. 347 Bloco 3 R/C-C,D Edificio Kam Hoi San, Avenida Nordeste, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26866,7 +26843,7 @@
   "latitude": 22.211056816894803,
   "longitude": 113.5501492023468,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-D No.23 Rua Dois do Bairro Iao Hon Macau",
+  "address": "Mau Tan Res-Do-Chao D1, No 23, Rua Dois Bairro Iao Hon, Em Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26889,7 +26866,7 @@
   "latitude": 22.211116413269586,
   "longitude": 113.55016529560089,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-D No.23 Rua Dois do Bairro Iao Hon Macau",
+  "address": "Mau Tan Res-Do-Chao D1, No 23, Rua Dois Bairro Iao Hon, Em Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26913,7 +26890,7 @@
   "latitude": 22.198970645775706,
   "longitude": 113.54268461465836,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.70 Rua Coelho Do Amaral Kiang Wu Hospital Macau",
+  "address": "No.70, Kiang Wu Hospital, Rua Coelho Do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26937,7 +26914,7 @@
   "latitude": 22.198997963136037,
   "longitude": 113.54284822940826,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.70 Rua Coelho Do Amaral Kiang Wu Hospital Macau",
+  "address": "No.70, Kiang Wu Hospital, Rua Coelho Do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26960,7 +26937,7 @@
   "latitude": 22.203855401980135,
   "longitude": 113.53803634643555,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Praia R/C-C Avenida Marginal do Lam Mau Macau",
+  "address": "The Praia R/C C-D, Avenida Marginal do Lam Mau, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -26983,7 +26960,7 @@
   "latitude": 22.2020294,
   "longitude": 113.5378378,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.42, Rua De Ribeira De Patane, R/C, Maca",
+  "address": "No. 42 R/C, Rua de Ribeira de Patane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -27007,7 +26984,7 @@
   "latitude": 22.2020294,
   "longitude": 113.5378378,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.42, Rua De Ribeira De Patane, R/C, Macau",
+  "address": "No. 42 R/C, Rua de Ribeira de Patane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -27028,10 +27005,10 @@
 }
 {
   "id": 119598,
-  "latitude": 22.115853,
-  "longitude": 113.5507068,
+  "latitude": 22.1978032,
+  "longitude": 113.5379928,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.91-95, Rua Cinco De Outubro, R/C, Macau",
+  "address": "No. 91-95, Rua Cinco de Outubro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -27260,7 +27237,7 @@
   "latitude": 22.211334933093905,
   "longitude": 113.55767011642456,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
+  "address": "R/C-Y, Z, AA, AB, AC, Rua Central da Areia Preta, Lote V, Villa de Mer, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -27280,10 +27257,10 @@
 }
 {
   "id": 125600,
-  "latitude": 22.2113647312254,
-  "longitude": 113.55764865875244,
+  "latitude": 22.211334933093905,
+  "longitude": 113.55767011642456,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
+  "address": "R/C-Y, Z, AA, AB, AC, Rua Central da Areia Preta, Lote V, Villa de Mer, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -27304,10 +27281,10 @@
 }
 {
   "id": 125601,
-  "latitude": 22.2112389,
-  "longitude": 113.5574662,
+  "latitude": 22.211334933093905,
+  "longitude": 113.55767011642456,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
+  "address": "R/C-Y, Z, AA, AB, AC, Rua Central da Areia Preta, Lote V, Villa de Mer, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -27327,10 +27304,10 @@
 }
 {
   "id": 125602,
-  "latitude": 22.2112389,
-  "longitude": 113.5574662,
+  "latitude": 22.211334933093905,
+  "longitude": 113.55767011642456,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
+  "address": "R/C-Y, Z, AA, AB, AC, Rua Central da Areia Preta, Lote V, Villa de Mer, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -27885,7 +27862,7 @@
   "latitude": 22.1903432,
   "longitude": 113.5407857,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Grand Emperor Hotel 3F No.288 Av Comercial de Macau",
+  "address": "Grand Emperor Hotel, No 288, Av Comercial de Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28110,7 +28087,7 @@
   "latitude": 22.204039876004575,
   "longitude": 113.53787677682953,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Praia R/C-C Avenida Marginal do Lam Mau Maca",
+  "address": "The Praia R/C C-D, Avenida Marginal do Lam Mau, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28173,7 +28150,7 @@
   "latitude": 22.16371,
   "longitude": 113.559663,
   "bank": "Bank of China (Macau) Limited",
-  "address": "University of Macau Wu Yee Sun Library (E2), Avenida da Universidade, Taipa, Macau",
+  "address": "Avenida da Universidade, UM Wu Yee Sun Library E2 Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28197,7 +28174,7 @@
   "latitude": 22.152643278696587,
   "longitude": 113.56653623436273,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida da Universidade,Postgraduate House S3 Macau, China",
+  "address": "Avenida da Universidade, Administration Building N6 Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28217,10 +28194,10 @@
 }
 {
   "id": 143864,
-  "latitude": 22.2126409,
-  "longitude": 113.54402129999994,
+  "latitude": 22.213032896329718,
+  "longitude": 113.54412225830116,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida do General Castelo Branco,No.646-652",
+  "address": "No.646-652(Edf. U.G.A.M.M.), Avenida do General Castelo Branco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28404,7 +28381,7 @@
   "latitude": 22.189179388288988,
   "longitude": 113.5419152945816,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Comercial de Macau,FINANCE AND IT CENTER OF MACAU",
+  "address": "Avenida Doutor Mario Soares No 320,FIT Center of Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28428,7 +28405,7 @@
   "latitude": 22.152211618018463,
   "longitude": 113.56816448570555,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Block H,Macau University of Science and Techology,Avenida Wai Long, Taipa, Macau",
+  "address": "Block H, Macau University of Science and Technology, Avenida Wai Long, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28451,7 +28428,7 @@
   "latitude": 22.19401700917478,
   "longitude": 113.54672685158994,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Estrada do Visconde de S. Januario(Edf. CHCSJ)",
+  "address": "Res-do-chao do Edf. das consultas externas do CHCSJ, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28808,7 +28785,7 @@
   "latitude": 22.1638946,
   "longitude": 113.55637760000002,
   "bank": "Bank of China (Macau) Limited",
-  "address": "University of Macau Avenida da Universidade, University Mall, G/F Room 012 Macau, China",
+  "address": "University Mall, G/F Room 012, University of Macau, Avenida da Universidade, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28831,7 +28808,7 @@
   "latitude": 22.1638946,
   "longitude": 113.55637760000002,
   "bank": "Bank of China (Macau) Limited",
-  "address": "University of Macau Avenida da Universidade, University Mall, G/F Room 012 Macau, China",
+  "address": "University Mall, G/F Room 012, University of Macau, Avenida da Universidade, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28854,7 +28831,7 @@
   "latitude": 22.15332454545304,
   "longitude": 113.56827177406615,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Sala N107, r/c, Bloco N, Universidade de Ciencia e Tecnologia de Macau Avenida Wai Long, Taipa, MACAU",
+  "address": "Room N107, R/C, Block N, Macau University of Science and Technology, Avenida Wai Long, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -28874,10 +28851,10 @@
 }
 {
   "id": 156026,
-  "latitude": 22.14436505275487,
-  "longitude": 113.56171720157477,
+  "latitude": 22.145777,
+  "longitude": 113.5618008,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Four Seasons Hotel Estrada do Istmo, s/n Venetian Macau",
+  "address": "Estrada da Baia de N. Senhora da Esperanca, Four Seasons Hotel Macao, S/N, Taipa, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -29462,7 +29439,7 @@
   "latitude": 22.193909,
   "longitude": 113.54684,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Res-do-chao do Edf. das consultas externas do CHCSJ",
+  "address": "Res-do-chao do Edf. das consultas externas do CHCSJ, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -29786,7 +29763,7 @@
   "latitude": 22.18827087004713,
   "longitude": 113.54509788675534,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Wynn Macau, Rua Cidadede Sintra, NAPE, Macau",
+  "address": "Rua Cidadede Sintra, Wynn Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -29808,7 +29785,7 @@
   "latitude": 22.188300673074096,
   "longitude": 113.54503887815702,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Wynn Macau, Rua Cidadede Sintra, NAPE, Macau",
+  "address": "Rua Cidadede Sintra, Wynn Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -30014,7 +29991,7 @@
   "latitude": 22.195550586886846,
   "longitude": 113.55272071838533,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida de Marciano Baptista No. 208",
+  "address": "No. 208, Avenida de Marciano Baptista, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -30513,7 +30490,7 @@
   "latitude": 22.2030722,
   "longitude": 113.5406226,
   "bank": "Bank of China (Macau) Limited",
-  "address": "RUA DA RIBEIRA DO PATANE, No 2-6,MACAU Edf. da F.A.O.M, Macau",
+  "address": "No. 2-6 Edf. da F.A.O.M, Rua Da Ribeira Do Patane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -30537,7 +30514,7 @@
   "latitude": 22.1970965,
   "longitude": 113.55904980000003,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Terminal Maritimo de Macau FL.1, Avenida da Amizade, Macau",
+  "address": "Terminal Maritimo De Passageiros Do Porto Exterior, Largo do Terminal Maritimo",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -30919,10 +30896,10 @@
 }
 {
   "id": 186908,
-  "latitude": 22.147404900354942,
-  "longitude": 113.55828492275396,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai, Cotai City, Macau SAR",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -30941,10 +30918,10 @@
 }
 {
   "id": 186910,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -30963,10 +30940,10 @@
 }
 {
   "id": 186911,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -30985,10 +30962,10 @@
 }
 {
   "id": 186912,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
+  "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -31339,10 +31316,10 @@
 }
 {
   "id": 190000,
-  "latitude": 22.140905476129177,
-  "longitude": 113.56300956406244,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai, Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -31362,10 +31339,10 @@
 }
 {
   "id": 190003,
-  "latitude": 22.141124105128224,
-  "longitude": 113.56292373337396,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai, Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -31385,10 +31362,10 @@
 }
 {
   "id": 190007,
-  "latitude": 22.140567594281173,
-  "longitude": 113.56290227570184,
+  "latitude": 22.146741,
+  "longitude": 113.5518817,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai, Cotai City, Macau",
+  "address": "Broadway Macau, Avenida Marginal Flor de Lotus, COTAI, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -32359,28 +32336,6 @@
   ]
 }
 {
-  "id": 193255,
-  "latitude": 22.18851674673755,
-  "longitude": 113.5483562691727,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "L'Arc Macau Casino 1/F, Avenida 24 de Junho, NAPE, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 193256,
   "latitude": 22.188367214780072,
   "longitude": 113.54844554047554,
@@ -32712,28 +32667,6 @@
   "longitude": 113.57641230000002,
   "bank": "Industrial and Commercial Bank of China (Macau) Limited",
   "address": "Arrival Level, Macau International Airport, Taipa, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 193297,
-  "latitude": 22.1253114,
-  "longitude": 113.57675519999998,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Grand Coloane Resort Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -33821,7 +33754,7 @@
   "latitude": 22.14205327458713,
   "longitude": 113.56310075916895,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai, Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -33843,7 +33776,7 @@
   "latitude": 22.142038368173633,
   "longitude": 113.56309539475092,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai, Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -33866,7 +33799,7 @@
   "latitude": 22.142018492953138,
   "longitude": 113.56303102173456,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai, Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -33889,7 +33822,7 @@
   "latitude": 22.141958867274887,
   "longitude": 113.56303102173456,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai, Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -33912,7 +33845,7 @@
   "latitude": 22.1578359,
   "longitude": 113.57641230000002,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Macau International Airport, Taipa, Macau",
+  "address": "Macau International Airport, Immigration Lobby, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34054,10 +33987,10 @@
 }
 {
   "id": 196721,
-  "latitude": 22.2112765,
-  "longitude": 113.54747889999999,
+  "latitude": 22.2103716,
+  "longitude": 113.5474696,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Artur Tamagnini Barbosa, Edf. Choi Fai Kok R/C-A, Macau",
+  "address": "R/C-A , Edf. Choi Fai Kok, Avenida Artur Tamagnini Barbosa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34099,7 +34032,7 @@
   "latitude": 22.140209836146678,
   "longitude": 113.56311685242304,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34122,7 +34055,7 @@
   "latitude": 22.140170085186735,
   "longitude": 113.56311685242304,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Star World Hotel, Avenida de Amizade, Macau",
+  "address": "Avenida de Amizade, Star World Hotel, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34144,7 +34077,7 @@
   "latitude": 22.14032908895916,
   "longitude": 113.5630739370788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34167,7 +34100,7 @@
   "latitude": 22.140229711622442,
   "longitude": 113.5629666487182,
   "bank": "Bank of China (Macau) Limited",
-  "address": "G/F Lobby, 70 Avenida do Dr. Rodrigues, Macau",
+  "address": "G/F Lobby, No. 70 Avenida do Dr. Rodrigues, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34190,7 +34123,7 @@
   "latitude": 22.140348964418095,
   "longitude": 113.5630739370788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34213,7 +34146,7 @@
   "latitude": 22.140309213497428,
   "longitude": 113.56303102173456,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida De Cotai Cotai City, Macau",
+  "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34471,7 +34404,7 @@
   "latitude": 22.163550263600886,
   "longitude": 113.55613288476411,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Padre Tomas Pereira Taipa Block 1 R/C, Macau",
+  "address": "Avenida Padre Tomas Pereira Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -34492,10 +34425,10 @@
 }
 {
   "id": 202917,
-  "latitude": 22.189486149612538,
-  "longitude": 113.55229543187716,
+  "latitude": 22.1902589,
+  "longitude": 113.5522054,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-Y,Z,AA, No.322,326,330, Avenida do Governador Jaime Silverio Marques, Jardim Nam Ngon, Macau",
+  "address": "No. 322, Avenida do Governador Jaime Silverio Marques R/C, Shop Y, Ed. Jardim Nam Ngon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35119,8 +35052,8 @@
 }
 {
   "id": 206069,
-  "latitude": 22.14533062334904,
-  "longitude": 113.5542907534118,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35141,8 +35074,8 @@
 }
 {
   "id": 206070,
-  "latitude": 22.14501262692068,
-  "longitude": 113.55842135529474,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35163,8 +35096,8 @@
 }
 {
   "id": 206073,
-  "latitude": 22.144501217225542,
-  "longitude": 113.554008555481,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35185,8 +35118,8 @@
 }
 {
   "id": 206074,
-  "latitude": 22.144501217225557,
-  "longitude": 113.55396564013677,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35207,8 +35140,8 @@
 }
 {
   "id": 206075,
-  "latitude": 22.144839089634157,
-  "longitude": 113.55383689410405,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35229,8 +35162,8 @@
 }
 {
   "id": 206077,
-  "latitude": 22.144222968750785,
-  "longitude": 113.55375106341558,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35252,8 +35185,8 @@
 }
 {
   "id": 206078,
-  "latitude": 22.144580716688765,
-  "longitude": 113.55383689410405,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35275,10 +35208,10 @@
 }
 {
   "id": 206079,
-  "latitude": 22.1284934,
-  "longitude": 113.56230630000005,
+  "latitude": 22.1288011,
+  "longitude": 113.56248,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida de Vale das Borboleta, complexo de habitacao publica de Seac Pai Van, R/C, Coloane",
+  "address": "Avenida de Vale das Borboletas, complexo de habitacao publica de Seac Pai Van, R/C ,Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35298,8 +35231,8 @@
 }
 {
   "id": 206080,
-  "latitude": 22.14446146747709,
-  "longitude": 113.55413730151372,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35321,8 +35254,8 @@
 }
 {
   "id": 206081,
-  "latitude": 22.14454096696275,
-  "longitude": 113.55353648669438,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35346,7 +35279,7 @@
   "latitude": 22.1284934,
   "longitude": 113.56230630000005,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida de Vale das Borboleta, complexo de habitacao publica de Seac Pai Van, R/C, Coloane",
+  "address": "Avenida de Vale das Borboletas, complexo de habitacao publica de Seac Pai Van, R/C ,Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35366,8 +35299,8 @@
 }
 {
   "id": 206084,
-  "latitude": 22.144521092095555,
-  "longitude": 113.55375106341558,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35389,8 +35322,8 @@
 }
 {
   "id": 206085,
-  "latitude": 22.144660216107063,
-  "longitude": 113.55405147082524,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -35669,7 +35602,7 @@
   "latitude": 22.2015987,
   "longitude": 113.54598099999998,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.61-63 Rua Francisco Xavier Pereira, Macau",
+  "address": "No. 61-63, Rua de Francisco Xavier Pereira, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35689,10 +35622,10 @@
 }
 {
   "id": 206103,
-  "latitude": 22.1996147,
-  "longitude": 113.54229950000001,
+  "latitude": 22.1996542,
+  "longitude": 113.5423947,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.67-71, Rua De Coelho Do Amaral, Macau",
+  "address": "No. 67-71, Rua de Coelho do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35716,7 +35649,7 @@
   "latitude": 22.2047501,
   "longitude": 113.5408433,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Praia R/C-C Avenida Marginal do Lam Mau Macau",
+  "address": "The Praia R/C C-D, Avenida Marginal do Lam Mau, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35736,8 +35669,8 @@
 }
 {
   "id": 206108,
-  "latitude": 22.1900113,
-  "longitude": 113.54017079999994,
+  "latitude": 22.1899554,
+  "longitude": 113.540392,
   "bank": "Bank of China (Macau) Limited",
   "address": "G/F Lobby of A.I.A Tower, No. 251A-301, Avenida Comercial de Macau",
   "tran": [
@@ -35762,7 +35695,7 @@
   "latitude": 22.2113484,
   "longitude": 113.55023819999997,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-D No.23 Rua Dois do Bairro Iao Hon Macau",
+  "address": "Mau Tan Res-Do-Chao D1, No 23, Rua Dois Bairro Iao Hon, Em Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35785,7 +35718,7 @@
   "latitude": 22.2105616,
   "longitude": 113.54799520000006,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Istmo de Ferreira do Amaral, Edf. Chui Yi, I Fai Kok R/C, Macau",
+  "address": "No. 11-21 R/C B, Edf.Choi I Garden I Fai Kok, Istmo de Ferreira do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -35809,7 +35742,7 @@
   "latitude": 22.2105616,
   "longitude": 113.54799520000006,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Istmo de Ferreira do Amaral, Edf. Chui Yi, I Fai Kok R/C, Macau",
+  "address": "No. 11-21 R/C B, Edf.Choi I Garden I Fai Kok, Istmo de Ferreira do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -36992,7 +36925,7 @@
   "latitude": 22.1899283,
   "longitude": 113.54277660000002,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Doutor Mario Soares, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -37015,7 +36948,7 @@
   "latitude": 22.1899283,
   "longitude": 113.54277660000002,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Doutor Mario Soares, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -37038,7 +36971,7 @@
   "latitude": 22.2027079,
   "longitude": 113.54495659999998,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Edf. Heng Seng, R/C B, No. 54 Estrada de Coelho do Amaral, Macau",
+  "address": "No. 54, R/C B, Edf. Heng Seng, Estrada de Coelho do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -37062,7 +36995,7 @@
   "latitude": 22.2027079,
   "longitude": 113.54495659999998,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Edf. Heng Seng, R/C B, No. 54 Estrada de Coelho do Amaral, Macau",
+  "address": "No. 54, R/C B, Edf. Heng Seng, Estrada de Coelho do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -37086,7 +37019,7 @@
   "latitude": 22.2027079,
   "longitude": 113.54495659999998,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Edf. Heng Seng, R/C B, No. 54 Estrada de Coelho do Amaral, Macau",
+  "address": "No. 54, R/C B, Edf. Heng Seng, Estrada de Coelho do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -37107,10 +37040,10 @@
 }
 {
   "id": 222061,
-  "latitude": 22.1277901,
-  "longitude": 113.5572481,
+  "latitude": 22.126219,
+  "longitude": 113.5563595,
   "bank": "Bank of China (Macau) Limited",
-  "address": "One Oasis, Seac Pai Van, Coloane, Macau",
+  "address": "One Oasis, Coloane Terreno junto a Estrada de Seac Pai Van - Aterro da Concordia, Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -37130,10 +37063,10 @@
 }
 {
   "id": 222062,
-  "latitude": 22.1923514,
-  "longitude": 113.54080920000001,
+  "latitude": 22.1923546,
+  "longitude": 113.5404385,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
+  "address": "No. 13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38037,10 +37970,10 @@
 }
 {
   "id": 231809,
-  "latitude": 22.141558,
-  "longitude": 113.568968,
+  "latitude": 22.1475525,
+  "longitude": 113.571202,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida da Nave Desportiva, COTAI, Macau",
+  "address": "Avenida da Nave Desportiva, Wynn Palace, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38060,10 +37993,10 @@
 }
 {
   "id": 231810,
-  "latitude": 22.141558,
-  "longitude": 113.568968,
+  "latitude": 22.1475525,
+  "longitude": 113.571202,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida da Nave Desportiva, COTAI, Macau",
+  "address": "Avenida da Nave Desportiva, Wynn Palace, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38082,10 +38015,10 @@
 }
 {
   "id": 231811,
-  "latitude": 22.141568,
-  "longitude": 113.568914,
+  "latitude": 22.1475525,
+  "longitude": 113.571202,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida da Nave Desportiva, COTAI, Macau",
+  "address": "Avenida da Nave Desportiva, Wynn Palace, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38104,10 +38037,10 @@
 }
 {
   "id": 231812,
-  "latitude": 22.1872613,
-  "longitude": 113.54614749999996,
+  "latitude": 22.1879345,
+  "longitude": 113.5473121,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Wynn Macau, Rua Cidadede Sintra, NAPE, Macau",
+  "address": "Rua Cidadede Sintra, Wynn Macau, NAPE, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38126,10 +38059,10 @@
 }
 {
   "id": 231814,
-  "latitude": 22.141558,
-  "longitude": 113.568914,
+  "latitude": 22.1475525,
+  "longitude": 113.571202,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida da Nave Desportiva, COTAI, Macau",
+  "address": "Avenida da Nave Desportiva, Wynn Palace, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38393,10 +38326,10 @@
 }
 {
   "id": 235078,
-  "latitude": 22.214006,
-  "longitude": 113.551074,
+  "latitude": 22.2139759,
+  "longitude": 113.5509451,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua do Hortelaos No.78 Edf Sun Star Plaza Bloco 3 Macau ",
+  "address": "Rua do Hortelaos No.74,Royal Supermarket, Macau ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38420,7 +38353,7 @@
   "latitude": 22.207146,
   "longitude": 113.543991,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua Nova do Patane No. 68 Edf Luen San Plaza, Block, CG Macau",
+  "address": "No. 68, Block CG, Edf Luen San Plaza, Rua Nova do Patane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38443,7 +38376,7 @@
   "latitude": 22.207146,
   "longitude": 113.543991,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua Nova do Patane No. 68 Edf Luen San Plaza, Block, CG Macau",
+  "address": "No. 68, Block CG, Edf Luen San Plaza, Rua Nova do Patane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38825,7 +38758,7 @@
   "latitude": 22.206975,
   "longitude": 113.547659,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Lobby, Avenida Padre Tomas Pereira,S.N. Taipa, Macau",
+  "address": "Avenida Padre Tomas Pereira, I.F.T., Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -38846,10 +38779,10 @@
 }
 {
   "id": 235113,
-  "latitude": 22.210606,
-  "longitude": 113.546105,
+  "latitude": 22.1897402,
+  "longitude": 113.5480296,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Star World Hotel 3F Avenida de Amizade Macau",
+  "address": "Avenida de Amizade, Star World Hotel, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -39853,10 +39786,10 @@
 }
 {
   "id": 238458,
-  "latitude": 22.145058,
-  "longitude": 113.565545,
+  "latitude": 22.143661,
+  "longitude": 113.5619583,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Estrada do Istmo, Lote 3, Cotai Strip, Macau",
+  "address": "Estrada do Istmo Lote3 Cotai Strip, The Parisian, Macao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -39876,10 +39809,10 @@
 }
 {
   "id": 238460,
-  "latitude": 22.145058,
-  "longitude": 113.565545,
+  "latitude": 22.143661,
+  "longitude": 113.5619583,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Estrada do Istmo, Lote 3, Cotai Strip, Macau",
+  "address": "Estrada do Istmo Lote3 Cotai Strip, The Parisian, Macao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -39899,10 +39832,10 @@
 }
 {
   "id": 238461,
-  "latitude": 22.145058,
-  "longitude": 113.565545,
+  "latitude": 22.143661,
+  "longitude": 113.5619583,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Estrada do Istmo, Lote 3, Cotai Strip, Macau",
+  "address": "Estrada do Istmo Lote3 Cotai Strip, The Parisian, Macao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -41436,7 +41369,7 @@
   "latitude": 22.213758437308833,
   "longitude": 113.54976744966814,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua da Serenidade, No.117, Edf. Pak Lai (Block C) R/C, Macau",
+  "address": "Rua da Serenidade, No 117, Edf. Pak Lai (Block C) R/C, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -41456,10 +41389,10 @@
 }
 {
   "id": 264902,
-  "latitude": 22.189839,
-  "longitude": 113.545645,
+  "latitude": 22.1898608,
+  "longitude": 113.5456044,
   "bank": "Bank of China (Macau) Limited",
-  "address": "1st floor, No.197-223 Avenida da, Amizade, Edf. Centro Commercial San Kin Yip, Macau",
+  "address": "No.197-223 Avenida da Amizade, Edf. Centro Commercial San Kin Yip, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -42129,10 +42062,10 @@
 }
 {
   "id": 274861,
-  "latitude": 22.149423,
-  "longitude": 113.566592,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -42350,10 +42283,10 @@
 }
 {
   "id": 278209,
-  "latitude": 22.1492208,
-  "longitude": 113.56658659999994,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -42407,10 +42340,10 @@
 }
 {
   "id": 278219,
-  "latitude": 22.192392,
-  "longitude": 113.54038300000002,
+  "latitude": 22.1847323,
+  "longitude": 113.5373795,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No. 437, AV Doutor Stanley Ho, Edf dos Juizos Criminais do Tribunal Judicial de Base, Macau ",
+  "address": "N.347, Avenida Doutor Stanley Ho, Edificio dos Juizos Criminais do Tribunal Judicial de Base, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -42430,10 +42363,10 @@
 }
 {
   "id": 278221,
-  "latitude": 22.2132904,
-  "longitude": 113.53720210000006,
+  "latitude": 22.2116369,
+  "longitude": 113.5393721,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.14-17, Estrada Marginal da Ilha Verde, Macau ",
+  "address": "No.14-17, Estrada Marginal da Ilha Verde, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -43221,8 +43154,8 @@
 }
 {
   "id": 288385,
-  "latitude": 22.195558,
-  "longitude": 113.554401,
+  "latitude": 22.1994559031307,
+  "longitude": 113.54924630139695,
   "bank": "Bank of China (Macau) Limited",
   "address": "Estrada da Vitoria, Edificio de Servicos do Comissariado de Transito de Macau",
   "tran": [
@@ -43886,10 +43819,10 @@
 }
 {
   "id": 291839,
-  "latitude": 22.149463,
-  "longitude": 113.566551,
+  "latitude": 22.1492274,
+  "longitude": 113.5666788,
   "bank": "Bank of China (Macau) Limited",
-  "address": "City Of Dreams, Estrada Do Istmo, Na Zona De Aterro Entre As Ilhas De Coloane E Da Taipa, Cotai Strip, Taipa, Macau",
+  "address": "City of Dreams Estrada do Istmo, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -46203,7 +46136,7 @@
   "latitude": 22.2016,
   "longitude": 113.5762,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
+  "address": "Edificio do Posto Fronteirico da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -46227,7 +46160,7 @@
   "latitude": 22.2016,
   "longitude": 113.5762,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Estedo Posto Fronteico da Ponte Hong Kong-Zhuhai-Macau",
+  "address": "Edificio do Posto Fronteirico da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47264,7 +47197,7 @@
   "latitude": 22.1491289,
   "longitude": 113.56658919999995,
   "bank": "Bank of China (Macau) Limited",
-  "address": "F292, Level 2, City of Dreams, Estrada do Istmo, Cotai, Macau",
+  "address": "F292, Level 2, City of Dreams Estrada do Istmo, Cotai Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47288,7 +47221,7 @@
   "latitude": 22.1491289,
   "longitude": 113.56658919999995,
   "bank": "Bank of China (Macau) Limited",
-  "address": "F292, Level 2, City of Dreams, Estrada do Istmo, Cotai, Macau",
+  "address": "F292, Level 2, City of Dreams Estrada do Istmo, Cotai Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47311,7 +47244,7 @@
   "latitude": 22.1491289,
   "longitude": 113.56658919999995,
   "bank": "Bank of China (Macau) Limited",
-  "address": " F292, Level 2, City of Dreams, Estrada do Istmo, Cotai, Macau",
+  "address": "F292, Level 2, City of Dreams Estrada do Istmo, Cotai Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47623,7 +47556,7 @@
   "latitude": null,
   "longitude": null,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47666,7 +47599,7 @@
   "latitude": 22.18986100000002,
   "longitude": 113.54296863558193,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida  Dr. Mario Soares, Edificio Banco Da China, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47706,7 +47639,7 @@
   "latitude": 22.18986596711539,
   "longitude": 113.54290426256557,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Dr. Mario Soares, Edificio Banco Da China, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47728,7 +47661,7 @@
   "latitude": 22.18986596711539,
   "longitude": 113.54295790674587,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida Dr. Mario Soares, Edificio Banco Da China, Macau",
+  "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -47767,7 +47700,7 @@
   "latitude": 22.2035127,
   "longitude": 113.53833140000006,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Marcado do Patane, Avenida de Demetrio Cintatti, Macao",
+  "address": "Patane Market, Avenida de Demetrio Cinatti, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -48202,7 +48135,7 @@
   "latitude": 22.2015879,
   "longitude": 113.54599570000005,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.61-63, Rua Francisco Xavier Pereira, R/C, Macau",
+  "address": "No. 61-63, Rua de Francisco Xavier Pereira, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -48225,7 +48158,7 @@
   "latitude": 22.2015879,
   "longitude": 113.54599570000005,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.61-63, Rua Francisco Xavier Pereira, R/C, Macau",
+  "address": "No. 61-63, Rua de Francisco Xavier Pereira, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49305,7 +49238,7 @@
   "latitude": 22.205136185331988,
   "longitude": 113.54154320989119,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Praia R/C-C Avenida Marginal do Lam Mau Macau",
+  "address": "The Praia R/C C-D, Avenida Marginal do Lam Mau, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49448,7 +49381,7 @@
   "latitude": 22.2054233,
   "longitude": 113.55365689999996,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua Do Padre Eugenio Taverna Avenida De Venceslau De Morais, Macao Daily News Building, Macau",
+  "address": "No.218,Avenida de Venceslau de Morais,Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49506,7 +49439,7 @@
   "latitude": 22.2061277,
   "longitude": 113.550567,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C L&M, No.11-13, Jardins Sun Yick, Rampa dos Cavaleiros, Macau",
+  "address": "R/C L,M, No. 11,13, Jardins Sun Yick , Rampa dos Cavaleiros, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49529,7 +49462,7 @@
   "latitude": 22.2061277,
   "longitude": 113.550567,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C L&M, No.11-13, Jardins Sun Yick, Rampa dos Cavaleiros, Macau",
+  "address": "R/C L,M, No. 11,13, Jardins Sun Yick , Rampa dos Cavaleiros, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49552,7 +49485,7 @@
   "latitude": 22.2061277,
   "longitude": 113.550567,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C L&M, No.11-13, Jardins Sun Yick, Rampa dos Cavaleiros, Macau",
+  "address": "R/C L,M, No. 11,13, Jardins Sun Yick , Rampa dos Cavaleiros, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49575,7 +49508,7 @@
   "latitude": 22.1577306,
   "longitude": 113.55823869999995,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.388, Rua De Evora, R/C, Taipa, Macau",
+  "address": "No. 388, Rua de Evora R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49598,7 +49531,7 @@
   "latitude": 22.1577306,
   "longitude": 113.55823869999995,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.388, Rua De Evora, R/C, Taipa, Macau",
+  "address": "No. 388, Rua de Evora R/C, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49621,7 +49554,7 @@
   "latitude": 22.2025398,
   "longitude": 113.54706110000006,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.33, Avenida Horta E Costa, R/C, Macau",
+  "address": "No. 33, Avenida Horta E Costa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49644,7 +49577,7 @@
   "latitude": 22.2025398,
   "longitude": 113.54706110000006,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.33, Avenida Horta E Costa, R/C, Macau",
+  "address": "No. 33, Avenida Horta E Costa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49690,7 +49623,7 @@
   "latitude": 22.2034443,
   "longitude": 113.54857620000007,
   "bank": "Bank of China (Macau) Limited",
-  "address": "EDF. ORIENTAL GARDEN, AVENIDA DO OUVIDOR ARRIAGA R/C-N,MACAU",
+  "address": "No. 52, Oriental Garden R/C N ,Avenida do Ouvidor Arriaga, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49713,7 +49646,7 @@
   "latitude": 22.2114337,
   "longitude": 113.54987849999998,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-D No.23 Rua Dois do Bairro Iao Hon Macau",
+  "address": "Mau Tan Res-Do-Chao D1, No 23, Rua Dois Bairro Iao Hon, Em Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49735,7 +49668,7 @@
   "latitude": 22.2000287,
   "longitude": 113.54534450000006,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.31 Rua de Sacadura Cabral Macau",
+  "address": "No.31, Rua de Sacadura Cabral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49758,7 +49691,7 @@
   "latitude": 22.21304073370468,
   "longitude": 113.55150553988119,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.279, Rua Da Tribuna, Edificio Wai Long, Bloco B, R/C, Macau",
+  "address": "No. 279 Edf. Wai Long R/C-B,Rua da Tribuna, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49782,7 +49715,7 @@
   "latitude": 22.21303825055697,
   "longitude": 113.55150285767218,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.279, Rua Da Tribuna, Edificio Wai Long, Bloco B, R/C, Macau",
+  "address": "No. 279 Edf. Wai Long R/C-B,Rua da Tribuna, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49822,7 +49755,7 @@
   "latitude": 22.2089939,
   "longitude": 113.553225,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.52, Rua Nova Da Areia Preta, Centro De Servicos Da RAEM, Macau",
+  "address": "No.52,Rua Nova Da Areia Preta, Centro De Serviaos Da RAEM, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49867,7 +49800,7 @@
   "latitude": 22.1955202,
   "longitude": 113.54470659999993,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.338-342, Rua Do Campo, R/C, Macau",
+  "address": "No. 338-342 R/C, Rua do Campo, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49891,7 +49824,7 @@
   "latitude": 22.1966365,
   "longitude": 113.54562669999996,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.22-24, Avenida do Conselheiro Ferreira de Almeida, Macau",
+  "address": "No. 22-24, Avenida do Conselheiro Ferreira de Almeida, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -49936,7 +49869,7 @@
   "latitude": 22.2095102,
   "longitude": 113.54454520000002,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.79, Avenida General Castelo Branco, R/C, Macau",
+  "address": "No. 79, Avenida do General Castelo Branco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -50057,7 +49990,7 @@
   "latitude": 22.1525718,
   "longitude": 113.56809999999996,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Sala N107, r/c, Bloco N, Universidade de Ciencia e Tecnologia de Macau Avenida Wai Long, Taipa, MACAU",
+  "address": "Room N107, R/C, Block N, Macau University of Science and Technology, Avenida Wai Long, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -50080,7 +50013,7 @@
   "latitude": 22.124287270302762,
   "longitude": 113.54411653041075,
   "bank": "Bank of China (Macau) Limited",
-  "address": "University of Macau Avenida da Universidade, University Mall, G/F",
+  "address": "University Mall, G/F Room 012, University of Macau, Avenida da Universidade, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -50127,7 +50060,7 @@
   "latitude": 22.192356,
   "longitude": 113.54058039999995,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
+  "address": "No. 13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -50150,7 +50083,7 @@
   "latitude": 22.192356,
   "longitude": 113.54058039999995,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.13 R/C, Avenida Almeida Ribeiro, Macau",
+  "address": "No. 13 R/C, Avenida Almeida Ribeiro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -50209,7 +50142,7 @@
   "latitude": 22.1925923,
   "longitude": 113.54806489999999,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.382, Avenida Do Dr. Rodrigo Rodrigues, Bloco A, R/C, Macau",
+  "address": "No. 382 A R/C, Avenida do Dr. Rodrigo Rodrigues, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -50566,8 +50499,8 @@
 }
 {
   "id": 382280,
-  "latitude": 22.1410008,
-  "longitude": 113.5613681,
+  "latitude": 22.1410632,
+  "longitude": 113.5617742,
   "bank": "Bank of China (Macau) Limited",
   "address": "Studio City, Avenida Cidade Nova Cotai, Macau",
   "tran": [
@@ -51375,7 +51308,7 @@
   "latitude": 22.2047706,
   "longitude": 113.5446709,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.103, Avenida Horta E Costa, R/C, Macau",
+  "address": "No. 103, Avenida Horta E Costa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -51398,7 +51331,7 @@
   "latitude": 22.2047706,
   "longitude": 113.5446709,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.103, Avenida Horta E Costa, R/C, Macau",
+  "address": "No. 103, Avenida Horta E Costa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -51422,7 +51355,7 @@
   "latitude": 22.21091693999936,
   "longitude": 113.54934177112924,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.41-43, Rua Um Do Bairro Iao Hon, R/C, Macau",
+  "address": "No. 41-43, Rua da Um do Bairro Iao Hon, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -51739,7 +51672,7 @@
   "latitude": 22.1470331,
   "longitude": 113.559839,
   "bank": "Bank of China (Macau) Limited",
-  "address": "The Venetian Macao-Resort-Hotel Staff Corridor Estrada Da Baia De Nossa Senhora De Esperanca, S/N, Cotai Strip, Taipa, Macau",
+  "address": "The Venetian Macao Resort Hotel, Baia de Nossa Senhora de Esperance, Estrada da Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -51781,7 +51714,7 @@
   "latitude": 22.1908739,
   "longitude": 113.5347091,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Rua De Joao Lecaros, Mercado De S. Lourenco, Macau",
+  "address": "Rua de Joao Lecaros, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -51822,7 +51755,7 @@
   "latitude": 22.1609326,
   "longitude": 113.54417,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida dos Jardins do Oceano no.522-550 Taipa Macau",
+  "address": "No. 522-550, Avenida dos Jardins do Oceano, Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -51846,7 +51779,7 @@
   "latitude": 22.210706348702896,
   "longitude": 113.54305030174828,
   "bank": "Bank of China (Macau) Limited",
-  "address": "AVENIDA DO CONSELHEIRO BORJA, NO.435 ,MAYFAIR GARDEN R/C BK,MACAU",
+  "address": "No.435, R/C BK, Avenida Conselheiro Borja, Mayfair Garden, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -51870,7 +51803,7 @@
   "latitude": 22.19780816683447,
   "longitude": 113.53791635704309,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.91-95, Rua Cinco De Outubro, R/C, Macau",
+  "address": "No. 91-95, Rua Cinco de Outubro, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -51894,7 +51827,7 @@
   "latitude": 22.1909168,
   "longitude": 113.5350256,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.1, Rua Da Praia Do Manduco, R/C, Macau",
+  "address": "No. 1, Rua da Praia do Manduco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52118,10 +52051,10 @@
 }
 {
   "id": 399418,
-  "latitude": 22.2126418,
-  "longitude": 113.5440029,
+  "latitude": 22.213032896329718,
+  "longitude": 113.54412225830116,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Avenida do General Castelo Branco,No.646-652",
+  "address": "No.646-652(Edf. U.G.A.M.M.), Avenida do General Castelo Branco, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52145,7 +52078,7 @@
   "latitude": 22.2079592,
   "longitude": 113.5559182,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
+  "address": "No. 347 Bloco 3 R/C-C,D Edificio Kam Hoi San, Avenida Nordeste, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52169,7 +52102,7 @@
   "latitude": 22.2079592,
   "longitude": 113.5559182,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.347, Avenida Nordeste, Edificio Kam Hoi San, Bloco 3 C-D, R/C, Macau",
+  "address": "No. 347 Bloco 3 R/C-C,D Edificio Kam Hoi San, Avenida Nordeste, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52193,7 +52126,7 @@
   "latitude": 22.2019506,
   "longitude": 113.5379478,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.42, Rua De Ribeira De Patane, R/C, Macau",
+  "address": "No. 42 R/C, Rua de Ribeira de Patane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52235,7 +52168,7 @@
   "latitude": 22.2027018,
   "longitude": 113.5430194,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.49-51, Rua Da Barca, R/C, Macau",
+  "address": "No. 49-51 R/C, Rua da Barca, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52259,7 +52192,7 @@
   "latitude": 22.2027018,
   "longitude": 113.5430194,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.49-51, Rua Da Barca, R/C, Macau",
+  "address": "No. 49-51 R/C, Rua da Barca, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52283,7 +52216,7 @@
   "latitude": 22.2002825,
   "longitude": 113.5375491,
   "bank": "Bank of China (Macau) Limited",
-  "address": "RUA DA RIBEIRA DO PATANE, No 2-6,MACAU Edf. da F.A.O.M, Macau",
+  "address": "No. 2-6 Edf. da F.A.O.M, Rua Da Ribeira Do Patane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52377,7 +52310,7 @@
   "latitude": 22.202334541559445,
   "longitude": 113.5498929325409,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.20-26, Avenida Do Ouvidor De Arriaga, R/C, Macau",
+  "address": "No. 20-26, Avenida do Ouvidor Arriaga, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52401,7 +52334,7 @@
   "latitude": 22.202334541559445,
   "longitude": 113.5498929325409,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.20-26, Avenida Do Ouvidor De Arriaga, R/C, Macau",
+  "address": "No. 20-26, Avenida do Ouvidor Arriaga, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52444,7 +52377,7 @@
   "latitude": 22.199686432628653,
   "longitude": 113.54240902946512,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.67-71, Rua De Coelho Do Amaral, R/C, Macau",
+  "address": "No. 67-71, Rua de Coelho do Amaral, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52813,7 +52746,7 @@
   "latitude": 22.1270074,
   "longitude": 113.5580941,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C D.Praia Park,Estrada de Seac Pai Van, Coloane, Macau",
+  "address": "R/C D,Praia Park,Estrada de Seac Pai Van ,Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52837,7 +52770,7 @@
   "latitude": 22.1270074,
   "longitude": 113.5580941,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C D.Praia Park,Estrada de Seac Pai Van, Coloane, Macau",
+  "address": "R/C D,Praia Park,Estrada de Seac Pai Van ,Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -52861,7 +52794,7 @@
   "latitude": 22.1270074,
   "longitude": 113.5580941,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C D.Praia Park,Estrada de Seac Pai Van, Coloane, Macau",
+  "address": "R/C D,Praia Park,Estrada de Seac Pai Van ,Coloane, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -53266,7 +53199,7 @@
   "latitude": 22.1866552,
   "longitude": 113.5514048,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C N-O,No.1561-1659,The Carat,Avenida Dr.Sun Yat-Sen,Macau",
+  "address": "R/C N-O, No. 1561-1659, The Carat, Avenida Dr. Sun Yat-Sen, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -53290,7 +53223,7 @@
   "latitude": 22.1866552,
   "longitude": 113.5514048,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C N-O,No.1561-1659,The Carat,Avenida Dr.Sun Yat-Sen,Macau",
+  "address": "R/C N-O, No. 1561-1659, The Carat, Avenida Dr. Sun Yat-Sen, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -53768,35 +53701,11 @@
   ]
 }
 {
-  "id": 422777,
-  "latitude": 22.1946806,
-  "longitude": 113.5508967,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "Av do Dr Rodrigo Rodrigues,  Xinzhu Building, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 422778,
   "latitude": 22.2111827,
   "longitude": 113.5577605,
   "bank": "Bank of China (Macau) Limited",
-  "address": "R/C-Y,Z,AA,AB,AC,Rua da Perola Oriental,Villa de Mer,Macau",
+  "address": "R/C-Y, Z, AA, AB, AC, Rua Central da Areia Preta, Lote V, Villa de Mer, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -53817,10 +53726,10 @@
 }
 {
   "id": 422779,
-  "latitude": 22.1460615,
-  "longitude": 113.5656161,
+  "latitude": 22.1458478,
+  "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Shop 2145, Shoppes Cotai Central, Sands Cotai Central, Cotai Strip, Taip, Macau",
+  "address": "Shop 3015, Level 3, Shoppes at Londoner, The Cotai Strip, Taipa, Macau.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -54396,8 +54305,8 @@
 }
 {
   "id": 432640,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54419,8 +54328,8 @@
 }
 {
   "id": 432641,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54442,8 +54351,8 @@
 }
 {
   "id": 432642,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54465,31 +54374,8 @@
 }
 {
   "id": 432643,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 432644,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54511,8 +54397,8 @@
 }
 {
   "id": 432645,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54534,8 +54420,8 @@
 }
 {
   "id": 432646,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54557,8 +54443,8 @@
 }
 {
   "id": 432647,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54580,8 +54466,8 @@
 }
 {
   "id": 432648,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54603,8 +54489,8 @@
 }
 {
   "id": 432649,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54625,8 +54511,8 @@
 }
 {
   "id": 432650,
-  "latitude": 22.144177,
-  "longitude": 113.573961,
+  "latitude": 22.1445298,
+  "longitude": 113.5725571,
   "bank": "Bank of China (Macau) Limited",
   "address": "Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
   "tran": [
@@ -54773,7 +54659,7 @@
   "latitude": 22.1414877,
   "longitude": 113.572905,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Lisboeta Hotel, Rua da Patinagem, Cotai, Macau",
+  "address": "Lisboeta Macau, Rua da Patinagem, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -54796,7 +54682,7 @@
   "latitude": 22.1414877,
   "longitude": 113.572905,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Lisboeta Hotel, Rua da Patinagem, Cotai, Macau",
+  "address": "Lisboeta Macau, Rua da Patinagem, Cotai, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -55068,7 +54954,7 @@
   "latitude": 22.2127984,
   "longitude": 113.5418243,
   "bank": "Bank of China (Macau) Limited",
-  "address": "QingMao Port-Macau Frontier Port Building, Avenida do Comendador Ho Yin, Macau",
+  "address": "Avenida do Comendador Ho Yin Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -55303,7 +55189,7 @@
   "latitude": 22.2058739,
   "longitude": 113.5382355,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Bloco 2 R/C Waterfront Duet, Rua de Fai Chi Kei, Macau",
+  "address": "Bloco 2 R/C, Waterfront Duet, Rua de Fai Chi Kei, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -55327,7 +55213,7 @@
   "latitude": 22.2058739,
   "longitude": 113.5382355,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Bloco 2 R/C Waterfront Duet, Rua de Fai Chi Kei, Macau",
+  "address": "Bloco 2 R/C, Waterfront Duet, Rua de Fai Chi Kei, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -55593,7 +55479,7 @@
   "latitude": 22.191524,
   "longitude": 113.548875,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.555 Avenida da Amizade,Macau",
+  "address": "Avenida da Amizade 555, New Oriental Landmark Hotel, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -56460,7 +56346,7 @@
   "latitude": 22.1482976,
   "longitude": 113.5689891,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Cotai East Station,Avenida do Aeroporto da Taipa",
+  "address": "Avenida da Nave Desportiva da Taipa Metro Ligeir de Cotai Leste Estacao",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -56483,7 +56369,7 @@
   "latitude": 22.2130457,
   "longitude": 113.5514814,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.279, Rua Da Tribuna, Edificio Wai Long, Bloco B, R/C, Macau",
+  "address": "No. 279 Edf. Wai Long R/C-B,Rua da Tribuna, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -56589,7 +56475,7 @@
   "latitude": 22.19157987937621,
   "longitude": 113.54902118039132,
   "bank": "Bank of China (Macau) Limited",
-  "address": "555 Avenida da aamizade, Macau",
+  "address": "Avenida da Amizade 555, New Oriental Landmark Hotel, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -56886,7 +56772,7 @@
   "latitude": 22.2047706,
   "longitude": 113.5446709,
   "bank": "Bank of China (Macau) Limited",
-  "address": "No.103, Avenida Horta E Costa, R/C, Macau",
+  "address": "No. 103, Avenida Horta E Costa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -57708,7 +57594,7 @@
   "latitude": 22.20258303602686,
   "longitude": 113.57528225529482,
   "bank": "Bank of China (Macau) Limited",
-  "address": "A entrada e saida no Auto Silo Este efectua se pela rua junto do Iado este do Posto Fronteirico de Macau da Ponte HKZM",
+  "address": "A entrada e saida no Auto Silo Este efectua se pela rua junto do Iado este do Posto Fronteirico de Macau da Ponte Hong Kong-Zhuhai-Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -58171,7 +58057,7 @@
   "latitude": 22.1635361,
   "longitude": 113.5607537,
   "bank": "Bank of China (Macau) Limited",
-  "address": "Auto-silo integrado no Edificio lat Seng da Habitacao Social,sito na Estrada Nordeste da Taipa, Macau",
+  "address": "Auto-silo integrado no Edificio lat Seng da Habitacao Social, sito na Estrada Nordeste da Taipa, Macau",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Bill Payment, Credit Card Payment and Charity Donation",
@@ -58605,6 +58491,27 @@
   "currencies": [
     "HKD",
     "MOP",
+    "RMB"
+  ]
+}
+{
+  "id": 765803,
+  "latitude": 22.38450203650433,
+  "longitude": 114.19117757483409,
+  "bank": "Shanghai Commercial Bank Limited",
+  "address": "1/F, Lek Yuen Plaza, 6 Lek Yuen Street, Shatin, NT.",
+  "tran": [
+    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
+    "Bill Payment, Credit Card Payment and Charity Donation",
+    "Interbank Transfer",
+    "FISC",
+    "CIRRUS",
+    "CUP",
+    "JCB",
+    "PLUS"
+  ],
+  "currencies": [
+    "HKD",
     "RMB"
   ]
 }

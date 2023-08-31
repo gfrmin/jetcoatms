@@ -2,7 +2,7 @@
   "id": 353,
   "latitude": 22.248265,
   "longitude": 114.154461,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop 3, G/F, 2/4 & 14/16 Nam Ning Street,Aberdeen Centre (Site 4), Aberdeen, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -877,7 +877,7 @@
   "id": 437,
   "latitude": 22.28189901492464,
   "longitude": 114.15753543376923,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "20 Pedder Street, Central, H.K",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -897,7 +897,7 @@
   "id": 438,
   "latitude": 22.281928798048614,
   "longitude": 114.15751129388809,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "20 Pedder Street, Central, H.K",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -917,7 +917,7 @@
   "id": 439,
   "latitude": 22.284758165897983,
   "longitude": 114.15574640035629,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "125A Des Voeux Road C., Central, H.K.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -1712,7 +1712,7 @@
   "id": 538,
   "latitude": 22.2626857,
   "longitude": 114.2367963,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F., 121-121A Wan Tsui Road, Chai Wan Cinema Building, Chaiwan, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -1732,7 +1732,7 @@
   "id": 539,
   "latitude": 22.262836514633474,
   "longitude": 114.24876809120178,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop No.217A-217B, Shopping Centre, Siu Sai Wan Estate, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -2163,7 +2163,7 @@
   "id": 586,
   "latitude": 22.29096768301195,
   "longitude": 114.20000553131104,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shops Nos. 1-4 on G/F., Maylun Apartments, 442-456 King's Road, North Point, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -2183,7 +2183,7 @@
   "id": 587,
   "latitude": 22.28571616694843,
   "longitude": 114.19285744428635,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F, Kailey Court, 67-71 King's Road, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -2637,7 +2637,7 @@
   "id": 629,
   "latitude": 22.286594742451705,
   "longitude": 114.21738624572754,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop 38, G/F., CityPlaza 2, 18 Taikoo Shing Road, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -2657,7 +2657,7 @@
   "id": 630,
   "latitude": 22.286468168355224,
   "longitude": 114.21083092689514,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shops 3 and 4 on G/F., 981A-981F King's Road, Chung Hing Mansion, Quarry Bay, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -3029,7 +3029,7 @@
   "id": 669,
   "latitude": 22.277607696842463,
   "longitude": 114.2302393913269,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shops 2-3, G/F, Tung Fai Building, 161-165 Shau Kei Wan Main Street East, Shaukiwan",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -3399,7 +3399,7 @@
   "id": 708,
   "latitude": 22.276771259186624,
   "longitude": 114.1705870628357,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "32-34 Johnston Road, Wanchai, Hong Kong.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -3419,7 +3419,7 @@
   "id": 709,
   "latitude": 22.278528517082208,
   "longitude": 114.1794866323471,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "368 Hennessy Road, Wanchai, H.K.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -3439,7 +3439,7 @@
   "id": 710,
   "latitude": 22.280600960941374,
   "longitude": 114.18043076992035,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Bank of Communications Tower, 231-235 Gloucester Road, Wanchai.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -4017,7 +4017,7 @@
   "id": 776,
   "latitude": 22.286974464053507,
   "longitude": 114.14154946804047,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F., 327-333 Queen's Road West, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -4037,7 +4037,7 @@
   "id": 777,
   "latitude": 22.28259395283123,
   "longitude": 114.12809818983078,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F., 113-119 Belcher's Street, Kennedy Town, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -4409,7 +4409,7 @@
   "id": 805,
   "latitude": 22.337118,
   "longitude": 114.148737,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Unit G04, Cheung Sha Wan Plaza, 833 Cheung Sha Wan RD. KLN.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -4677,7 +4677,7 @@
   "id": 838,
   "latitude": 22.306425749976075,
   "longitude": 114.18735086917877,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop A6, G/F., Whampoa Estate Planet Square, 1-3 Tak Man Street, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -5490,7 +5490,7 @@
   "id": 914,
   "latitude": 22.318472872392295,
   "longitude": 114.18739914894104,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop 1-3, G/F, 370-376 Ma Tau Wai Road, Hunghom.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -5725,7 +5725,7 @@
   "id": 938,
   "latitude": 22.309824,
   "longitude": 114.225942,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop E, Block G & H, G/F, East Sun Industrial Centre, 16 Shing Yip Street, Kwun Tong, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -6475,7 +6475,7 @@
   "id": 1010,
   "latitude": 22.30872607382459,
   "longitude": 114.23410713672638,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop No.5 & 9, G/F., Kai Tin Towers, 51-67C Kai Tin Road, Lam Tin, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -6860,7 +6860,7 @@
   "id": 1044,
   "latitude": 22.314569768199487,
   "longitude": 114.17019814252853,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F, 563 Nathan Road, Kln.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -6880,7 +6880,7 @@
   "id": 1045,
   "latitude": 22.321674,
   "longitude": 114.168847,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F and 1/F, Shun Wah Building, Nos.735 & 735A Nathan Road, Mongkok, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -7452,7 +7452,7 @@
   "id": 1115,
   "latitude": 22.323884433859643,
   "longitude": 114.21601295471191,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop G1-G2 G/F, Phase 1 Amoy Plaza , 77 Ngan Tau Kok Road , KLW",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -7472,7 +7472,7 @@
   "id": 1116,
   "latitude": 22.323857140862042,
   "longitude": 114.21601295471191,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop G1-G2 G/F, Phase 1 Amoy Plaza , 77 Ngan Tau Kok Road , KLW",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -7812,7 +7812,7 @@
   "id": 1142,
   "latitude": 22.332449209008434,
   "longitude": 114.1619423031807,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop G1, G/F, Golden Centre, 94 Yen Chow Sreet Sham Shui Po, Kowloon.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -8573,7 +8573,7 @@
   "id": 1215,
   "latitude": 22.29707765798373,
   "longitude": 114.17409539222717,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop Nos.1-3 on G/F., CFC Tower, 22-28 Mody Road, Tsimshatsui, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -8931,7 +8931,7 @@
   "id": 1279,
   "latitude": 22.341849511184808,
   "longitude": 114.19091820716858,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop N118, 1/F, Temple Mall North, 136 Lung Cheung Road, Wong Tai Sin, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -9453,7 +9453,7 @@
   "id": 1333,
   "latitude": 22.485784071165288,
   "longitude": 114.14152264595032,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop No.84A-84B, G/F., Flora Plaza, Fanling, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -9716,7 +9716,7 @@
   "id": 1360,
   "latitude": 22.365596777607884,
   "longitude": 114.1384568810463,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F., 93-99 Tai Loong Street, Kwai Chung, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -10223,7 +10223,7 @@
   "id": 1413,
   "latitude": 22.425293,
   "longitude": 114.231356,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop No. 303-304, Level 3, Ma On Shan Plaza, 608 Sai Sha Road, Ma On Shan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -10593,7 +10593,7 @@
   "id": 1449,
   "latitude": 22.380684470328507,
   "longitude": 114.21533167362213,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Rm 1 & 2, G/F., Commercial Block 2, Kwong Yuen Estate, Shatin, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -10613,7 +10613,7 @@
   "id": 1450,
   "latitude": 22.382291611296548,
   "longitude": 114.19117569923401,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop No.193, Level 3, Lucky Plaza, 1-15 Wang Pok Street, Shatin, N.T.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -11233,7 +11233,7 @@
   "id": 1513,
   "latitude": 22.50094543479158,
   "longitude": 114.12955462932587,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shops 1010-1014, G/F., Sheung Shui Centre, Sheung Shui, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -11490,7 +11490,7 @@
   "id": 1540,
   "latitude": 22.453170857413948,
   "longitude": 114.16563838720322,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop 1, Wing Fai Garden, 29-35 Ting Kok Rd., Taipo, N.T.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -12120,7 +12120,7 @@
   "id": 1592,
   "latitude": 22.456944,
   "longitude": 114.005157,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shops 106A, 106B1, 106C and 107, 1/F, Phase 2, Fortune Kingswood, 12-18 Tin Yan Road, Tin Shui Wai, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -12257,7 +12257,7 @@
   "id": 1611,
   "latitude": 22.321557066337576,
   "longitude": 114.25763815641403,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop Nos. 252A, 252B & 253 on Level 2, Metro City Phase I, Tseung Kwan O, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -12277,7 +12277,7 @@
   "id": 1612,
   "latitude": 22.305276814598994,
   "longitude": 114.25285041332245,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Unit L2-064 & 065, Metro Town Shopping Mall, 8 King Ling Road, Tseung Kwan O",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -12924,7 +12924,7 @@
   "id": 1674,
   "latitude": 22.368880840094825,
   "longitude": 114.11806672811508,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop G9B and G10-11 on G/F, Bo Shek Mansion, 328 Sha Tsui Road, Tsuen Wan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -12944,7 +12944,7 @@
   "id": 1675,
   "latitude": 22.371383521505074,
   "longitude": 114.11766976118088,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F., 49-55 Tsuen Wan Market Street, Tsuen Wan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -12964,7 +12964,7 @@
   "id": 1676,
   "latitude": 22.372400455506096,
   "longitude": 114.11155164241791,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shops Nos. 3-5 on G/F., Kwong Ming Building, 120-130 Sha Tsui Road, Tsuen Wan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -13528,7 +13528,7 @@
   "id": 1729,
   "latitude": 22.395649012014548,
   "longitude": 113.97490918636322,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Blk 7, Nin Wong Bldg., 4 Yan Ching St., Tuen Mun, N.T.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -14062,7 +14062,7 @@
   "id": 1793,
   "latitude": 22.445716676583938,
   "longitude": 114.02999639511108,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Man Yue Bldg., 2 Tai Fung St., Yuen Long, N.T.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -17666,8 +17666,8 @@
 }
 {
   "id": 2229,
-  "latitude": 22.189799162505608,
-  "longitude": 113.54297697544098,
+  "latitude": 22.1898676,
+  "longitude": 113.5429805,
   "bank": "Bank of China (Macau) Limited",
   "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
@@ -17689,8 +17689,8 @@
 }
 {
   "id": 2231,
-  "latitude": 22.189709754359544,
-  "longitude": 113.54293942451477,
+  "latitude": 22.1898676,
+  "longitude": 113.5429805,
   "bank": "Bank of China (Macau) Limited",
   "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
@@ -17713,8 +17713,8 @@
 }
 {
   "id": 2232,
-  "latitude": 22.18979171182893,
-  "longitude": 113.54297161102295,
+  "latitude": 22.1898676,
+  "longitude": 113.5429805,
   "bank": "Bank of China (Macau) Limited",
   "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
@@ -17735,8 +17735,8 @@
 }
 {
   "id": 2233,
-  "latitude": 22.189799162505608,
-  "longitude": 113.54299306869507,
+  "latitude": 22.1898676,
+  "longitude": 113.5429805,
   "bank": "Bank of China (Macau) Limited",
   "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
@@ -20504,7 +20504,7 @@
   "id": 14901,
   "latitude": 22.321674,
   "longitude": 114.168847,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F and 1/F, Shun Wah Building, Nos.735 & 735A Nathan Road, Mongkok, Kowloon",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -21141,8 +21141,8 @@
 }
 {
   "id": 27934,
-  "latitude": 22.1857611,
-  "longitude": 113.5492948,
+  "latitude": 22.185475,
+  "longitude": 113.547884,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
@@ -21541,8 +21541,8 @@
 }
 {
   "id": 33265,
-  "latitude": 22.1857611,
-  "longitude": 113.5492948,
+  "latitude": 22.185475,
+  "longitude": 113.547884,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
@@ -21563,8 +21563,8 @@
 }
 {
   "id": 33268,
-  "latitude": 22.18537835824329,
-  "longitude": 113.5490870475769,
+  "latitude": 22.185475,
+  "longitude": 113.547884,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
@@ -21585,8 +21585,8 @@
 }
 {
   "id": 33269,
-  "latitude": 22.185934691824468,
-  "longitude": 113.54973077774048,
+  "latitude": 22.185475,
+  "longitude": 113.547884,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
@@ -21920,7 +21920,7 @@
   "id": 38678,
   "latitude": 22.368545988327234,
   "longitude": 114.11301076412201,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop No.8, 1/F (Level 2), Nina Tower , No.8, Yeung Uk Road , Tsuen Wan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -21940,7 +21940,7 @@
   "id": 38679,
   "latitude": 22.368580713733152,
   "longitude": 114.11292225122452,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop No.8, 1/F (Level 2), Nina Tower , No.8, Yeung Uk Road , Tsuen Wan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -22020,8 +22020,8 @@
 }
 {
   "id": 38692,
-  "latitude": 22.18567639436431,
-  "longitude": 113.54844331741333,
+  "latitude": 22.185475,
+  "longitude": 113.547884,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
@@ -22042,8 +22042,8 @@
 }
 {
   "id": 38693,
-  "latitude": 22.18587011750395,
-  "longitude": 113.54845941066742,
+  "latitude": 22.185475,
+  "longitude": 113.547884,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida Dr. Sun Yat Sen, MGM Macau, NAPE, Macau",
   "tran": [
@@ -23468,26 +23468,6 @@
   ]
 }
 {
-  "id": 74603,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 74604,
   "latitude": 22.1458478,
   "longitude": 113.5653752,
@@ -23533,26 +23513,6 @@
   "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
   "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 74607,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -24451,7 +24411,7 @@
   "id": 89150,
   "latitude": 22.38282,
   "longitude": 114.20349,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop No. 188, 1/F., Fortune City One, City One Shatin, N.T.",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -24545,26 +24505,6 @@
     "HKD",
     "MOP",
     "RMB"
-  ]
-}
-{
-  "id": 89163,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
   ]
 }
 {
@@ -24678,26 +24618,6 @@
   ]
 }
 {
-  "id": 89177,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 89178,
   "latitude": 22.1458478,
   "longitude": 113.5653752,
@@ -24738,46 +24658,6 @@
   ]
 }
 {
-  "id": 89180,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 89181,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 89182,
   "latitude": 22.1458478,
   "longitude": 113.5653752,
@@ -24798,71 +24678,11 @@
   ]
 }
 {
-  "id": 89183,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
   "id": 89184,
   "latitude": 22.1458478,
   "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
   "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 89185,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 89186,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -24923,46 +24743,6 @@
   "longitude": 113.5653752,
   "bank": "Bank of China (Macau) Limited",
   "address": "Estrada do Istmo, Parcela 5 & 6, The Londoner Macao, Cotai, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 89190,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Diners Club",
-    "Discover",
-    "FISC",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD"
-  ]
-}
-{
-  "id": 89191,
-  "latitude": 22.141509,
-  "longitude": 113.5639273,
-  "bank": "Bank of China (Macau) Limited",
-  "address": "The Londoner Macao Hotel, Estrada Do Istmo, Parcela 5&6, Cotai ",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
     "Diners Club",
@@ -30666,7 +30446,7 @@
   "id": 183826,
   "latitude": 22.284681,
   "longitude": 114.15817700000002,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": " HOK ATM 11 at Hong Kong Station",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -31106,7 +30886,7 @@
   "id": 189976,
   "latitude": 22.2768375,
   "longitude": 114.1706269,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "G/F., 32-34 Johnston Road, Hong Kong",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -33751,8 +33531,8 @@
 }
 {
   "id": 193394,
-  "latitude": 22.14205327458713,
-  "longitude": 113.56310075916895,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
@@ -33773,8 +33553,8 @@
 }
 {
   "id": 193395,
-  "latitude": 22.142038368173633,
-  "longitude": 113.56309539475092,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
@@ -33796,8 +33576,8 @@
 }
 {
   "id": 193396,
-  "latitude": 22.142018492953138,
-  "longitude": 113.56303102173456,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
@@ -33819,8 +33599,8 @@
 }
 {
   "id": 193397,
-  "latitude": 22.141958867274887,
-  "longitude": 113.56303102173456,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
@@ -34029,8 +33809,8 @@
 }
 {
   "id": 196726,
-  "latitude": 22.140209836146678,
-  "longitude": 113.56311685242304,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
@@ -34052,8 +33832,8 @@
 }
 {
   "id": 196727,
-  "latitude": 22.140170085186735,
-  "longitude": 113.56311685242304,
+  "latitude": 22.1897402,
+  "longitude": 113.5480296,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida de Amizade, Star World Hotel, Macau",
   "tran": [
@@ -34074,8 +33854,8 @@
 }
 {
   "id": 196728,
-  "latitude": 22.14032908895916,
-  "longitude": 113.5630739370788,
+  "latitude": 22.1489092,
+  "longitude": 113.5543443,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida De Cotai, Galaxy Macau, Cotai City, Macau",
   "tran": [
@@ -35276,8 +35056,8 @@
 }
 {
   "id": 206083,
-  "latitude": 22.1284934,
-  "longitude": 113.56230630000005,
+  "latitude": 22.1288011,
+  "longitude": 113.56248,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida de Vale das Borboletas, complexo de habitacao publica de Seac Pai Van, R/C ,Coloane, Macau",
   "tran": [
@@ -36922,8 +36702,8 @@
 }
 {
   "id": 222056,
-  "latitude": 22.1899283,
-  "longitude": 113.54277660000002,
+  "latitude": 22.1898676,
+  "longitude": 113.5429805,
   "bank": "Bank of China (Macau) Limited",
   "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
@@ -36945,8 +36725,8 @@
 }
 {
   "id": 222057,
-  "latitude": 22.1899283,
-  "longitude": 113.54277660000002,
+  "latitude": 22.1898676,
+  "longitude": 113.5429805,
   "bank": "Bank of China (Macau) Limited",
   "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
@@ -38291,7 +38071,7 @@
   "id": 231831,
   "latitude": 22.425288,
   "longitude": 114.231351,
-  "bank": "Bank of Communications Co., Ltd. Hong Kong Branch",
+  "bank": "Bank of Communications Co., Ltd.",
   "address": "Shop No. 303-304, Level 3, Ma On Shan Plaza, 608 Sai Sha Road, Ma On Shan, New Territories",
   "tran": [
     "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
@@ -47596,8 +47376,8 @@
 }
 {
   "id": 344317,
-  "latitude": 22.18986100000002,
-  "longitude": 113.54296863558193,
+  "latitude": 22.1898676,
+  "longitude": 113.5429805,
   "bank": "Bank of China (Macau) Limited",
   "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
@@ -47636,8 +47416,8 @@
 }
 {
   "id": 344319,
-  "latitude": 22.18986596711539,
-  "longitude": 113.54290426256557,
+  "latitude": 22.1898676,
+  "longitude": 113.5429805,
   "bank": "Bank of China (Macau) Limited",
   "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
@@ -47658,8 +47438,8 @@
 }
 {
   "id": 344320,
-  "latitude": 22.18986596711539,
-  "longitude": 113.54295790674587,
+  "latitude": 22.1898676,
+  "longitude": 113.5429805,
   "bank": "Bank of China (Macau) Limited",
   "address": "Bank of China Building, Avenida Doutor Mario Soares, Macau",
   "tran": [
@@ -55476,8 +55256,8 @@
 }
 {
   "id": 461010,
-  "latitude": 22.191524,
-  "longitude": 113.548875,
+  "latitude": 22.1912998,
+  "longitude": 113.5486641,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida da Amizade 555, New Oriental Landmark Hotel, Macau",
   "tran": [
@@ -56472,8 +56252,8 @@
 }
 {
   "id": 545008,
-  "latitude": 22.19157987937621,
-  "longitude": 113.54902118039132,
+  "latitude": 22.1912998,
+  "longitude": 113.5486641,
   "bank": "Bank of China (Macau) Limited",
   "address": "Avenida da Amizade 555, New Oriental Landmark Hotel, Macau",
   "tran": [

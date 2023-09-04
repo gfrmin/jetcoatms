@@ -54810,27 +54810,6 @@
   ]
 }
 {
-  "id": 445748,
-  "latitude": 22.1919288,
-  "longitude": 113.5500111,
-  "bank": "Banco Nacional Ultramarino, S.A.",
-  "address": "Alameda Dr Carlos Assumpao No.711 R/C, Macau",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Interbank Transfer",
-    "CIRRUS",
-    "CUP",
-    "JCB",
-    "PLUS"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP",
-    "RMB"
-  ]
-}
-{
   "id": 445749,
   "latitude": 22.3700655,
   "longitude": 114.1138278,

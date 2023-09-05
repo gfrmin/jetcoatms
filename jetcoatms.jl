@@ -46891,46 +46891,6 @@
   ]
 }
 {
-  "id": 337314,
-  "latitude": 22.1953393,
-  "longitude": 113.55441189999999,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Hotel Golden Dragon (Lobby), Rua de Malaca",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
-  "id": 337315,
-  "latitude": 22.1953393,
-  "longitude": 113.55441189999999,
-  "bank": "Industrial and Commercial Bank of China (Macau) Limited",
-  "address": "Hotel Golden Dragon (Lobby), Rua de Malaca",
-  "tran": [
-    "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services",
-    "Bill Payment, Credit Card Payment and Charity Donation",
-    "Diners Club",
-    "Interbank Transfer",
-    "Discover",
-    "CIRRUS",
-    "JCB"
-  ],
-  "currencies": [
-    "HKD",
-    "MOP"
-  ]
-}
-{
   "id": 337316,
   "latitude": 22.148382502728637,
   "longitude": 113.55935246361537,
